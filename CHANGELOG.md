@@ -9,6 +9,9 @@ The format is based on Keep a Changelog and this project follows Semantic Versio
 ### Added
 - Created this changelog to track repository changes.
 
+### Changed
+- Added a .gitignore rule for best-of-github.code-workspace so the workspace file is not committed or pushed.
+
 ## [2026-06-10]
 
 ### Added
