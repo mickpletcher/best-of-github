@@ -1,6 +1,6 @@
 # Best of GitHub
 
-A categorized list of favorite GitHub projects, focused on useful AI engineering, agent tooling, document processing, web automation, and security resources.
+Best of GitHub is a curated catalog of standout open-source projects for AI engineering, coding agents, document processing, web automation, media tooling, and security. It highlights practical repositories worth exploring, with current star counts and short notes explaining why each project is useful or interesting.
 
 Star counts were refreshed on 2026-06-10.
 
