@@ -11,11 +11,12 @@ The format is based on Keep a Changelog and this project follows Semantic Versio
 
 ### Changed
 - Added a .gitignore rule for best-of-github.code-workspace so the workspace file is not committed or pushed.
+- Categorized the private initial list and expanded README.md into a public project catalog with links, descriptions, and GitHub star counts.
 
 ## [2026-06-10]
 
 ### Added
-- Added .gitignore with an ignore rule for Initial_List.md so it is not committed or pushed.
+- Added .gitignore with an ignore rule for initial-list.md so it is not committed or pushed.
 
 ### Changed
-- Moved ignore behavior for Initial_List.md from local .git/info/exclude to shared .gitignore.
+- Moved ignore behavior for initial-list.md from local .git/info/exclude to shared .gitignore.
