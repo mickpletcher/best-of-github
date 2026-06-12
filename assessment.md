@@ -12,7 +12,7 @@ Best of GitHub is a documentation-first repository for highlighting useful open-
 - Automated weekly ranking: [weeklytoplist.md](weeklytoplist.md)
 - Weekly ranking generator: [scripts/update_weekly_top50.py](scripts/update_weekly_top50.py)
 - Scheduled workflow: [.github/workflows/weekly-top50.yml](.github/workflows/weekly-top50.yml)
-- Upgrade backlog: [future-upgrades.md](future-upgrades.md)
+- Local upgrade backlog: `future-upgrades.md` is ignored by Git and kept only on this laptop.
 - Completed upgrades: [completed-upgrades.md](completed-upgrades.md)
 - Change history: [CHANGELOG.md](CHANGELOG.md)
 
@@ -24,6 +24,7 @@ Best of GitHub is a documentation-first repository for highlighting useful open-
 - Upgrade planning, completed work, and repo assessment now have dedicated reference files.
 - The weekly report is grouped into practical technology categories while preserving each repository's overall star rank.
 - The weekly report category summary links directly to each generated category section.
+- Future upgrade planning remains available locally without publishing the backlog to GitHub.
 
 ## Risks and Gaps
 
@@ -37,6 +38,6 @@ Best of GitHub is a documentation-first repository for highlighting useful open-
 
 - Update this assessment whenever the repository changes.
 - Log every repository change in [CHANGELOG.md](CHANGELOG.md).
-- When an item from [future-upgrades.md](future-upgrades.md) is implemented, move it to [completed-upgrades.md](completed-upgrades.md).
+- When an item from local-only `future-upgrades.md` is implemented, move it to [completed-upgrades.md](completed-upgrades.md).
 - Replace each implemented future-upgrades item with a new suggested upgrade in the appropriate tier.
 - Keep README references current when new key files or workflows are added.

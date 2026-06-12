@@ -24,6 +24,8 @@ The format is based on Keep a Changelog and this project follows Semantic Versio
 - Renamed the generated weekly ranking file from WeeklyTop50.md to weeklytoplist.md and updated repository references.
 - Changed generated repository links in weeklytoplist.md to HTML anchors with target="_blank" and rel="noopener noreferrer" for renderers that support new-tab link attributes.
 - Updated README.md, completed-upgrades.md, and assessment.md to reflect the future-upgrades replenishment process.
+- Removed future-upgrades.md from Git tracking so the future backlog remains local to the laptop.
+- Updated README.md, completed-upgrades.md, and assessment.md to describe future-upgrades.md as a local-only file.
 
 ## [2026-06-10]
 

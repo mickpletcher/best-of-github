@@ -1,6 +1,6 @@
 # Completed Upgrades
 
-Completed upgrades are moved here from [future-upgrades.md](future-upgrades.md). Each completed item should also be represented in [CHANGELOG.md](CHANGELOG.md), and [assessment.md](assessment.md) should be refreshed in the same change.
+Completed upgrades are moved here from the local-only `future-upgrades.md` backlog. Each completed item should also be represented in [CHANGELOG.md](CHANGELOG.md), and [assessment.md](assessment.md) should be refreshed in the same change.
 
 ## 2026-06-12
 
@@ -13,3 +13,4 @@ Completed upgrades are moved here from [future-upgrades.md](future-upgrades.md).
 - Changed generated repository links in `weeklytoplist.md` to HTML anchors with `target="_blank"` and `rel="noopener noreferrer"` for renderers that support new-tab link attributes.
 - Added category summary links in `weeklytoplist.md` so each summary row jumps to its matching category section.
 - Added the backlog replenishment rule requiring a new suggested future upgrade whenever an implemented item is moved to completed upgrades.
+- Made `future-upgrades.md` local-only by removing it from Git tracking and keeping it ignored.

@@ -8,7 +8,7 @@ For the current automated ranking, see the [weekly top 100 most-starred GitHub r
 
 ## Project References
 
-- [Future upgrades](future-upgrades.md): a replenished three-tier backlog of possible improvements.
+- Local future upgrades: `future-upgrades.md` is kept on this laptop only and is ignored by Git.
 - [Completed upgrades](completed-upgrades.md): implemented improvements moved out of the future-upgrades backlog.
 - [Repository assessment](assessment.md): a quick-reference assessment that is updated whenever the repo changes.
 - [Changelog](CHANGELOG.md): every repository change should be logged here.
