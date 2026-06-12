@@ -29,13 +29,13 @@ jobs:
 
       - name: Commit updated report
         run: |
-          if git diff --quiet -- WeeklyTop50.md; then
-            echo "WeeklyTop50.md is already current."
+          if git diff --quiet -- weeklytoplist.md; then
+            echo "weeklytoplist.md is already current."
             exit 0
           fi
 
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add WeeklyTop50.md
+          git add weeklytoplist.md
           git commit -m "Update weekly GitHub top 100"
           git push

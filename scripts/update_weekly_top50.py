@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Generate WeeklyTop50.md from GitHub's most-starred public repositories."""
+"""Generate weeklytoplist.md from GitHub's most-starred public repositories."""
 
 from __future__ import annotations
 
@@ -19,7 +19,7 @@ except ImportError:  # pragma: no cover - Python 3.8 fallback.
 
 
 GITHUB_SEARCH_URL = "https://api.github.com/search/repositories"
-OUTPUT_PATH = Path("WeeklyTop50.md")
+OUTPUT_PATH = Path("weeklytoplist.md")
 TOP_N = 100
 
 

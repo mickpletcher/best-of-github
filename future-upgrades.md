@@ -5,7 +5,6 @@ This file tracks planned improvements. When an upgrade is implemented, move it f
 ## Tier 1: High-Value, Low-Complexity
 
 - Add a small validation script that checks generated Markdown tables for row count, duplicate repositories, broken table formatting, and missing required columns.
-- Rename `WeeklyTop50.md` to `WeeklyTop100.md`, then add a compatibility link or note so older references remain understandable.
 - Add a generated timestamp and source query details to the weekly report footer for easier auditing.
 - Add a README table of contents once the project documentation grows beyond the current quick-reference sections.
 

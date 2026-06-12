@@ -9,7 +9,7 @@ Best of GitHub is a documentation-first repository for highlighting useful open-
 ## Current State
 
 - Primary catalog: [README.md](README.md)
-- Automated weekly ranking: [WeeklyTop50.md](WeeklyTop50.md)
+- Automated weekly ranking: [weeklytoplist.md](weeklytoplist.md)
 - Weekly ranking generator: [scripts/update_weekly_top50.py](scripts/update_weekly_top50.py)
 - Scheduled workflow: [.github/workflows/weekly-top50.yml](.github/workflows/weekly-top50.yml)
 - Upgrade backlog: [future-upgrades.md](future-upgrades.md)
@@ -25,7 +25,7 @@ Best of GitHub is a documentation-first repository for highlighting useful open-
 
 ## Risks and Gaps
 
-- `WeeklyTop50.md` now contains a top 100 list, so the filename no longer matches the report size.
+- The weekly workflow and script names still include `top50`, even though the generated report now contains the top 100 repositories.
 - There are no automated tests for the report generator.
 - The curated README catalog and generated weekly report use separate update paths.
 - Historical weekly snapshots are not retained.
