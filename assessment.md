@@ -11,6 +11,7 @@ Best of GitHub is a documentation-first repository for highlighting useful open-
 - Primary catalog: [README.md](README.md)
 - Automated weekly ranking: [weeklytoplist.md](weeklytoplist.md)
 - Weekly ranking generator: [scripts/update_weekly_top50.py](scripts/update_weekly_top50.py)
+- Weekly report validator: [scripts/validate_weekly_toplist.py](scripts/validate_weekly_toplist.py)
 - Scheduled workflow: [.github/workflows/weekly-top50.yml](.github/workflows/weekly-top50.yml)
 - Local upgrade backlog: `future-upgrades.md` is ignored by Git and kept only on this laptop.
 - Completed upgrades: [completed-upgrades.md](completed-upgrades.md)
@@ -25,11 +26,12 @@ Best of GitHub is a documentation-first repository for highlighting useful open-
 - The weekly report is grouped into practical technology categories while preserving each repository's overall star rank.
 - The weekly report category summary links directly to each generated category section.
 - Future upgrade planning remains available locally without publishing the backlog to GitHub.
+- Generated weekly reports now include source query details and are checked by a validation script.
 
 ## Risks and Gaps
 
 - The weekly workflow and script names still include `top50`, even though the generated report now contains the top 100 repositories.
-- There are no automated tests for the report generator.
+- There are no fixture-based unit tests for the report generator or validator.
 - The curated README catalog and generated weekly report use separate update paths.
 - Historical weekly snapshots are not retained.
 - GitHub Markdown may not honor `target="_blank"` link behavior even though the generated links include that attribute for compatible renderers.

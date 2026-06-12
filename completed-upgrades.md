@@ -14,3 +14,5 @@ Completed upgrades are moved here from the local-only `future-upgrades.md` backl
 - Added category summary links in `weeklytoplist.md` so each summary row jumps to its matching category section.
 - Added the backlog replenishment rule requiring a new suggested future upgrade whenever an implemented item is moved to completed upgrades.
 - Made `future-upgrades.md` local-only by removing it from Git tracking and keeping it ignored.
+- Added `scripts/validate_weekly_toplist.py` to validate generated Markdown tables, required columns, duplicate repositories, row counts, and source details.
+- Added generated timestamp and source query details to the `weeklytoplist.md` footer for easier auditing.

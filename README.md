@@ -15,7 +15,7 @@ For the current automated ranking, see the [weekly top 100 most-starred GitHub r
 
 ## Weekly Top 100
 
-The automated weekly scan is written to [weeklytoplist.md](weeklytoplist.md). It lists the top 100 public, non-fork, non-archived GitHub repositories sorted by star count and grouped by technology category, with a scheduled GitHub Actions workflow refreshing the file every Monday.
+The automated weekly scan is written to [weeklytoplist.md](weeklytoplist.md). It lists the top 100 public, non-fork, non-archived GitHub repositories sorted by star count and grouped by technology category, with a scheduled GitHub Actions workflow refreshing the file every Monday. The generated report includes source query details and is validated by [scripts/validate_weekly_toplist.py](scripts/validate_weekly_toplist.py).
 
 ## AI Coding Agents, Skills, and Plugins
 

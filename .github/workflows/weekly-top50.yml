@@ -27,6 +27,9 @@ jobs:
           SCAN_TIMEZONE: America/Chicago
         run: python scripts/update_weekly_top50.py
 
+      - name: Validate weekly top 100 report
+        run: python scripts/validate_weekly_toplist.py
+
       - name: Commit updated report
         run: |
           if git diff --quiet -- weeklytoplist.md; then
