@@ -269,6 +269,11 @@ def keyword_matches(searchable: str, keyword: str) -> bool:
     return keyword in searchable
 
 
+def heading_anchor(value: str) -> str:
+    anchor = re.sub(r"[^a-z0-9 -]", "", value.lower())
+    return re.sub(r"\s+", "-", anchor.strip())
+
+
 def group_repositories(repositories: list[dict]) -> dict[str, list[tuple[int, dict]]]:
     grouped = {category: [] for category in CATEGORY_ORDER}
     for rank, repository in enumerate(repositories, start=1):
@@ -296,7 +301,7 @@ def render_markdown(repositories: list[dict]) -> str:
     for category in CATEGORY_ORDER:
         count = len(grouped[category])
         if count:
-            lines.append(f"| {category} | {count} |")
+            lines.append(f"| [{category}](#{heading_anchor(category)}) | {count} |")
 
     for category in CATEGORY_ORDER:
         repositories_in_category = grouped[category]

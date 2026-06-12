@@ -23,6 +23,7 @@ Best of GitHub is a documentation-first repository for highlighting useful open-
 - The generator uses the GitHub API directly with Python standard library dependencies only.
 - Upgrade planning, completed work, and repo assessment now have dedicated reference files.
 - The weekly report is grouped into practical technology categories while preserving each repository's overall star rank.
+- The weekly report category summary links directly to each generated category section.
 
 ## Risks and Gaps
 

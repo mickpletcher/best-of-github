@@ -14,6 +14,7 @@ The format is based on Keep a Changelog and this project follows Semantic Versio
 - Added assessment.md as a quick-reference repository assessment that should be refreshed with every repo change.
 - Added README.md references to future-upgrades.md, completed-upgrades.md, assessment.md, and CHANGELOG.md.
 - Added category grouping to weeklytoplist.md so the top 100 repositories are easier to scan by technology area.
+- Added category summary links in weeklytoplist.md so each summary row jumps to its matching category section.
 
 ### Changed
 - Added a .gitignore rule for best-of-github.code-workspace so the workspace file is not committed or pushed.

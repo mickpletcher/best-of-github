@@ -11,3 +11,4 @@ Completed upgrades are moved here from [future-upgrades.md](future-upgrades.md).
 - Renamed the generated weekly ranking file from `WeeklyTop50.md` to `weeklytoplist.md`.
 - Added category grouping to `weeklytoplist.md` so the top 100 repositories can be scanned by technology area.
 - Changed generated repository links in `weeklytoplist.md` to HTML anchors with `target="_blank"` and `rel="noopener noreferrer"` for renderers that support new-tab link attributes.
+- Added category summary links in `weeklytoplist.md` so each summary row jumps to its matching category section.
