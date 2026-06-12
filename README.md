@@ -4,6 +4,10 @@ Best of GitHub is a curated catalog of standout open-source projects for AI engi
 
 Star counts were refreshed on 2026-06-10.
 
+## Weekly Top 50
+
+The automated weekly scan is written to [WeeklyTop50.md](WeeklyTop50.md). It lists the top 50 public, non-fork, non-archived GitHub repositories sorted by star count, with a scheduled GitHub Actions workflow refreshing the file every Monday.
+
 ## AI Coding Agents, Skills, and Plugins
 
 | Project | Stars | Why It Is Interesting |

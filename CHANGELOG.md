@@ -8,6 +8,7 @@ The format is based on Keep a Changelog and this project follows Semantic Versio
 
 ### Added
 - Created this changelog to track repository changes.
+- Added a weekly GitHub Actions scan that writes the top 50 most-starred public repositories to WeeklyTop50.md.
 
 ### Changed
 - Added a .gitignore rule for best-of-github.code-workspace so the workspace file is not committed or pushed.

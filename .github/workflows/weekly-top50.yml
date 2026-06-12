@@ -1,0 +1,41 @@
+name: Weekly Top 50 GitHub Scan
+
+on:
+  schedule:
+    - cron: "0 13 * * 1"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-weekly-top50:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.x"
+
+      - name: Generate weekly top 50 report
+        env:
+          GITHUB_TOKEN: ${{ github.token }}
+          SCAN_TIMEZONE: America/Chicago
+        run: python scripts/update_weekly_top50.py
+
+      - name: Commit updated report
+        run: |
+          if git diff --quiet -- WeeklyTop50.md; then
+            echo "WeeklyTop50.md is already current."
+            exit 0
+          fi
+
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add WeeklyTop50.md
+          git commit -m "Update weekly GitHub top 50"
+          git push
