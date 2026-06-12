@@ -1,6 +1,12 @@
 # Future Upgrades
 
-This file tracks planned improvements. When an upgrade is implemented, move it from this file to [completed-upgrades.md](completed-upgrades.md), add a matching entry to [CHANGELOG.md](CHANGELOG.md), and refresh [assessment.md](assessment.md).
+This file tracks planned improvements. When an upgrade is implemented, move it from this file to [completed-upgrades.md](completed-upgrades.md), add a new suggested upgrade to replace it in the appropriate tier, add a matching entry to [CHANGELOG.md](CHANGELOG.md), and refresh [assessment.md](assessment.md).
+
+## Backlog Maintenance
+
+- Keep each tier replenished by adding a new suggested upgrade whenever an item is implemented and moved out of this file.
+- Add replacement suggestions to the tier that best matches their value, complexity, and timing.
+- Keep replacement suggestions specific enough that they can be implemented without rediscovering the original intent.
 
 ## Tier 1: High-Value, Low-Complexity
 

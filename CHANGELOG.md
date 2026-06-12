@@ -15,6 +15,7 @@ The format is based on Keep a Changelog and this project follows Semantic Versio
 - Added README.md references to future-upgrades.md, completed-upgrades.md, assessment.md, and CHANGELOG.md.
 - Added category grouping to weeklytoplist.md so the top 100 repositories are easier to scan by technology area.
 - Added category summary links in weeklytoplist.md so each summary row jumps to its matching category section.
+- Added a backlog replenishment rule to future-upgrades.md so implemented items are replaced with new suggested upgrades.
 
 ### Changed
 - Added a .gitignore rule for best-of-github.code-workspace so the workspace file is not committed or pushed.
@@ -22,6 +23,7 @@ The format is based on Keep a Changelog and this project follows Semantic Versio
 - Documented the maintenance rule that every repository change should be logged in CHANGELOG.md and reflected in assessment.md.
 - Renamed the generated weekly ranking file from WeeklyTop50.md to weeklytoplist.md and updated repository references.
 - Changed generated repository links in weeklytoplist.md to HTML anchors with target="_blank" and rel="noopener noreferrer" for renderers that support new-tab link attributes.
+- Updated README.md, completed-upgrades.md, and assessment.md to reflect the future-upgrades replenishment process.
 
 ## [2026-06-10]
 

@@ -38,4 +38,5 @@ Best of GitHub is a documentation-first repository for highlighting useful open-
 - Update this assessment whenever the repository changes.
 - Log every repository change in [CHANGELOG.md](CHANGELOG.md).
 - When an item from [future-upgrades.md](future-upgrades.md) is implemented, move it to [completed-upgrades.md](completed-upgrades.md).
+- Replace each implemented future-upgrades item with a new suggested upgrade in the appropriate tier.
 - Keep README references current when new key files or workflows are added.
