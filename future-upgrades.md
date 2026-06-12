@@ -10,7 +10,6 @@ This file tracks planned improvements. When an upgrade is implemented, move it f
 
 ## Tier 2: Better Discovery and Filtering
 
-- Add topic-based weekly lists for AI, developer tools, security, data, automation, and learning repositories.
 - Track week-over-week rank changes so the weekly report can show movers, new entries, and dropped repositories.
 - Add optional filters for minimum stars, primary language, repository topic, and organization allow/block lists.
 - Create a compact summary section at the top of the weekly report with total repositories scanned, top languages, and notable new entries.

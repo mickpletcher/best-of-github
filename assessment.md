@@ -22,6 +22,7 @@ Best of GitHub is a documentation-first repository for highlighting useful open-
 - The weekly ranking is automated and can also be run manually through GitHub Actions.
 - The generator uses the GitHub API directly with Python standard library dependencies only.
 - Upgrade planning, completed work, and repo assessment now have dedicated reference files.
+- The weekly report is grouped into practical technology categories while preserving each repository's overall star rank.
 
 ## Risks and Gaps
 
@@ -29,6 +30,7 @@ Best of GitHub is a documentation-first repository for highlighting useful open-
 - There are no automated tests for the report generator.
 - The curated README catalog and generated weekly report use separate update paths.
 - Historical weekly snapshots are not retained.
+- GitHub Markdown may not honor `target="_blank"` link behavior even though the generated links include that attribute for compatible renderers.
 
 ## Maintenance Rules
 

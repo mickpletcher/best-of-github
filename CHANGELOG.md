@@ -13,12 +13,14 @@ The format is based on Keep a Changelog and this project follows Semantic Versio
 - Added completed-upgrades.md to track implemented upgrades moved out of the future-upgrades backlog.
 - Added assessment.md as a quick-reference repository assessment that should be refreshed with every repo change.
 - Added README.md references to future-upgrades.md, completed-upgrades.md, assessment.md, and CHANGELOG.md.
+- Added category grouping to weeklytoplist.md so the top 100 repositories are easier to scan by technology area.
 
 ### Changed
 - Added a .gitignore rule for best-of-github.code-workspace so the workspace file is not committed or pushed.
 - Categorized the private initial list and expanded README.md into a public project catalog with links, descriptions, and GitHub star counts.
 - Documented the maintenance rule that every repository change should be logged in CHANGELOG.md and reflected in assessment.md.
 - Renamed the generated weekly ranking file from WeeklyTop50.md to weeklytoplist.md and updated repository references.
+- Changed generated repository links in weeklytoplist.md to HTML anchors with target="_blank" and rel="noopener noreferrer" for renderers that support new-tab link attributes.
 
 ## [2026-06-10]
 
