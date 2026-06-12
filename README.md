@@ -4,9 +4,18 @@ Best of GitHub is a curated catalog of standout open-source projects for AI engi
 
 Star counts were refreshed on 2026-06-10.
 
-## Weekly Top 50
+For the current automated ranking, see the [weekly top 100 most-starred GitHub repositories](WeeklyTop50.md).
 
-The automated weekly scan is written to [WeeklyTop50.md](WeeklyTop50.md). It lists the top 50 public, non-fork, non-archived GitHub repositories sorted by star count, with a scheduled GitHub Actions workflow refreshing the file every Monday.
+## Project References
+
+- [Future upgrades](future-upgrades.md): a three-tier backlog of possible improvements.
+- [Completed upgrades](completed-upgrades.md): implemented improvements moved out of the future-upgrades backlog.
+- [Repository assessment](assessment.md): a quick-reference assessment that is updated whenever the repo changes.
+- [Changelog](CHANGELOG.md): every repository change should be logged here.
+
+## Weekly Top 100
+
+The automated weekly scan is written to [WeeklyTop50.md](WeeklyTop50.md). It lists the top 100 public, non-fork, non-archived GitHub repositories sorted by star count, with a scheduled GitHub Actions workflow refreshing the file every Monday.
 
 ## AI Coding Agents, Skills, and Plugins
 

@@ -20,7 +20,7 @@ except ImportError:  # pragma: no cover - Python 3.8 fallback.
 
 GITHUB_SEARCH_URL = "https://api.github.com/search/repositories"
 OUTPUT_PATH = Path("WeeklyTop50.md")
-TOP_N = 50
+TOP_N = 100
 
 
 def get_scan_date() -> str:
@@ -79,11 +79,11 @@ def markdown_escape(value: str | None) -> str:
 
 def render_markdown(repositories: list[dict]) -> str:
     lines = [
-        "# Weekly Top 50 GitHub Repositories",
+        "# Weekly Top 100 GitHub Repositories",
         "",
         f"Scanned on {get_scan_date()}.",
         "",
-        "This weekly report lists the top 50 public, non-fork, non-archived GitHub repositories sorted by star count. The list is generated from the GitHub Search API.",
+        "This weekly report lists the top 100 public, non-fork, non-archived GitHub repositories sorted by star count. The list is generated from the GitHub Search API.",
         "",
         "| Rank | Repository | Stars | Language | Description |",
         "| ---: | --- | ---: | --- | --- |",

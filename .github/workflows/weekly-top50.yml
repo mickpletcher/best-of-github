@@ -1,4 +1,4 @@
-name: Weekly Top 50 GitHub Scan
+name: Weekly Top 100 GitHub Scan
 
 on:
   schedule:
@@ -21,7 +21,7 @@ jobs:
         with:
           python-version: "3.x"
 
-      - name: Generate weekly top 50 report
+      - name: Generate weekly top 100 report
         env:
           GITHUB_TOKEN: ${{ github.token }}
           SCAN_TIMEZONE: America/Chicago
@@ -37,5 +37,5 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add WeeklyTop50.md
-          git commit -m "Update weekly GitHub top 50"
+          git commit -m "Update weekly GitHub top 100"
           git push
