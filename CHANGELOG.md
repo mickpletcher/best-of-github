@@ -8,6 +8,7 @@ The format is based on Keep a Changelog and this project follows Semantic Versio
 
 ### Added
 - Created this changelog to track repository changes.
+- Added chopratejas/headroom to the README.md AI coding agents, skills, and plugins catalog.
 - Added mvanhorn/last30days-skill to the README.md AI coding agents, skills, and plugins catalog.
 - Added a weekly GitHub Actions scan that writes the top 100 most-starred public repositories to weeklytoplist.md.
 - Added future-upgrades.md with a three-tier backlog of possible repository improvements.

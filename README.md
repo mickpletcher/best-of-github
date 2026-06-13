@@ -23,6 +23,7 @@ The automated weekly scan is written to [weeklytoplist.md](weeklytoplist.md). It
 | --- | ---: | --- |
 | [Egonex-AI/Understand-Anything](https://github.com/Egonex-AI/Understand-Anything) | 56,259 | Turns codebases into interactive knowledge graphs that can be explored, searched, and queried with AI coding tools. |
 | [colbymchenry/codegraph](https://github.com/colbymchenry/codegraph) | 46,419 | Builds local, pre-indexed code knowledge graphs for AI coding agents to reduce context and tool-call overhead. |
+| [chopratejas/headroom](https://github.com/chopratejas/headroom) | 24,950 | Compresses tool outputs, logs, files, and RAG chunks before they reach the LLM to reduce token usage. |
 | [hardikpandya/stop-slop](https://github.com/hardikpandya/stop-slop) | 9,795 | A compact skill file for removing obvious AI tells from generated prose. |
 | [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) | 40,495 | AI agent skill for researching recent discussion across Reddit, X, YouTube, HN, Polymarket, and the web. |
 | [cursor/plugins](https://github.com/cursor/plugins) | 1,916 | Cursor's plugin specification and official plugin examples. |
