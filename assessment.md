@@ -8,7 +8,7 @@ Best of GitHub is a documentation-first repository for highlighting useful open-
 
 ## Current State
 
-- Primary catalog: [README.md](README.md)
+- Primary catalog: [README.md](README.md), currently listing 15 curated projects across five topic sections.
 - Automated weekly ranking: [weeklytoplist.md](weeklytoplist.md)
 - Weekly ranking generator: [scripts/update_weekly_top50.py](scripts/update_weekly_top50.py)
 - Weekly report validator: [scripts/validate_weekly_toplist.py](scripts/validate_weekly_toplist.py)
