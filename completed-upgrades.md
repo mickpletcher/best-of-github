@@ -1,6 +1,6 @@
 # Completed Upgrades
 
-Completed upgrades are moved here from the local-only `future-upgrades.md` backlog. Each completed item should also be represented in [CHANGELOG.md](CHANGELOG.md), and [assessment.md](assessment.md) should be refreshed in the same change.
+Completed upgrades are moved here from the tracked `future-upgrades.md` backlog. Each completed item should also be represented in [CHANGELOG.md](CHANGELOG.md), and [assessment.md](assessment.md) should be refreshed in the same change.
 
 ## 2026-06-12
 
@@ -24,3 +24,5 @@ Completed upgrades are moved here from the local-only `future-upgrades.md` backl
 - Updated the weekly generator, validator, and GitHub Actions workflow to produce and validate both ranking reports.
 - Renamed the weekly ranking script, validator, and workflow paths to remove stale `top50` naming.
 - Added a dedicated `Mick's Curated GitHub Picks` title in `README.md` for the personal repo list.
+- Added `--counts` flags to the weekly ranking generator and validator so top 50, top 100, top 250, and top 500 reports can be generated without code edits.
+- Added `micks-watchlist.md` for repos worth monitoring before they belong in the main curated README list.

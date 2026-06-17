@@ -8,7 +8,8 @@ For the current automated rankings, see the weekly top 100 and weekly top 250 re
 
 ## Project References
 
-- Local future upgrades: `future-upgrades.md` is kept on this laptop only and is ignored by Git.
+- [Future upgrades](future-upgrades.md): planned improvements that should be moved to completed upgrades when implemented.
+- [Mick's Watchlist](micks-watchlist.md): repos worth monitoring before they belong in the main curated README list.
 - [Completed upgrades](completed-upgrades.md): implemented improvements moved out of the future-upgrades backlog.
 - [Repository assessment](assessment.md): a quick-reference assessment that is updated whenever the repo changes.
 - [Changelog](CHANGELOG.md): every repository change should be logged here.
@@ -24,9 +25,18 @@ The automated weekly scan writes two ranking files:
 
 Both files list public, non-fork, non-archived GitHub repositories sorted by star count and grouped by technology category. The scheduled GitHub Actions workflow refreshes both reports every Monday. The generated reports include source query details and are validated by [scripts/validate_weekly_rankings.py](scripts/validate_weekly_rankings.py).
 
+The generator and validator also support custom report counts:
+
+```powershell
+python scripts/update_weekly_rankings.py --counts 50 100 250 500
+python scripts/validate_weekly_rankings.py --counts 50 100 250 500
+```
+
 ## Mick's Curated GitHub Picks
 
 These are repositories I personally like enough to keep on the main README. They are selected for practical value, not just star count.
+
+Repos that look promising but still need testing or review live in [Mick's Watchlist](micks-watchlist.md).
 
 ### AI Coding Agents, Skills, and Plugins
 

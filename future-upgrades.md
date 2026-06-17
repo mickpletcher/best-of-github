@@ -14,15 +14,15 @@ This file tracks planned improvements. When an upgrade is implemented, move it f
 
 - Add a README table of contents once the project documentation grows beyond the current quick-reference sections.
 - Add a short "how to run locally" section to README.md for regenerating and validating both weekly ranking reports.
-- Add script flags for custom output counts so the generator can produce top 50, top 100, top 250, or top 500 reports without code edits.
 - Add a lightweight freshness badge or note in README.md showing the latest generated scan date.
+- Add a workflow_dispatch input for report counts so GitHub Actions can generate top 50, top 100, top 250, or top 500 reports from the Actions UI.
 
 ## Tier 2: Better Discovery and Filtering
 
 - Track week-over-week rank changes so the weekly reports can show movers, new entries, and dropped repositories.
 - Add optional filters for minimum stars, primary language, repository topic, and organization allow/block lists.
 - Create a compact summary section at the top of each weekly report with total repositories scanned, top languages, and notable new entries.
-- Add a separate "Mick's Watchlist" file for repos worth monitoring before they belong in the main curated README list.
+- Add a watchlist review cadence section so candidates have clear keep, promote, or remove decisions after each monthly review.
 
 ## Tier 3: Automation, Quality, and Publishing
 

@@ -3,6 +3,7 @@
 
 from __future__ import annotations
 
+import argparse
 import datetime as dt
 import html
 import json
@@ -21,10 +22,8 @@ except ImportError:  # pragma: no cover - Python 3.8 fallback.
 
 
 GITHUB_SEARCH_URL = "https://api.github.com/search/repositories"
-REPORTS = [
-    (Path("weekly-top-100-github-repositories.md"), 100),
-    (Path("weekly-top-250-github-repositories.md"), 250),
-]
+DEFAULT_REPORT_COUNTS = [100, 250]
+ALLOWED_REPORT_COUNTS = [50, 100, 250, 500]
 MAX_PER_PAGE = 100
 SEARCH_QUERY = "stars:>1 fork:false archived:false"
 SEARCH_SORT = "stars"
@@ -189,6 +188,24 @@ CATEGORY_RULES = {
 
 def get_scan_date() -> str:
     return get_scan_datetime().date().isoformat()
+
+
+def parse_args() -> argparse.Namespace:
+    parser = argparse.ArgumentParser(description="Generate weekly GitHub ranking reports.")
+    parser.add_argument(
+        "--counts",
+        nargs="+",
+        type=int,
+        choices=ALLOWED_REPORT_COUNTS,
+        default=DEFAULT_REPORT_COUNTS,
+        metavar="COUNT",
+        help="Report sizes to generate. Allowed values: 50, 100, 250, 500.",
+    )
+    return parser.parse_args()
+
+
+def output_path_for_count(repository_count: int) -> Path:
+    return Path(f"weekly-top-{repository_count}-github-repositories.md")
 
 
 def get_scan_datetime() -> dt.datetime:
@@ -384,10 +401,13 @@ def render_markdown(repositories: list[dict], repository_count: int) -> str:
 
 
 def main() -> int:
-    max_repository_count = max(repository_count for _, repository_count in REPORTS)
+    args = parse_args()
+    report_counts = sorted(set(args.counts))
+    max_repository_count = max(report_counts)
     repositories = fetch_top_repositories(max_repository_count)
-    for output_path, repository_count in REPORTS:
+    for repository_count in report_counts:
         report_repositories = repositories[:repository_count]
+        output_path = output_path_for_count(repository_count)
         output_path.write_text(
             render_markdown(report_repositories, repository_count),
             encoding="utf-8",

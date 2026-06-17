@@ -3,15 +3,14 @@
 
 from __future__ import annotations
 
+import argparse
 import re
 import sys
 from pathlib import Path
 
 
-REPORTS = [
-    (Path("weekly-top-100-github-repositories.md"), 100),
-    (Path("weekly-top-250-github-repositories.md"), 250),
-]
+DEFAULT_REPORT_COUNTS = [100, 250]
+ALLOWED_REPORT_COUNTS = [50, 100, 250, 500]
 SUMMARY_HEADER = ["Category", "Count"]
 REPOSITORY_HEADER = ["Rank", "Repository", "Stars", "Language", "Description"]
 REQUIRED_SOURCE_FIELDS = [
@@ -23,6 +22,24 @@ REQUIRED_SOURCE_FIELDS = [
     "Requested repository count",
     "GitHub API version",
 ]
+
+
+def parse_args() -> argparse.Namespace:
+    parser = argparse.ArgumentParser(description="Validate generated weekly GitHub ranking reports.")
+    parser.add_argument(
+        "--counts",
+        nargs="+",
+        type=int,
+        choices=ALLOWED_REPORT_COUNTS,
+        default=DEFAULT_REPORT_COUNTS,
+        metavar="COUNT",
+        help="Report sizes to validate. Allowed values: 50, 100, 250, 500.",
+    )
+    return parser.parse_args()
+
+
+def report_path_for_count(repository_count: int) -> Path:
+    return Path(f"weekly-top-{repository_count}-github-repositories.md")
 
 
 def split_markdown_row(line: str) -> list[str]:
@@ -161,8 +178,10 @@ def collect_errors(text: str, expected_repository_count: int) -> list[str]:
 
 
 def main() -> int:
+    args = parse_args()
     has_errors = False
-    for report_path, expected_repository_count in REPORTS:
+    for expected_repository_count in sorted(set(args.counts)):
+        report_path = report_path_for_count(expected_repository_count)
         if not report_path.exists():
             print(f"{report_path} does not exist.", file=sys.stderr)
             has_errors = True
