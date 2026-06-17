@@ -16,3 +16,11 @@ Completed upgrades are moved here from the local-only `future-upgrades.md` backl
 - Made `future-upgrades.md` local-only by removing it from Git tracking and keeping it ignored.
 - Added `scripts/validate_weekly_toplist.py` to validate generated Markdown tables, required columns, duplicate repositories, row counts, and source details.
 - Added generated timestamp and source query details to the `weeklytoplist.md` footer for easier auditing.
+
+## 2026-06-17
+
+- Renamed the generated weekly top 100 report to `weekly-top-100-github-repositories.md`.
+- Added `weekly-top-250-github-repositories.md` for the top 250 public, non-fork, non-archived GitHub repositories.
+- Updated the weekly generator, validator, and GitHub Actions workflow to produce and validate both ranking reports.
+- Renamed the weekly ranking script, validator, and workflow paths to remove stale `top50` naming.
+- Added a dedicated `Mick's Curated GitHub Picks` title in `README.md` for the personal repo list.

@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Generate weeklytoplist.md from GitHub's most-starred public repositories."""
+"""Generate weekly GitHub ranking reports."""
 
 from __future__ import annotations
 
@@ -21,8 +21,11 @@ except ImportError:  # pragma: no cover - Python 3.8 fallback.
 
 
 GITHUB_SEARCH_URL = "https://api.github.com/search/repositories"
-OUTPUT_PATH = Path("weeklytoplist.md")
-TOP_N = 100
+REPORTS = [
+    (Path("weekly-top-100-github-repositories.md"), 100),
+    (Path("weekly-top-250-github-repositories.md"), 250),
+]
+MAX_PER_PAGE = 100
 SEARCH_QUERY = "stars:>1 fork:false archived:false"
 SEARCH_SORT = "stars"
 SEARCH_ORDER = "desc"
@@ -195,44 +198,64 @@ def get_scan_datetime() -> dt.datetime:
     return dt.datetime.now(ZoneInfo(timezone_name))
 
 
-def build_query_params() -> dict[str, str]:
+def build_query_params(repository_count: int, page: int = 1) -> dict[str, str]:
     return {
         "q": SEARCH_QUERY,
         "sort": SEARCH_SORT,
         "order": SEARCH_ORDER,
-        "per_page": str(TOP_N),
+        "per_page": str(min(repository_count, MAX_PER_PAGE)),
+        "page": str(page),
     }
 
 
-def build_search_url() -> str:
-    return f"{GITHUB_SEARCH_URL}?{urllib.parse.urlencode(build_query_params())}"
+def build_search_url(repository_count: int, page: int = 1) -> str:
+    return f"{GITHUB_SEARCH_URL}?{urllib.parse.urlencode(build_query_params(repository_count, page))}"
 
 
-def fetch_top_repositories() -> list[dict]:
-    url = build_search_url()
+def fetch_top_repositories(repository_count: int) -> list[dict]:
     token = os.environ.get("GH_TOKEN") or os.environ.get("GITHUB_TOKEN")
     headers = {
         "Accept": "application/vnd.github+json",
-        "User-Agent": "best-of-github-weekly-top100",
+        "User-Agent": f"best-of-github-weekly-top{repository_count}",
         "X-GitHub-Api-Version": GITHUB_API_VERSION,
     }
     if token:
         headers["Authorization"] = f"Bearer {token}"
 
-    request = urllib.request.Request(url, headers=headers)
-    try:
-        with urllib.request.urlopen(request, timeout=30) as response:
-            payload = json.loads(response.read().decode("utf-8"))
-    except urllib.error.HTTPError as error:
-        body = error.read().decode("utf-8", errors="replace")
-        raise RuntimeError(f"GitHub API request failed: {error.code} {body}") from error
-    except urllib.error.URLError as error:
-        raise RuntimeError(f"GitHub API request failed: {error.reason}") from error
+    repositories: list[dict] = []
+    seen_repository_names: set[str] = set()
+    page = 1
+    per_page = min(repository_count, MAX_PER_PAGE)
+    while len(repositories) < repository_count:
+        url = build_search_url(per_page, page)
+        request = urllib.request.Request(url, headers=headers)
+        try:
+            with urllib.request.urlopen(request, timeout=30) as response:
+                payload = json.loads(response.read().decode("utf-8"))
+        except urllib.error.HTTPError as error:
+            body = error.read().decode("utf-8", errors="replace")
+            raise RuntimeError(f"GitHub API request failed: {error.code} {body}") from error
+        except urllib.error.URLError as error:
+            raise RuntimeError(f"GitHub API request failed: {error.reason}") from error
 
-    repositories = payload.get("items", [])
-    if len(repositories) < TOP_N:
-        raise RuntimeError(f"Expected {TOP_N} repositories, got {len(repositories)}")
-    return repositories[:TOP_N]
+        items = payload.get("items", [])
+        if not items:
+            break
+
+        for repository in items:
+            full_name = repository.get("full_name")
+            if full_name in seen_repository_names:
+                continue
+            seen_repository_names.add(full_name)
+            repositories.append(repository)
+            if len(repositories) == repository_count:
+                break
+
+        page += 1
+
+    if len(repositories) < repository_count:
+        raise RuntimeError(f"Expected {repository_count} repositories, got {len(repositories)}")
+    return repositories[:repository_count]
 
 
 def markdown_escape(value: str | None) -> str:
@@ -294,16 +317,16 @@ def group_repositories(repositories: list[dict]) -> dict[str, list[tuple[int, di
     return grouped
 
 
-def render_markdown(repositories: list[dict]) -> str:
+def render_markdown(repositories: list[dict], repository_count: int) -> str:
     grouped = group_repositories(repositories)
     scan_datetime = get_scan_datetime()
-    query_params = build_query_params()
+    query_params = build_query_params(repository_count)
     lines = [
-        "# Weekly Top 100 GitHub Repositories",
+        f"# Weekly Top {repository_count} GitHub Repositories",
         "",
         f"Scanned on {scan_datetime.date().isoformat()}.",
         "",
-        "This weekly report lists the top 100 public, non-fork, non-archived GitHub repositories sorted by star count and grouped into practical technology categories. The list is generated from the GitHub Search API.",
+        f"This weekly report lists the top {repository_count} public, non-fork, non-archived GitHub repositories sorted by star count and grouped into practical technology categories. The list is generated from the GitHub Search API.",
         "",
         "Repository links are emitted as HTML anchors with `target=\"_blank\"` for Markdown renderers that honor new-tab link attributes.",
         "",
@@ -351,19 +374,25 @@ def render_markdown(repositories: list[dict]) -> str:
             f"- Search query: `{query_params['q']}`",
             f"- Sort: `{query_params['sort']}`",
             f"- Order: `{query_params['order']}`",
-            f"- Requested repository count: `{query_params['per_page']}`",
+            f"- Requested repository count: `{repository_count}`",
             f"- GitHub API version: `{GITHUB_API_VERSION}`",
             "",
-            "<!-- This file is generated by scripts/update_weekly_top50.py. -->",
+            "<!-- This file is generated by scripts/update_weekly_rankings.py. -->",
         ]
     )
     return "\n".join(lines) + "\n"
 
 
 def main() -> int:
-    repositories = fetch_top_repositories()
-    OUTPUT_PATH.write_text(render_markdown(repositories), encoding="utf-8")
-    print(f"Wrote {OUTPUT_PATH} with {len(repositories)} repositories.")
+    max_repository_count = max(repository_count for _, repository_count in REPORTS)
+    repositories = fetch_top_repositories(max_repository_count)
+    for output_path, repository_count in REPORTS:
+        report_repositories = repositories[:repository_count]
+        output_path.write_text(
+            render_markdown(report_repositories, repository_count),
+            encoding="utf-8",
+        )
+        print(f"Wrote {output_path} with {len(report_repositories)} repositories.")
     return 0
 
 

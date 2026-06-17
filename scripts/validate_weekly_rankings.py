@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Validate the generated weeklytoplist.md report."""
+"""Validate generated weekly GitHub ranking reports."""
 
 from __future__ import annotations
 
@@ -8,8 +8,10 @@ import sys
 from pathlib import Path
 
 
-REPORT_PATH = Path("weeklytoplist.md")
-EXPECTED_REPOSITORY_COUNT = 100
+REPORTS = [
+    (Path("weekly-top-100-github-repositories.md"), 100),
+    (Path("weekly-top-250-github-repositories.md"), 250),
+]
 SUMMARY_HEADER = ["Category", "Count"]
 REPOSITORY_HEADER = ["Rank", "Repository", "Stars", "Language", "Description"]
 REQUIRED_SOURCE_FIELDS = [
@@ -62,7 +64,7 @@ def extract_repository_name(cell: str) -> str | None:
     return None
 
 
-def collect_errors(text: str) -> list[str]:
+def collect_errors(text: str, expected_repository_count: int) -> list[str]:
     errors: list[str] = []
     lines = text.splitlines()
     repository_rows: list[list[str]] = []
@@ -120,9 +122,9 @@ def collect_errors(text: str) -> list[str]:
     if not saw_repository_header:
         errors.append("Missing repository table header.")
 
-    if len(repository_rows) != EXPECTED_REPOSITORY_COUNT:
+    if len(repository_rows) != expected_repository_count:
         errors.append(
-            f"Expected {EXPECTED_REPOSITORY_COUNT} repository rows, got {len(repository_rows)}."
+            f"Expected {expected_repository_count} repository rows, got {len(repository_rows)}."
         )
 
     duplicate_repositories = sorted(
@@ -131,7 +133,7 @@ def collect_errors(text: str) -> list[str]:
     if duplicate_repositories:
         errors.append(f"Duplicate repositories found: {', '.join(duplicate_repositories)}.")
 
-    expected_ranks = list(range(1, EXPECTED_REPOSITORY_COUNT + 1))
+    expected_ranks = list(range(1, expected_repository_count + 1))
     if sorted(ranks) != expected_ranks:
         errors.append("Repository ranks are missing, duplicated, or outside the expected range.")
 
@@ -141,31 +143,40 @@ def collect_errors(text: str) -> list[str]:
             errors.append(f"Category summary row is missing a section link: {category!r}.")
         summary_total += int(count.replace(",", ""))
 
-    if summary_rows and summary_total != EXPECTED_REPOSITORY_COUNT:
+    if summary_rows and summary_total != expected_repository_count:
         errors.append(
-            f"Category summary total should be {EXPECTED_REPOSITORY_COUNT}, got {summary_total}."
+            f"Category summary total should be {expected_repository_count}, got {summary_total}."
         )
 
     for field in REQUIRED_SOURCE_FIELDS:
         if f"- {field}:" not in text:
             errors.append(f"Missing source detail field: {field}.")
 
+    if f"- Requested repository count: `{expected_repository_count}`" not in text:
+        errors.append(
+            f"Requested repository count should be `{expected_repository_count}`."
+        )
+
     return errors
 
 
 def main() -> int:
-    if not REPORT_PATH.exists():
-        print(f"{REPORT_PATH} does not exist.", file=sys.stderr)
-        return 1
+    has_errors = False
+    for report_path, expected_repository_count in REPORTS:
+        if not report_path.exists():
+            print(f"{report_path} does not exist.", file=sys.stderr)
+            has_errors = True
+            continue
 
-    errors = collect_errors(REPORT_PATH.read_text(encoding="utf-8"))
-    if errors:
-        for error in errors:
-            print(f"ERROR: {error}", file=sys.stderr)
-        return 1
+        errors = collect_errors(report_path.read_text(encoding="utf-8"), expected_repository_count)
+        if errors:
+            has_errors = True
+            for error in errors:
+                print(f"ERROR [{report_path}]: {error}", file=sys.stderr)
+            continue
 
-    print(f"{REPORT_PATH} passed validation.")
-    return 0
+        print(f"{report_path} passed validation.")
+    return 1 if has_errors else 0
 
 
 if __name__ == "__main__":

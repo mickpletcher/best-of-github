@@ -1,10 +1,10 @@
 # Best of GitHub
 
-Best of GitHub is a curated catalog of standout open-source projects for AI engineering, coding agents, document processing, web automation, media tooling, and security. It highlights practical repositories worth exploring, with current star counts and short notes explaining why each project is useful or interesting.
+Best of GitHub is Mick's curated catalog of standout open-source projects for AI engineering, coding agents, document processing, web automation, media tooling, and security. It highlights practical repositories worth exploring, with current star counts and short notes explaining why each project is useful or interesting.
 
 Star counts were refreshed on 2026-06-10.
 
-For the current automated ranking, see the [weekly top 100 most-starred GitHub repositories](weeklytoplist.md).
+For the current automated rankings, see the weekly top 100 and weekly top 250 reports below.
 
 ## Project References
 
@@ -13,11 +13,22 @@ For the current automated ranking, see the [weekly top 100 most-starred GitHub r
 - [Repository assessment](assessment.md): a quick-reference assessment that is updated whenever the repo changes.
 - [Changelog](CHANGELOG.md): every repository change should be logged here.
 
-## Weekly Top 100
+## Weekly Rankings
 
-The automated weekly scan is written to [weeklytoplist.md](weeklytoplist.md). It lists the top 100 public, non-fork, non-archived GitHub repositories sorted by star count and grouped by technology category, with a scheduled GitHub Actions workflow refreshing the file every Monday. The generated report includes source query details and is validated by [scripts/validate_weekly_toplist.py](scripts/validate_weekly_toplist.py).
+The automated weekly scan writes two ranking files:
 
-## AI Coding Agents, Skills, and Plugins
+| Report | Repository Count | File |
+| --- | ---: | --- |
+| Weekly Top 100 GitHub Repositories | 100 | [weekly-top-100-github-repositories.md](weekly-top-100-github-repositories.md) |
+| Weekly Top 250 GitHub Repositories | 250 | [weekly-top-250-github-repositories.md](weekly-top-250-github-repositories.md) |
+
+Both files list public, non-fork, non-archived GitHub repositories sorted by star count and grouped by technology category. The scheduled GitHub Actions workflow refreshes both reports every Monday. The generated reports include source query details and are validated by [scripts/validate_weekly_rankings.py](scripts/validate_weekly_rankings.py).
+
+## Mick's Curated GitHub Picks
+
+These are repositories I personally like enough to keep on the main README. They are selected for practical value, not just star count.
+
+### AI Coding Agents, Skills, and Plugins
 
 | Project | Stars | Why It Is Interesting |
 | --- | ---: | --- |
@@ -31,20 +42,20 @@ The automated weekly scan is written to [weeklytoplist.md](weeklytoplist.md). It
 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | 212,236 | Agent harness optimization system covering skills, instincts, memory, security, and research-first development. |
 | [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) | 50,086 | Production-grade engineering skills for AI coding agents. |
 
-## AI Engineering and Learning
+### AI Engineering and Learning
 
 | Project | Stars | Why It Is Interesting |
 | --- | ---: | --- |
 | [rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch) | 30,891 | A hands-on AI engineering learning path that emphasizes building and shipping systems from scratch. |
 
-## Document and Content Processing
+### Document and Content Processing
 
 | Project | Stars | Why It Is Interesting |
 | --- | ---: | --- |
 | [microsoft/markitdown](https://github.com/microsoft/markitdown) | 149,768 | Converts files and Office documents into Markdown for downstream AI and automation workflows. |
 | [run-llama/liteparse](https://github.com/run-llama/liteparse) | 9,777 | Fast open-source document parser for OCR, PDF parsing, and text extraction. |
 
-## Web Automation, Scraping, and Media
+### Web Automation, Scraping, and Media
 
 | Project | Stars | Why It Is Interesting |
 | --- | ---: | --- |
@@ -52,7 +63,7 @@ The automated weekly scan is written to [weeklytoplist.md](weeklytoplist.md). It
 | [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling) | 62,613 | Adaptive web scraping framework that scales from single requests to full crawls. |
 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | 169,586 | Feature-rich command-line audio and video downloader. |
 
-## Cybersecurity and Agent Security
+### Cybersecurity and Agent Security
 
 | Project | Stars | Why It Is Interesting |
 | --- | ---: | --- |

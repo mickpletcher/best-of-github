@@ -11,6 +11,7 @@ The format is based on Keep a Changelog and this project follows Semantic Versio
 - Added chopratejas/headroom to the README.md AI coding agents, skills, and plugins catalog.
 - Added mvanhorn/last30days-skill to the README.md AI coding agents, skills, and plugins catalog.
 - Added a weekly GitHub Actions scan that writes the top 100 most-starred public repositories to weeklytoplist.md.
+- Added weekly-top-250-github-repositories.md for the top 250 most-starred public repositories.
 - Added future-upgrades.md with a three-tier backlog of possible repository improvements.
 - Added completed-upgrades.md to track implemented upgrades moved out of the future-upgrades backlog.
 - Added assessment.md as a quick-reference repository assessment that should be refreshed with every repo change.
@@ -20,17 +21,21 @@ The format is based on Keep a Changelog and this project follows Semantic Versio
 - Added a backlog replenishment rule to future-upgrades.md so implemented items are replaced with new suggested upgrades.
 - Added scripts/validate_weekly_toplist.py to validate generated report row counts, duplicate repositories, table structure, required columns, and source details.
 - Added source query details and a generated timestamp to the weeklytoplist.md report footer.
+- Added a dedicated Mick's Curated GitHub Picks section title to README.md for the personal repo list.
 
 ### Changed
 - Added a .gitignore rule for best-of-github.code-workspace so the workspace file is not committed or pushed.
 - Categorized the private initial list and expanded README.md into a public project catalog with links, descriptions, and GitHub star counts.
 - Documented the maintenance rule that every repository change should be logged in CHANGELOG.md and reflected in assessment.md.
 - Renamed the generated weekly ranking file from WeeklyTop50.md to weeklytoplist.md and updated repository references.
+- Renamed the generated weekly top 100 report from weeklytoplist.md to weekly-top-100-github-repositories.md.
+- Renamed the weekly ranking generator, validator, and workflow paths to remove stale top50 naming.
 - Changed generated repository links in weeklytoplist.md to HTML anchors with target="_blank" and rel="noopener noreferrer" for renderers that support new-tab link attributes.
 - Updated README.md, completed-upgrades.md, and assessment.md to reflect the future-upgrades replenishment process.
 - Removed future-upgrades.md from Git tracking so the future backlog remains local to the laptop.
 - Updated README.md, completed-upgrades.md, and assessment.md to describe future-upgrades.md as a local-only file.
 - Updated the weekly GitHub Actions workflow to validate weeklytoplist.md after generation.
+- Updated the weekly GitHub Actions workflow to generate, validate, and commit both weekly ranking reports.
 
 ## [2026-06-10]
 
