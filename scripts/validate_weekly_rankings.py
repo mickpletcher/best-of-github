@@ -11,6 +11,7 @@ from pathlib import Path
 
 DEFAULT_REPORT_COUNTS = [100, 250]
 ALLOWED_REPORT_COUNTS = [50, 100, 250, 500]
+README_PATH = Path("README.md")
 SUMMARY_HEADER = ["Category", "Count"]
 REPOSITORY_HEADER = ["Rank", "Repository", "Stars", "Language", "Description"]
 REQUIRED_SOURCE_FIELDS = [
@@ -78,6 +79,13 @@ def extract_repository_name(cell: str) -> str | None:
     if markdown_match:
         return markdown_match.group(1).strip()
 
+    return None
+
+
+def extract_scan_date(text: str) -> str | None:
+    match = re.search(r"^Scanned on (\d{4}-\d{2}-\d{2})\.$", text, flags=re.MULTILINE)
+    if match:
+        return match.group(1)
     return None
 
 
@@ -180,6 +188,7 @@ def collect_errors(text: str, expected_repository_count: int) -> list[str]:
 def main() -> int:
     args = parse_args()
     has_errors = False
+    scan_dates: set[str] = set()
     for expected_repository_count in sorted(set(args.counts)):
         report_path = report_path_for_count(expected_repository_count)
         if not report_path.exists():
@@ -187,7 +196,15 @@ def main() -> int:
             has_errors = True
             continue
 
-        errors = collect_errors(report_path.read_text(encoding="utf-8"), expected_repository_count)
+        text = report_path.read_text(encoding="utf-8")
+        report_scan_date = extract_scan_date(text)
+        if report_scan_date is None:
+            print(f"ERROR [{report_path}]: Missing scanned date.", file=sys.stderr)
+            has_errors = True
+        else:
+            scan_dates.add(report_scan_date)
+
+        errors = collect_errors(text, expected_repository_count)
         if errors:
             has_errors = True
             for error in errors:
@@ -195,6 +212,19 @@ def main() -> int:
             continue
 
         print(f"{report_path} passed validation.")
+
+    if len(scan_dates) > 1:
+        print(f"ERROR: Report scan dates do not match: {', '.join(sorted(scan_dates))}.", file=sys.stderr)
+        has_errors = True
+
+    if scan_dates:
+        expected_scan_date = max(scan_dates)
+        readme = README_PATH.read_text(encoding="utf-8")
+        expected_line = f"Latest weekly scan: {expected_scan_date}."
+        if expected_line not in readme:
+            print(f"ERROR [{README_PATH}]: Missing freshness line: {expected_line}", file=sys.stderr)
+            has_errors = True
+
     return 1 if has_errors else 0
 
 

@@ -14,8 +14,8 @@ This file tracks planned improvements. When an upgrade is implemented, move it f
 
 - Add a README table of contents once the project documentation grows beyond the current quick-reference sections.
 - Add a short "how to run locally" section to README.md for regenerating and validating both weekly ranking reports.
-- Add a lightweight freshness badge or note in README.md showing the latest generated scan date.
 - Add a workflow_dispatch input for report counts so GitHub Actions can generate top 50, top 100, top 250, or top 500 reports from the Actions UI.
+- Add a README note explaining that the latest weekly scan date is refreshed automatically by the ranking generator.
 
 ## Tier 2: Better Discovery and Filtering
 

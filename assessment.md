@@ -14,6 +14,7 @@ Best of GitHub is a documentation-first repository for highlighting Mick's curat
 - Automated weekly top 250 ranking: [weekly-top-250-github-repositories.md](weekly-top-250-github-repositories.md)
 - Weekly ranking generator: [scripts/update_weekly_rankings.py](scripts/update_weekly_rankings.py)
 - Weekly report validator: [scripts/validate_weekly_rankings.py](scripts/validate_weekly_rankings.py)
+- README freshness note: `Latest weekly scan: 2026-06-17.`
 - Scheduled workflow: [.github/workflows/weekly-github-rankings.yml](.github/workflows/weekly-github-rankings.yml)
 - Upgrade backlog: [future-upgrades.md](future-upgrades.md)
 - Completed upgrades: [completed-upgrades.md](completed-upgrades.md)
@@ -30,6 +31,7 @@ Best of GitHub is a documentation-first repository for highlighting Mick's curat
 - The weekly report category summaries link directly to each generated category section.
 - Future upgrade planning is tracked with the repo so backlog rules are visible in VSCode and Git.
 - Generated weekly reports include source query details and are checked by a validation script.
+- README shows the latest generated weekly scan date and the validator checks it against the reports.
 - The README separates Mick's personal curated picks from automated star-count rankings.
 - The watchlist gives promising repos a place to sit before they are promoted or removed.
 

@@ -24,6 +24,7 @@ The format is based on Keep a Changelog and this project follows Semantic Versio
 - Added a dedicated Mick's Curated GitHub Picks section title to README.md for the personal repo list.
 - Added `--counts` flags to `scripts/update_weekly_rankings.py` and `scripts/validate_weekly_rankings.py` for top 50, top 100, top 250, and top 500 report sizes.
 - Added `micks-watchlist.md` for repos worth monitoring before they are promoted to the main curated README list.
+- Added a README freshness note showing the latest generated weekly scan date.
 
 ### Changed
 - Added a .gitignore rule for best-of-github.code-workspace so the workspace file is not committed or pushed.
@@ -40,6 +41,7 @@ The format is based on Keep a Changelog and this project follows Semantic Versio
 - Updated the weekly GitHub Actions workflow to generate, validate, and commit both weekly ranking reports.
 - Updated repository docs to describe `future-upgrades.md` as a tracked backlog.
 - Updated README.md, completed-upgrades.md, future-upgrades.md, and assessment.md to reflect the new watchlist workflow.
+- Updated the weekly ranking generator, validator, and workflow so the README freshness note stays aligned with generated report dates.
 
 ## [2026-06-10]
 

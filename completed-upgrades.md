@@ -26,3 +26,4 @@ Completed upgrades are moved here from the tracked `future-upgrades.md` backlog.
 - Added a dedicated `Mick's Curated GitHub Picks` title in `README.md` for the personal repo list.
 - Added `--counts` flags to the weekly ranking generator and validator so top 50, top 100, top 250, and top 500 reports can be generated without code edits.
 - Added `micks-watchlist.md` for repos worth monitoring before they belong in the main curated README list.
+- Added a README freshness note showing the latest generated weekly scan date.

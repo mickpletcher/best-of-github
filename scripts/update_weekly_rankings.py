@@ -22,6 +22,8 @@ except ImportError:  # pragma: no cover - Python 3.8 fallback.
 
 
 GITHUB_SEARCH_URL = "https://api.github.com/search/repositories"
+README_PATH = Path("README.md")
+README_FRESHNESS_LINE_PATTERN = re.compile(r"^Latest weekly scan: \d{4}-\d{2}-\d{2}\.$", re.MULTILINE)
 DEFAULT_REPORT_COUNTS = [100, 250]
 ALLOWED_REPORT_COUNTS = [50, 100, 250, 500]
 MAX_PER_PAGE = 100
@@ -334,9 +336,23 @@ def group_repositories(repositories: list[dict]) -> dict[str, list[tuple[int, di
     return grouped
 
 
-def render_markdown(repositories: list[dict], repository_count: int) -> str:
+def update_readme_scan_date(scan_date: str) -> None:
+    readme = README_PATH.read_text(encoding="utf-8")
+    freshness_line = f"Latest weekly scan: {scan_date}."
+    if README_FRESHNESS_LINE_PATTERN.search(readme):
+        updated = README_FRESHNESS_LINE_PATTERN.sub(freshness_line, readme, count=1)
+    else:
+        anchor = "For the current automated rankings, see the weekly top 100 and weekly top 250 reports below."
+        updated = readme.replace(anchor, f"{anchor}\n\n{freshness_line}", 1)
+    README_PATH.write_text(updated, encoding="utf-8")
+
+
+def render_markdown(
+    repositories: list[dict],
+    repository_count: int,
+    scan_datetime: dt.datetime,
+) -> str:
     grouped = group_repositories(repositories)
-    scan_datetime = get_scan_datetime()
     query_params = build_query_params(repository_count)
     lines = [
         f"# Weekly Top {repository_count} GitHub Repositories",
@@ -404,15 +420,18 @@ def main() -> int:
     args = parse_args()
     report_counts = sorted(set(args.counts))
     max_repository_count = max(report_counts)
+    scan_datetime = get_scan_datetime()
     repositories = fetch_top_repositories(max_repository_count)
     for repository_count in report_counts:
         report_repositories = repositories[:repository_count]
         output_path = output_path_for_count(repository_count)
         output_path.write_text(
-            render_markdown(report_repositories, repository_count),
+            render_markdown(report_repositories, repository_count, scan_datetime),
             encoding="utf-8",
         )
         print(f"Wrote {output_path} with {len(report_repositories)} repositories.")
+    update_readme_scan_date(scan_datetime.date().isoformat())
+    print(f"Updated {README_PATH} latest weekly scan date.")
     return 0
 
 

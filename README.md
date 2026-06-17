@@ -6,6 +6,8 @@ Star counts were refreshed on 2026-06-10.
 
 For the current automated rankings, see the weekly top 100 and weekly top 250 reports below.
 
+Latest weekly scan: 2026-06-17.
+
 ## Project References
 
 - [Future upgrades](future-upgrades.md): planned improvements that should be moved to completed upgrades when implemented.
