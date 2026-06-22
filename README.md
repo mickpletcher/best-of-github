@@ -6,7 +6,7 @@ Star counts were refreshed on 2026-06-10.
 
 For the current automated rankings, see the weekly top 100 and weekly top 250 reports below.
 
-Latest weekly scan: 2026-06-17.
+Latest weekly scan: 2026-06-22.
 
 ## Project References
 
