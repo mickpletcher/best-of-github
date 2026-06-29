@@ -6,7 +6,7 @@ Star counts were refreshed on 2026-06-10.
 
 For the current automated rankings, see the weekly top 100 and weekly top 250 reports below.
 
-Latest weekly scan: 2026-06-22.
+Latest weekly scan: 2026-06-29.
 
 ## GitHub of the Day
 
@@ -15,7 +15,7 @@ Selected for 2026-06-29 from public, non-fork, non-archived repositories with re
 
 | Repository | Stars | Language | Notes |
 | --- | ---: | --- | --- |
-| [ygguorun/scoop-bucket](https://github.com/ygguorun/scoop-bucket) | 13 | PowerShell | Self-use scoop bucket repository. |
+| [windedge/ladle-bucket](https://github.com/windedge/ladle-bucket) | 5 | PowerShell | A Scoop bucket for Scooper |
 
 Selection query: `stars:3..50 fork:false archived:false is:public pushed:>=2025-06-29 language:PowerShell`
 <!-- github-of-the-day:end -->

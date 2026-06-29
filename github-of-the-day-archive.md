@@ -6,4 +6,4 @@ Each row keeps the repository link, star count, primary language, site descripti
 
 | Date | Repository | Stars | Language | Site Description | Selection Query |
 | --- | --- | ---: | --- | --- | --- |
-| 2026-06-29 | [ygguorun/scoop-bucket](https://github.com/ygguorun/scoop-bucket) | 13 | PowerShell | Self-use scoop bucket repository. | `stars:3..50 fork:false archived:false is:public pushed:>=2025-06-29 language:PowerShell` |
+| 2026-06-29 | [windedge/ladle-bucket](https://github.com/windedge/ladle-bucket) | 5 | PowerShell | A Scoop bucket for Scooper | `stars:3..50 fork:false archived:false is:public pushed:>=2025-06-29 language:PowerShell` |
