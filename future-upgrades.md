@@ -16,6 +16,7 @@ This file tracks planned improvements. When an upgrade is implemented, move it f
 - Add a short "how to run locally" section to README.md for regenerating and validating both weekly ranking reports.
 - Add a workflow_dispatch input for report counts so GitHub Actions can generate top 50, top 100, top 250, or top 500 reports from the Actions UI.
 - Add a README note explaining that the latest weekly scan date is refreshed automatically by the ranking generator.
+- Add a README badge or status note that shows whether the daily GitHub of the Day workflow last completed successfully.
 
 ## Tier 2: Better Discovery and Filtering
 

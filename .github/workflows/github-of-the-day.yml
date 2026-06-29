@@ -1,0 +1,41 @@
+name: GitHub of the Day
+
+on:
+  schedule:
+    - cron: "0 13 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-github-of-the-day:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.x"
+
+      - name: Update GitHub of the Day
+        env:
+          GITHUB_TOKEN: ${{ github.token }}
+          SCAN_TIMEZONE: America/Chicago
+        run: python scripts/update_github_of_the_day.py
+
+      - name: Commit updated README
+        run: |
+          if git diff --quiet -- README.md github-of-the-day-archive.md; then
+            echo "GitHub of the Day is already current."
+            exit 0
+          fi
+
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md github-of-the-day-archive.md
+          git commit -m "Update GitHub of the Day"
+          git push

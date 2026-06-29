@@ -8,9 +8,24 @@ For the current automated rankings, see the weekly top 100 and weekly top 250 re
 
 Latest weekly scan: 2026-06-17.
 
+## GitHub of the Day
+
+<!-- github-of-the-day:start -->
+Selected for 2026-06-29 from public, non-fork, non-archived repositories with recent activity. This is random and is not based on popularity.
+
+| Repository | Stars | Language | Notes |
+| --- | ---: | --- | --- |
+| [ygguorun/scoop-bucket](https://github.com/ygguorun/scoop-bucket) | 13 | PowerShell | Self-use scoop bucket repository. |
+
+Selection query: `stars:3..50 fork:false archived:false is:public pushed:>=2025-06-29 language:PowerShell`
+<!-- github-of-the-day:end -->
+
+Past picks are saved in the [GitHub of the Day Archive](github-of-the-day-archive.md). Repositories need at least 3 stars to be eligible.
+
 ## Project References
 
 - [Future upgrades](future-upgrades.md): planned improvements that should be moved to completed upgrades when implemented.
+- [GitHub of the Day Archive](github-of-the-day-archive.md): daily random picks with links, descriptions, and selection queries.
 - [Mick's Watchlist](micks-watchlist.md): repos worth monitoring before they belong in the main curated README list.
 - [Completed upgrades](completed-upgrades.md): implemented improvements moved out of the future-upgrades backlog.
 - [Repository assessment](assessment.md): a quick-reference assessment that is updated whenever the repo changes.
@@ -27,11 +42,19 @@ The automated weekly scan writes two ranking files:
 
 Both files list public, non-fork, non-archived GitHub repositories sorted by star count and grouped by technology category. The scheduled GitHub Actions workflow refreshes both reports every Monday. The generated reports include source query details and are validated by [scripts/validate_weekly_rankings.py](scripts/validate_weekly_rankings.py).
 
+The separate GitHub of the Day workflow refreshes the README pick daily.
+
 The generator and validator also support custom report counts:
 
 ```powershell
 python scripts/update_weekly_rankings.py --counts 50 100 250 500
 python scripts/validate_weekly_rankings.py --counts 50 100 250 500
+```
+
+Refresh the GitHub of the Day block:
+
+```powershell
+python scripts/update_github_of_the_day.py
 ```
 
 ## Mick's Curated GitHub Picks

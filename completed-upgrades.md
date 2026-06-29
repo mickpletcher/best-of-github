@@ -27,3 +27,11 @@ Completed upgrades are moved here from the tracked `future-upgrades.md` backlog.
 - Added `--counts` flags to the weekly ranking generator and validator so top 50, top 100, top 250, and top 500 reports can be generated without code edits.
 - Added `micks-watchlist.md` for repos worth monitoring before they belong in the main curated README list.
 - Added a README freshness note showing the latest generated weekly scan date.
+
+## 2026-06-29
+
+- Added a README GitHub of the Day section backed by `scripts/update_github_of_the_day.py`.
+- Updated the weekly GitHub Actions workflow so the GitHub of the Day block is refreshed automatically.
+- Added a daily GitHub of the Day workflow so the README pick changes each day without rerunning weekly rankings.
+- Added `github-of-the-day-archive.md` so past daily picks are retained with links, descriptions, and selection queries.
+- Added a minimum 3-star eligibility rule for GitHub of the Day picks.

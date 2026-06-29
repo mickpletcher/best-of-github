@@ -25,6 +25,9 @@ The format is based on Keep a Changelog and this project follows Semantic Versio
 - Added `--counts` flags to `scripts/update_weekly_rankings.py` and `scripts/validate_weekly_rankings.py` for top 50, top 100, top 250, and top 500 report sizes.
 - Added `micks-watchlist.md` for repos worth monitoring before they are promoted to the main curated README list.
 - Added a README freshness note showing the latest generated weekly scan date.
+- Added a README GitHub of the Day section and `scripts/update_github_of_the_day.py` to select a random public repository.
+- Added a daily GitHub of the Day workflow to refresh the README pick without rerunning weekly rankings.
+- Added `github-of-the-day-archive.md` to retain daily picks with links, descriptions, and selection queries.
 
 ### Changed
 - Added a .gitignore rule for best-of-github.code-workspace so the workspace file is not committed or pushed.
@@ -42,6 +45,9 @@ The format is based on Keep a Changelog and this project follows Semantic Versio
 - Updated repository docs to describe `future-upgrades.md` as a tracked backlog.
 - Updated README.md, completed-upgrades.md, future-upgrades.md, and assessment.md to reflect the new watchlist workflow.
 - Updated the weekly ranking generator, validator, and workflow so the README freshness note stays aligned with generated report dates.
+- Updated the weekly GitHub Actions workflow to refresh the GitHub of the Day block.
+- Updated the GitHub of the Day updater and workflows to maintain the archive file.
+- Changed the GitHub of the Day selector to require at least 3 stars.
 
 ## [2026-06-10]
 

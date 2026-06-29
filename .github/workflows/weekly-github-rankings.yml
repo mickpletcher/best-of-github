@@ -27,18 +27,24 @@ jobs:
           SCAN_TIMEZONE: America/Chicago
         run: python scripts/update_weekly_rankings.py
 
+      - name: Update GitHub of the Day
+        env:
+          GITHUB_TOKEN: ${{ github.token }}
+          SCAN_TIMEZONE: America/Chicago
+        run: python scripts/update_github_of_the_day.py
+
       - name: Validate weekly ranking reports
         run: python scripts/validate_weekly_rankings.py
 
       - name: Commit updated reports
         run: |
-          if git diff --quiet -- README.md weekly-top-100-github-repositories.md weekly-top-250-github-repositories.md; then
-            echo "Weekly ranking reports and README freshness note are already current."
+          if git diff --quiet -- README.md github-of-the-day-archive.md weekly-top-100-github-repositories.md weekly-top-250-github-repositories.md; then
+            echo "Weekly ranking reports and README are already current."
             exit 0
           fi
 
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add README.md weekly-top-100-github-repositories.md weekly-top-250-github-repositories.md
+          git add README.md github-of-the-day-archive.md weekly-top-100-github-repositories.md weekly-top-250-github-repositories.md
           git commit -m "Update weekly GitHub ranking reports"
           git push
