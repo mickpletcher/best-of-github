@@ -11,13 +11,13 @@ Latest weekly scan: 2026-06-29.
 ## GitHub of the Day
 
 <!-- github-of-the-day:start -->
-Selected for 2026-07-03 from public, non-fork, non-archived repositories with recent activity. This is random and is not based on popularity.
+Selected for 2026-07-04 from public, non-fork, non-archived repositories with recent activity. This is random and is not based on popularity.
 
 | Repository | Stars | Language | Notes |
 | --- | ---: | --- | --- |
-| [jackBonadies/SeekerAndroid](https://github.com/jackBonadies/SeekerAndroid) | 588 | C# | Android client for the Soulseek peer-to-peer network |
+| [JonasGroeger/jetbrains-ppa](https://github.com/JonasGroeger/jetbrains-ppa) | 319 | Shell | Auto-Updating PPA (unofficial) for JetBrains products. |
 
-Selection query: `stars:251..1000 fork:false archived:false is:public pushed:>=2025-07-03 language:C#`
+Selection query: `stars:251..1000 fork:false archived:false is:public pushed:>=2025-07-04 language:Shell`
 <!-- github-of-the-day:end -->
 
 Past picks are saved in the [GitHub of the Day Archive](github-of-the-day-archive.md). Repositories need at least 3 stars to be eligible.
