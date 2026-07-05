@@ -11,13 +11,13 @@ Latest weekly scan: 2026-06-29.
 ## GitHub of the Day
 
 <!-- github-of-the-day:start -->
-Selected for 2026-07-04 from public, non-fork, non-archived repositories with recent activity. This is random and is not based on popularity.
+Selected for 2026-07-05 from public, non-fork, non-archived repositories with recent activity. This is random and is not based on popularity.
 
 | Repository | Stars | Language | Notes |
 | --- | ---: | --- | --- |
-| [JonasGroeger/jetbrains-ppa](https://github.com/JonasGroeger/jetbrains-ppa) | 319 | Shell | Auto-Updating PPA (unofficial) for JetBrains products. |
+| [Botspot/bvm](https://github.com/Botspot/bvm) | 504 | Shell | User friendly, high performance Windows 11 Virtual Machine on ARM Linux |
 
-Selection query: `stars:251..1000 fork:false archived:false is:public pushed:>=2025-07-04 language:Shell`
+Selection query: `stars:251..1000 fork:false archived:false is:public pushed:>=2025-07-05 language:Shell`
 <!-- github-of-the-day:end -->
 
 Past picks are saved in the [GitHub of the Day Archive](github-of-the-day-archive.md). Repositories need at least 3 stars to be eligible.

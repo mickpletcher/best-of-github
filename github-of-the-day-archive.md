@@ -6,6 +6,7 @@ Each row keeps the repository link, star count, primary language, site descripti
 
 | Date | Repository | Stars | Language | Site Description | Selection Query |
 | --- | --- | ---: | --- | --- | --- |
+| 2026-07-05 | [Botspot/bvm](https://github.com/Botspot/bvm) | 504 | Shell | User friendly, high performance Windows 11 Virtual Machine on ARM Linux | `stars:251..1000 fork:false archived:false is:public pushed:>=2025-07-05 language:Shell` |
 | 2026-07-04 | [JonasGroeger/jetbrains-ppa](https://github.com/JonasGroeger/jetbrains-ppa) | 319 | Shell | Auto-Updating PPA (unofficial) for JetBrains products. | `stars:251..1000 fork:false archived:false is:public pushed:>=2025-07-04 language:Shell` |
 | 2026-07-03 | [jackBonadies/SeekerAndroid](https://github.com/jackBonadies/SeekerAndroid) | 588 | C# | Android client for the Soulseek peer-to-peer network | `stars:251..1000 fork:false archived:false is:public pushed:>=2025-07-03 language:C#` |
 | 2026-07-02 | [fastify/middie](https://github.com/fastify/middie) | 275 | JavaScript | Middleware engine for Fastify | `stars:251..1000 fork:false archived:false is:public pushed:>=2025-07-02 language:JavaScript` |
