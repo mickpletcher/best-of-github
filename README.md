@@ -11,13 +11,13 @@ Latest weekly scan: 2026-07-06.
 ## GitHub of the Day
 
 <!-- github-of-the-day:start -->
-Selected for 2026-07-06 from public, non-fork, non-archived repositories with recent activity. This is random and is not based on popularity.
+Selected for 2026-07-07 from public, non-fork, non-archived repositories with recent activity. This is random and is not based on popularity.
 
 | Repository | Stars | Language | Notes |
 | --- | ---: | --- | --- |
-| [celzero/firestack](https://github.com/celzero/firestack) | 170 | Go | Userspace wireguard and network monitor |
+| [kobotoolbox/kobo-docker](https://github.com/kobotoolbox/kobo-docker) | 206 | Shell | Stack of docker containers to all server-side components of KoboToolbox (kpi, kobocat, enketo-express). |
 
-Selection query: `stars:51..250 fork:false archived:false is:public pushed:>=2025-07-06 language:Go`
+Selection query: `stars:51..250 fork:false archived:false is:public pushed:>=2025-07-07 language:Shell`
 <!-- github-of-the-day:end -->
 
 Past picks are saved in the [GitHub of the Day Archive](github-of-the-day-archive.md). Repositories need at least 3 stars to be eligible.
