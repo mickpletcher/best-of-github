@@ -6,6 +6,7 @@ Each row keeps the repository link, star count, primary language, site descripti
 
 | Date | Repository | Stars | Language | Site Description | Selection Query |
 | --- | --- | ---: | --- | --- | --- |
+| 2026-07-08 | [dankogai/js-base64](https://github.com/dankogai/js-base64) | 4,367 | JavaScript | Base64 implementation for JavaScript | `stars:1001..5000 fork:false archived:false is:public pushed:>=2025-07-08 language:JavaScript` |
 | 2026-07-07 | [kobotoolbox/kobo-docker](https://github.com/kobotoolbox/kobo-docker) | 206 | Shell | Stack of docker containers to all server-side components of KoboToolbox (kpi, kobocat, enketo-express). | `stars:51..250 fork:false archived:false is:public pushed:>=2025-07-07 language:Shell` |
 | 2026-07-06 | [celzero/firestack](https://github.com/celzero/firestack) | 170 | Go | Userspace wireguard and network monitor | `stars:51..250 fork:false archived:false is:public pushed:>=2025-07-06 language:Go` |
 | 2026-07-05 | [Botspot/bvm](https://github.com/Botspot/bvm) | 504 | Shell | User friendly, high performance Windows 11 Virtual Machine on ARM Linux | `stars:251..1000 fork:false archived:false is:public pushed:>=2025-07-05 language:Shell` |
