@@ -6,6 +6,7 @@ Each row keeps the repository link, star count, primary language, site descripti
 
 | Date | Repository | Stars | Language | Site Description | Selection Query |
 | --- | --- | ---: | --- | --- | --- |
+| 2026-07-10 | [ankane/iceberg-ruby](https://github.com/ankane/iceberg-ruby) | 36 | Rust | Apache Iceberg for Ruby | `stars:3..50 fork:false archived:false is:public pushed:>=2025-07-10 language:Rust` |
 | 2026-07-09 | [RustyNova016/musicbrainz_rs](https://github.com/RustyNova016/musicbrainz_rs) | 86 | Rust | A wrapper around the musicbrainz API | `stars:51..250 fork:false archived:false is:public pushed:>=2025-07-09 language:Rust` |
 | 2026-07-08 | [dankogai/js-base64](https://github.com/dankogai/js-base64) | 4,367 | JavaScript | Base64 implementation for JavaScript | `stars:1001..5000 fork:false archived:false is:public pushed:>=2025-07-08 language:JavaScript` |
 | 2026-07-07 | [kobotoolbox/kobo-docker](https://github.com/kobotoolbox/kobo-docker) | 206 | Shell | Stack of docker containers to all server-side components of KoboToolbox (kpi, kobocat, enketo-express). | `stars:51..250 fork:false archived:false is:public pushed:>=2025-07-07 language:Shell` |
