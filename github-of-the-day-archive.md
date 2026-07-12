@@ -6,6 +6,7 @@ Each row keeps the repository link, star count, primary language, site descripti
 
 | Date | Repository | Stars | Language | Site Description | Selection Query |
 | --- | --- | ---: | --- | --- | --- |
+| 2026-07-12 | [kylesnowschwartz/zsh-ai-cmd](https://github.com/kylesnowschwartz/zsh-ai-cmd) | 97 | Shell | Zsh plugin: natural language to shell commands with AI | `stars:51..250 fork:false archived:false is:public pushed:>=2025-07-12 language:Shell` |
 | 2026-07-11 | [melpomenex/Incrementum](https://github.com/melpomenex/Incrementum) | 58 | TypeScript | Desktop app for incremental reading and spaced repetition. FSRS-6, SM-18/20, AI flashcards, PDF/EPUB/audio/video import. Tauri 2 + React 19 + Rust. | `stars:51..250 fork:false archived:false is:public pushed:>=2025-07-11 language:TypeScript` |
 | 2026-07-10 | [ankane/iceberg-ruby](https://github.com/ankane/iceberg-ruby) | 36 | Rust | Apache Iceberg for Ruby | `stars:3..50 fork:false archived:false is:public pushed:>=2025-07-10 language:Rust` |
 | 2026-07-09 | [RustyNova016/musicbrainz_rs](https://github.com/RustyNova016/musicbrainz_rs) | 86 | Rust | A wrapper around the musicbrainz API | `stars:51..250 fork:false archived:false is:public pushed:>=2025-07-09 language:Rust` |
