@@ -6,7 +6,7 @@ Each row keeps the repository link, star count, primary language, site descripti
 
 | Date | Repository | Stars | Language | Site Description | Selection Query |
 | --- | --- | ---: | --- | --- | --- |
-| 2026-07-13 | [cheminfo/nmrium](https://github.com/cheminfo/nmrium) | 80 | TypeScript | React component to display and process nuclear magnetic resonance (NMR) spectra. | `stars:51..250 fork:false archived:false is:public pushed:>=2025-07-13 language:TypeScript` |
+| 2026-07-13 | [Tibsfox/gsd-skill-creator](https://github.com/Tibsfox/gsd-skill-creator) | 69 | TypeScript | Introduces a comprehensive agent-based framework for guided software development (GSD) | `stars:51..250 fork:false archived:false is:public pushed:>=2025-07-13 language:TypeScript` |
 | 2026-07-12 | [kylesnowschwartz/zsh-ai-cmd](https://github.com/kylesnowschwartz/zsh-ai-cmd) | 97 | Shell | Zsh plugin: natural language to shell commands with AI | `stars:51..250 fork:false archived:false is:public pushed:>=2025-07-12 language:Shell` |
 | 2026-07-11 | [melpomenex/Incrementum](https://github.com/melpomenex/Incrementum) | 58 | TypeScript | Desktop app for incremental reading and spaced repetition. FSRS-6, SM-18/20, AI flashcards, PDF/EPUB/audio/video import. Tauri 2 + React 19 + Rust. | `stars:51..250 fork:false archived:false is:public pushed:>=2025-07-11 language:TypeScript` |
 | 2026-07-10 | [ankane/iceberg-ruby](https://github.com/ankane/iceberg-ruby) | 36 | Rust | Apache Iceberg for Ruby | `stars:3..50 fork:false archived:false is:public pushed:>=2025-07-10 language:Rust` |

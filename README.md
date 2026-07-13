@@ -15,7 +15,7 @@ Selected for 2026-07-13 from public, non-fork, non-archived repositories with re
 
 | Repository | Stars | Language | Notes |
 | --- | ---: | --- | --- |
-| [cheminfo/nmrium](https://github.com/cheminfo/nmrium) | 80 | TypeScript | React component to display and process nuclear magnetic resonance (NMR) spectra. |
+| [Tibsfox/gsd-skill-creator](https://github.com/Tibsfox/gsd-skill-creator) | 69 | TypeScript | Introduces a comprehensive agent-based framework for guided software development (GSD) |
 
 Selection query: `stars:51..250 fork:false archived:false is:public pushed:>=2025-07-13 language:TypeScript`
 <!-- github-of-the-day:end -->
