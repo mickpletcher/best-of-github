@@ -6,18 +6,18 @@ Star counts were refreshed on 2026-06-10.
 
 For the current automated rankings, see the weekly top 100 and weekly top 250 reports below.
 
-Latest weekly scan: 2026-07-06.
+Latest weekly scan: 2026-07-13.
 
 ## GitHub of the Day
 
 <!-- github-of-the-day:start -->
-Selected for 2026-07-12 from public, non-fork, non-archived repositories with recent activity. This is random and is not based on popularity.
+Selected for 2026-07-13 from public, non-fork, non-archived repositories with recent activity. This is random and is not based on popularity.
 
 | Repository | Stars | Language | Notes |
 | --- | ---: | --- | --- |
-| [kylesnowschwartz/zsh-ai-cmd](https://github.com/kylesnowschwartz/zsh-ai-cmd) | 97 | Shell | Zsh plugin: natural language to shell commands with AI |
+| [cheminfo/nmrium](https://github.com/cheminfo/nmrium) | 80 | TypeScript | React component to display and process nuclear magnetic resonance (NMR) spectra. |
 
-Selection query: `stars:51..250 fork:false archived:false is:public pushed:>=2025-07-12 language:Shell`
+Selection query: `stars:51..250 fork:false archived:false is:public pushed:>=2025-07-13 language:TypeScript`
 <!-- github-of-the-day:end -->
 
 Past picks are saved in the [GitHub of the Day Archive](github-of-the-day-archive.md). Repositories need at least 3 stars to be eligible.
