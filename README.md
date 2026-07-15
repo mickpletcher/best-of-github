@@ -11,13 +11,13 @@ Latest weekly scan: 2026-07-13.
 ## GitHub of the Day
 
 <!-- github-of-the-day:start -->
-Selected for 2026-07-14 from public, non-fork, non-archived repositories with recent activity. This is random and is not based on popularity.
+Selected for 2026-07-15 from public, non-fork, non-archived repositories with recent activity. This is random and is not based on popularity.
 
 | Repository | Stars | Language | Notes |
 | --- | ---: | --- | --- |
-| [OpenMacroBoard/StreamDeckSharp](https://github.com/OpenMacroBoard/StreamDeckSharp) | 396 | C# | A simple .NET wrapper for Stream Deck |
+| [liriliri/tinker](https://github.com/liriliri/tinker) | 207 | TypeScript | Toolbox for everyone |
 
-Selection query: `stars:251..1000 fork:false archived:false is:public pushed:>=2025-07-14 language:C#`
+Selection query: `stars:51..250 fork:false archived:false is:public pushed:>=2025-07-15 language:TypeScript`
 <!-- github-of-the-day:end -->
 
 Past picks are saved in the [GitHub of the Day Archive](github-of-the-day-archive.md). Repositories need at least 3 stars to be eligible.
