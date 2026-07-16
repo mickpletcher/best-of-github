@@ -11,13 +11,13 @@ Latest weekly scan: 2026-07-13.
 ## GitHub of the Day
 
 <!-- github-of-the-day:start -->
-Selected for 2026-07-15 from public, non-fork, non-archived repositories with recent activity. This is random and is not based on popularity.
+Selected for 2026-07-16 from public, non-fork, non-archived repositories with recent activity. This is random and is not based on popularity.
 
 | Repository | Stars | Language | Notes |
 | --- | ---: | --- | --- |
-| [liriliri/tinker](https://github.com/liriliri/tinker) | 207 | TypeScript | Toolbox for everyone |
+| [pymc-labs/pymc-marketing](https://github.com/pymc-labs/pymc-marketing) | 1,199 | Python | Bayesian marketing toolbox in PyMC. Media Mix (MMM), customer lifetime value (CLV), buy-till-you-die (BTYD) models and more. |
 
-Selection query: `stars:51..250 fork:false archived:false is:public pushed:>=2025-07-15 language:TypeScript`
+Selection query: `stars:1001..5000 fork:false archived:false is:public pushed:>=2025-07-16 language:Python`
 <!-- github-of-the-day:end -->
 
 Past picks are saved in the [GitHub of the Day Archive](github-of-the-day-archive.md). Repositories need at least 3 stars to be eligible.

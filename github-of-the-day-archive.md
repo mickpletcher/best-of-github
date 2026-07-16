@@ -6,6 +6,7 @@ Each row keeps the repository link, star count, primary language, site descripti
 
 | Date | Repository | Stars | Language | Site Description | Selection Query |
 | --- | --- | ---: | --- | --- | --- |
+| 2026-07-16 | [pymc-labs/pymc-marketing](https://github.com/pymc-labs/pymc-marketing) | 1,199 | Python | Bayesian marketing toolbox in PyMC. Media Mix (MMM), customer lifetime value (CLV), buy-till-you-die (BTYD) models and more. | `stars:1001..5000 fork:false archived:false is:public pushed:>=2025-07-16 language:Python` |
 | 2026-07-15 | [liriliri/tinker](https://github.com/liriliri/tinker) | 207 | TypeScript | Toolbox for everyone | `stars:51..250 fork:false archived:false is:public pushed:>=2025-07-15 language:TypeScript` |
 | 2026-07-14 | [OpenMacroBoard/StreamDeckSharp](https://github.com/OpenMacroBoard/StreamDeckSharp) | 396 | C# | A simple .NET wrapper for Stream Deck | `stars:251..1000 fork:false archived:false is:public pushed:>=2025-07-14 language:C#` |
 | 2026-07-13 | [Tibsfox/gsd-skill-creator](https://github.com/Tibsfox/gsd-skill-creator) | 69 | TypeScript | Introduces a comprehensive agent-based framework for guided software development (GSD) | `stars:51..250 fork:false archived:false is:public pushed:>=2025-07-13 language:TypeScript` |
