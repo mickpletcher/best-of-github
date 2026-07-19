@@ -6,6 +6,7 @@ Each row keeps the repository link, star count, primary language, site descripti
 
 | Date | Repository | Stars | Language | Site Description | Selection Query |
 | --- | --- | ---: | --- | --- | --- |
+| 2026-07-19 | [ccbogel/QualCoder](https://github.com/ccbogel/QualCoder) | 647 | Python | Qualitative data analysis for text, images, audio, video. Cross platform. Python 3.12 or newer and PyQt6. | `stars:251..1000 fork:false archived:false is:public pushed:>=2025-07-19 language:Python` |
 | 2026-07-18 | [eXtremeProgramming-cn/pomasa](https://github.com/eXtremeProgramming-cn/pomasa) | 47 | Shell | Patterns of Multi-Agent System Architecture | `stars:3..50 fork:false archived:false is:public pushed:>=2025-07-18 language:Shell` |
 | 2026-07-17 | [JasonBock/Rocks](https://github.com/JasonBock/Rocks) | 383 | C# | A mocking library based on the Compiler APIs (Roslyn + Mocks) | `stars:251..1000 fork:false archived:false is:public pushed:>=2025-07-17 language:C#` |
 | 2026-07-16 | [pymc-labs/pymc-marketing](https://github.com/pymc-labs/pymc-marketing) | 1,199 | Python | Bayesian marketing toolbox in PyMC. Media Mix (MMM), customer lifetime value (CLV), buy-till-you-die (BTYD) models and more. | `stars:1001..5000 fork:false archived:false is:public pushed:>=2025-07-16 language:Python` |

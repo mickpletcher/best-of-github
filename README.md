@@ -11,13 +11,13 @@ Latest weekly scan: 2026-07-13.
 ## GitHub of the Day
 
 <!-- github-of-the-day:start -->
-Selected for 2026-07-18 from public, non-fork, non-archived repositories with recent activity. This is random and is not based on popularity.
+Selected for 2026-07-19 from public, non-fork, non-archived repositories with recent activity. This is random and is not based on popularity.
 
 | Repository | Stars | Language | Notes |
 | --- | ---: | --- | --- |
-| [eXtremeProgramming-cn/pomasa](https://github.com/eXtremeProgramming-cn/pomasa) | 47 | Shell | Patterns of Multi-Agent System Architecture |
+| [ccbogel/QualCoder](https://github.com/ccbogel/QualCoder) | 647 | Python | Qualitative data analysis for text, images, audio, video. Cross platform. Python 3.12 or newer and PyQt6. |
 
-Selection query: `stars:3..50 fork:false archived:false is:public pushed:>=2025-07-18 language:Shell`
+Selection query: `stars:251..1000 fork:false archived:false is:public pushed:>=2025-07-19 language:Python`
 <!-- github-of-the-day:end -->
 
 Past picks are saved in the [GitHub of the Day Archive](github-of-the-day-archive.md). Repositories need at least 3 stars to be eligible.
