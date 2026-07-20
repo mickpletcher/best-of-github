@@ -6,18 +6,18 @@ Star counts were refreshed on 2026-06-10.
 
 For the current automated rankings, see the weekly top 100 and weekly top 250 reports below.
 
-Latest weekly scan: 2026-07-13.
+Latest weekly scan: 2026-07-20.
 
 ## GitHub of the Day
 
 <!-- github-of-the-day:start -->
-Selected for 2026-07-19 from public, non-fork, non-archived repositories with recent activity. This is random and is not based on popularity.
+Selected for 2026-07-20 from public, non-fork, non-archived repositories with recent activity. This is random and is not based on popularity.
 
 | Repository | Stars | Language | Notes |
 | --- | ---: | --- | --- |
-| [ccbogel/QualCoder](https://github.com/ccbogel/QualCoder) | 647 | Python | Qualitative data analysis for text, images, audio, video. Cross platform. Python 3.12 or newer and PyQt6. |
+| [zh54321/SharePointDumper](https://github.com/zh54321/SharePointDumper) | 166 | PowerShell | PowerShell SharePoint extraction + auditing tool for red/blue/purple teams. Enumerates all SharePoint sites/drives a user can access via Microsoft Graph, recursively downloads files, and logs every Graph + SharePoint HTTP request for SIEM correlation, detection engineering, and IR testing. |
 
-Selection query: `stars:251..1000 fork:false archived:false is:public pushed:>=2025-07-19 language:Python`
+Selection query: `stars:51..250 fork:false archived:false is:public pushed:>=2025-07-20 language:PowerShell`
 <!-- github-of-the-day:end -->
 
 Past picks are saved in the [GitHub of the Day Archive](github-of-the-day-archive.md). Repositories need at least 3 stars to be eligible.
