@@ -6,6 +6,7 @@ Each row keeps the repository link, star count, primary language, site descripti
 
 | Date | Repository | Stars | Language | Site Description | Selection Query |
 | --- | --- | ---: | --- | --- | --- |
+| 2026-07-22 | [gquittet/graceful-server](https://github.com/gquittet/graceful-server) | 346 | TypeScript | Tiny (~5k), KISS, dependency-free Node.JS library to make your API more graceful | `stars:251..1000 fork:false archived:false is:public pushed:>=2025-07-22 language:TypeScript` |
 | 2026-07-21 | [gircore/gir.core](https://github.com/gircore/gir.core) | 500 | C# | A C# binding generator for GObject based libraries providing a C# friendly API surface | `stars:251..1000 fork:false archived:false is:public pushed:>=2025-07-21 language:C#` |
 | 2026-07-20 | [zh54321/SharePointDumper](https://github.com/zh54321/SharePointDumper) | 166 | PowerShell | PowerShell SharePoint extraction + auditing tool for red/blue/purple teams. Enumerates all SharePoint sites/drives a user can access via Microsoft Graph, recursively downloads files, and logs every Graph + SharePoint HTTP request for SIEM correlation, detection engineering, and IR testing. | `stars:51..250 fork:false archived:false is:public pushed:>=2025-07-20 language:PowerShell` |
 | 2026-07-19 | [ccbogel/QualCoder](https://github.com/ccbogel/QualCoder) | 647 | Python | Qualitative data analysis for text, images, audio, video. Cross platform. Python 3.12 or newer and PyQt6. | `stars:251..1000 fork:false archived:false is:public pushed:>=2025-07-19 language:Python` |
