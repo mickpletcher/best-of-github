@@ -6,6 +6,7 @@ Each row keeps the repository link, star count, primary language, site descripti
 
 | Date | Repository | Stars | Language | Site Description | Selection Query |
 | --- | --- | ---: | --- | --- | --- |
+| 2026-07-23 | [Mygod/slipstream-rust](https://github.com/Mygod/slipstream-rust) | 442 | Rust | High-performance multi-path covert channel over DNS in Rust with vibe coding | `stars:251..1000 fork:false archived:false is:public pushed:>=2025-07-23 language:Rust` |
 | 2026-07-22 | [gquittet/graceful-server](https://github.com/gquittet/graceful-server) | 346 | TypeScript | Tiny (~5k), KISS, dependency-free Node.JS library to make your API more graceful | `stars:251..1000 fork:false archived:false is:public pushed:>=2025-07-22 language:TypeScript` |
 | 2026-07-21 | [gircore/gir.core](https://github.com/gircore/gir.core) | 500 | C# | A C# binding generator for GObject based libraries providing a C# friendly API surface | `stars:251..1000 fork:false archived:false is:public pushed:>=2025-07-21 language:C#` |
 | 2026-07-20 | [zh54321/SharePointDumper](https://github.com/zh54321/SharePointDumper) | 166 | PowerShell | PowerShell SharePoint extraction + auditing tool for red/blue/purple teams. Enumerates all SharePoint sites/drives a user can access via Microsoft Graph, recursively downloads files, and logs every Graph + SharePoint HTTP request for SIEM correlation, detection engineering, and IR testing. | `stars:51..250 fork:false archived:false is:public pushed:>=2025-07-20 language:PowerShell` |
