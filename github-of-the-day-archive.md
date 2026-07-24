@@ -6,6 +6,7 @@ Each row keeps the repository link, star count, primary language, site descripti
 
 | Date | Repository | Stars | Language | Site Description | Selection Query |
 | --- | --- | ---: | --- | --- | --- |
+| 2026-07-24 | [Laweemwos/Bulk-Gmail-Account-Creator](https://github.com/Laweemwos/Bulk-Gmail-Account-Creator) | 10 | JavaScript | Automate Google account creation using Puppeteer with this script, which auto-fills the registration form and handles verification steps. | `stars:3..50 fork:false archived:false is:public pushed:>=2025-07-24 language:JavaScript` |
 | 2026-07-23 | [Mygod/slipstream-rust](https://github.com/Mygod/slipstream-rust) | 442 | Rust | High-performance multi-path covert channel over DNS in Rust with vibe coding | `stars:251..1000 fork:false archived:false is:public pushed:>=2025-07-23 language:Rust` |
 | 2026-07-22 | [gquittet/graceful-server](https://github.com/gquittet/graceful-server) | 346 | TypeScript | Tiny (~5k), KISS, dependency-free Node.JS library to make your API more graceful | `stars:251..1000 fork:false archived:false is:public pushed:>=2025-07-22 language:TypeScript` |
 | 2026-07-21 | [gircore/gir.core](https://github.com/gircore/gir.core) | 500 | C# | A C# binding generator for GObject based libraries providing a C# friendly API surface | `stars:251..1000 fork:false archived:false is:public pushed:>=2025-07-21 language:C#` |
