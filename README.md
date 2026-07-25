@@ -11,13 +11,13 @@ Latest weekly scan: 2026-07-20.
 ## GitHub of the Day
 
 <!-- github-of-the-day:start -->
-Selected for 2026-07-24 from public, non-fork, non-archived repositories with recent activity. This is random and is not based on popularity.
+Selected for 2026-07-25 from public, non-fork, non-archived repositories with recent activity. This is random and is not based on popularity.
 
 | Repository | Stars | Language | Notes |
 | --- | ---: | --- | --- |
-| [Laweemwos/Bulk-Gmail-Account-Creator](https://github.com/Laweemwos/Bulk-Gmail-Account-Creator) | 10 | JavaScript | Automate Google account creation using Puppeteer with this script, which auto-fills the registration form and handles verification steps. |
+| [liliancoghlan1-tech/among-us-access](https://github.com/liliancoghlan1-tech/among-us-access) | 3 | PowerShell | Screen-reader (NVDA) accessibility mod for Among Us - play every Skeld task by ear. One-click installer. |
 
-Selection query: `stars:3..50 fork:false archived:false is:public pushed:>=2025-07-24 language:JavaScript`
+Selection query: `stars:3..50 fork:false archived:false is:public pushed:>=2025-07-25 language:PowerShell`
 <!-- github-of-the-day:end -->
 
 Past picks are saved in the [GitHub of the Day Archive](github-of-the-day-archive.md). Repositories need at least 3 stars to be eligible.
