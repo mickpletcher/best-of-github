@@ -11,13 +11,13 @@ Latest weekly scan: 2026-07-20.
 ## GitHub of the Day
 
 <!-- github-of-the-day:start -->
-Selected for 2026-07-25 from public, non-fork, non-archived repositories with recent activity. This is random and is not based on popularity.
+Selected for 2026-07-26 from public, non-fork, non-archived repositories with recent activity. This is random and is not based on popularity.
 
 | Repository | Stars | Language | Notes |
 | --- | ---: | --- | --- |
-| [liliancoghlan1-tech/among-us-access](https://github.com/liliancoghlan1-tech/among-us-access) | 3 | PowerShell | Screen-reader (NVDA) accessibility mod for Among Us - play every Skeld task by ear. One-click installer. |
+| [xyzs996/free-proxy-health-list](https://github.com/xyzs996/free-proxy-health-list) | 17 | Python | Free HTTP, HTTPS, SOCKS4 and SOCKS5 proxy health list. Verified proxies, JSON/TXT/CSV, automated updates and proxy checker. |
 
-Selection query: `stars:3..50 fork:false archived:false is:public pushed:>=2025-07-25 language:PowerShell`
+Selection query: `stars:3..50 fork:false archived:false is:public pushed:>=2025-07-26 language:Python`
 <!-- github-of-the-day:end -->
 
 Past picks are saved in the [GitHub of the Day Archive](github-of-the-day-archive.md). Repositories need at least 3 stars to be eligible.
