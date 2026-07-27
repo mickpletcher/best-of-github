@@ -6,6 +6,7 @@ Each row keeps the repository link, star count, primary language, site descripti
 
 | Date | Repository | Stars | Language | Site Description | Selection Query |
 | --- | --- | ---: | --- | --- | --- |
+| 2026-07-27 | [ForNeVeR/xaml-math](https://github.com/ForNeVeR/xaml-math) | 719 | C# | A collection of .NET libraries for rendering mathematical formulae using the LaTeX typesetting style, for the WPF and Avalonia XAML-based frameworks | `stars:251..1000 fork:false archived:false is:public pushed:>=2025-07-27 language:C#` |
 | 2026-07-26 | [xyzs996/free-proxy-health-list](https://github.com/xyzs996/free-proxy-health-list) | 17 | Python | Free HTTP, HTTPS, SOCKS4 and SOCKS5 proxy health list. Verified proxies, JSON/TXT/CSV, automated updates and proxy checker. | `stars:3..50 fork:false archived:false is:public pushed:>=2025-07-26 language:Python` |
 | 2026-07-25 | [liliancoghlan1-tech/among-us-access](https://github.com/liliancoghlan1-tech/among-us-access) | 3 | PowerShell | Screen-reader (NVDA) accessibility mod for Among Us - play every Skeld task by ear. One-click installer. | `stars:3..50 fork:false archived:false is:public pushed:>=2025-07-25 language:PowerShell` |
 | 2026-07-24 | [Laweemwos/Bulk-Gmail-Account-Creator](https://github.com/Laweemwos/Bulk-Gmail-Account-Creator) | 10 | JavaScript | Automate Google account creation using Puppeteer with this script, which auto-fills the registration form and handles verification steps. | `stars:3..50 fork:false archived:false is:public pushed:>=2025-07-24 language:JavaScript` |

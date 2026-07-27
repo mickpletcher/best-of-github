@@ -6,18 +6,18 @@ Star counts were refreshed on 2026-06-10.
 
 For the current automated rankings, see the weekly top 100 and weekly top 250 reports below.
 
-Latest weekly scan: 2026-07-20.
+Latest weekly scan: 2026-07-27.
 
 ## GitHub of the Day
 
 <!-- github-of-the-day:start -->
-Selected for 2026-07-26 from public, non-fork, non-archived repositories with recent activity. This is random and is not based on popularity.
+Selected for 2026-07-27 from public, non-fork, non-archived repositories with recent activity. This is random and is not based on popularity.
 
 | Repository | Stars | Language | Notes |
 | --- | ---: | --- | --- |
-| [xyzs996/free-proxy-health-list](https://github.com/xyzs996/free-proxy-health-list) | 17 | Python | Free HTTP, HTTPS, SOCKS4 and SOCKS5 proxy health list. Verified proxies, JSON/TXT/CSV, automated updates and proxy checker. |
+| [ForNeVeR/xaml-math](https://github.com/ForNeVeR/xaml-math) | 719 | C# | A collection of .NET libraries for rendering mathematical formulae using the LaTeX typesetting style, for the WPF and Avalonia XAML-based frameworks |
 
-Selection query: `stars:3..50 fork:false archived:false is:public pushed:>=2025-07-26 language:Python`
+Selection query: `stars:251..1000 fork:false archived:false is:public pushed:>=2025-07-27 language:C#`
 <!-- github-of-the-day:end -->
 
 Past picks are saved in the [GitHub of the Day Archive](github-of-the-day-archive.md). Repositories need at least 3 stars to be eligible.
