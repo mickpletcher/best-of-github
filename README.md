@@ -11,13 +11,13 @@ Latest weekly scan: 2026-07-27.
 ## GitHub of the Day
 
 <!-- github-of-the-day:start -->
-Selected for 2026-07-27 from public, non-fork, non-archived repositories with recent activity. This is random and is not based on popularity.
+Selected for 2026-07-28 from public, non-fork, non-archived repositories with recent activity. This is random and is not based on popularity.
 
 | Repository | Stars | Language | Notes |
 | --- | ---: | --- | --- |
-| [ForNeVeR/xaml-math](https://github.com/ForNeVeR/xaml-math) | 719 | C# | A collection of .NET libraries for rendering mathematical formulae using the LaTeX typesetting style, for the WPF and Avalonia XAML-based frameworks |
+| [MicrosoftDocs/dynamics-365-customer-engagement](https://github.com/MicrosoftDocs/dynamics-365-customer-engagement) | 265 | C# | public repo for dynamics365 customer-engagement docs |
 
-Selection query: `stars:251..1000 fork:false archived:false is:public pushed:>=2025-07-27 language:C#`
+Selection query: `stars:251..1000 fork:false archived:false is:public pushed:>=2025-07-28 language:C#`
 <!-- github-of-the-day:end -->
 
 Past picks are saved in the [GitHub of the Day Archive](github-of-the-day-archive.md). Repositories need at least 3 stars to be eligible.
