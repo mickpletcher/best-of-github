@@ -11,13 +11,13 @@ Latest weekly scan: 2026-07-27.
 ## GitHub of the Day
 
 <!-- github-of-the-day:start -->
-Selected for 2026-07-29 from public, non-fork, non-archived repositories with recent activity. This is random and is not based on popularity.
+Selected for 2026-07-30 from public, non-fork, non-archived repositories with recent activity. This is random and is not based on popularity.
 
 | Repository | Stars | Language | Notes |
 | --- | ---: | --- | --- |
-| [DoktorShift/TX_Postoffice](https://github.com/DoktorShift/TX_Postoffice) | 4 | JavaScript | Visualize Bitcoin Mempool |
+| [CommE2E/comm](https://github.com/CommE2E/comm) | 331 | JavaScript | Comm is an E2E-encrypted, open source messaging app for communities. |
 
-Selection query: `stars:3..50 fork:false archived:false is:public pushed:>=2025-07-29 language:JavaScript`
+Selection query: `stars:251..1000 fork:false archived:false is:public pushed:>=2025-07-30 language:JavaScript`
 <!-- github-of-the-day:end -->
 
 Past picks are saved in the [GitHub of the Day Archive](github-of-the-day-archive.md). Repositories need at least 3 stars to be eligible.

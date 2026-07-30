@@ -6,6 +6,7 @@ Each row keeps the repository link, star count, primary language, site descripti
 
 | Date | Repository | Stars | Language | Site Description | Selection Query |
 | --- | --- | ---: | --- | --- | --- |
+| 2026-07-30 | [CommE2E/comm](https://github.com/CommE2E/comm) | 331 | JavaScript | Comm is an E2E-encrypted, open source messaging app for communities. | `stars:251..1000 fork:false archived:false is:public pushed:>=2025-07-30 language:JavaScript` |
 | 2026-07-29 | [DoktorShift/TX_Postoffice](https://github.com/DoktorShift/TX_Postoffice) | 4 | JavaScript | Visualize Bitcoin Mempool | `stars:3..50 fork:false archived:false is:public pushed:>=2025-07-29 language:JavaScript` |
 | 2026-07-28 | [MicrosoftDocs/dynamics-365-customer-engagement](https://github.com/MicrosoftDocs/dynamics-365-customer-engagement) | 265 | C# | public repo for dynamics365 customer-engagement docs | `stars:251..1000 fork:false archived:false is:public pushed:>=2025-07-28 language:C#` |
 | 2026-07-27 | [ForNeVeR/xaml-math](https://github.com/ForNeVeR/xaml-math) | 719 | C# | A collection of .NET libraries for rendering mathematical formulae using the LaTeX typesetting style, for the WPF and Avalonia XAML-based frameworks | `stars:251..1000 fork:false archived:false is:public pushed:>=2025-07-27 language:C#` |
