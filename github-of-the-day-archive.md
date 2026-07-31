@@ -6,6 +6,7 @@ Each row keeps the repository link, star count, primary language, site descripti
 
 | Date | Repository | Stars | Language | Site Description | Selection Query |
 | --- | --- | ---: | --- | --- | --- |
+| 2026-07-31 | [webpack/webpack-cli](https://github.com/webpack/webpack-cli) | 2,607 | JavaScript | Webpack's Command Line Interface | `stars:1001..5000 fork:false archived:false is:public pushed:>=2025-07-31 language:JavaScript` |
 | 2026-07-30 | [CommE2E/comm](https://github.com/CommE2E/comm) | 331 | JavaScript | Comm is an E2E-encrypted, open source messaging app for communities. | `stars:251..1000 fork:false archived:false is:public pushed:>=2025-07-30 language:JavaScript` |
 | 2026-07-29 | [DoktorShift/TX_Postoffice](https://github.com/DoktorShift/TX_Postoffice) | 4 | JavaScript | Visualize Bitcoin Mempool | `stars:3..50 fork:false archived:false is:public pushed:>=2025-07-29 language:JavaScript` |
 | 2026-07-28 | [MicrosoftDocs/dynamics-365-customer-engagement](https://github.com/MicrosoftDocs/dynamics-365-customer-engagement) | 265 | C# | public repo for dynamics365 customer-engagement docs | `stars:251..1000 fork:false archived:false is:public pushed:>=2025-07-28 language:C#` |

@@ -11,13 +11,13 @@ Latest weekly scan: 2026-07-27.
 ## GitHub of the Day
 
 <!-- github-of-the-day:start -->
-Selected for 2026-07-30 from public, non-fork, non-archived repositories with recent activity. This is random and is not based on popularity.
+Selected for 2026-07-31 from public, non-fork, non-archived repositories with recent activity. This is random and is not based on popularity.
 
 | Repository | Stars | Language | Notes |
 | --- | ---: | --- | --- |
-| [CommE2E/comm](https://github.com/CommE2E/comm) | 331 | JavaScript | Comm is an E2E-encrypted, open source messaging app for communities. |
+| [webpack/webpack-cli](https://github.com/webpack/webpack-cli) | 2,607 | JavaScript | Webpack's Command Line Interface |
 
-Selection query: `stars:251..1000 fork:false archived:false is:public pushed:>=2025-07-30 language:JavaScript`
+Selection query: `stars:1001..5000 fork:false archived:false is:public pushed:>=2025-07-31 language:JavaScript`
 <!-- github-of-the-day:end -->
 
 Past picks are saved in the [GitHub of the Day Archive](github-of-the-day-archive.md). Repositories need at least 3 stars to be eligible.
