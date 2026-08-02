@@ -11,13 +11,13 @@ Latest weekly scan: 2026-07-27.
 ## GitHub of the Day
 
 <!-- github-of-the-day:start -->
-Selected for 2026-08-01 from public, non-fork, non-archived repositories with recent activity. This is random and is not based on popularity.
+Selected for 2026-08-02 from public, non-fork, non-archived repositories with recent activity. This is random and is not based on popularity.
 
 | Repository | Stars | Language | Notes |
 | --- | ---: | --- | --- |
-| [dpadGuy/SalsaNOW](https://github.com/dpadGuy/SalsaNOW) | 65 | C# | SalsaNOW, the tool that sets up your GeForce NOW session experiences into local ones ! |
+| [volkkov/go](https://github.com/volkkov/go) | 37 | Go | Help rock the github what and how to do? |
 
-Selection query: `stars:51..250 fork:false archived:false is:public pushed:>=2025-08-01 language:C#`
+Selection query: `stars:3..50 fork:false archived:false is:public pushed:>=2025-08-02 language:Go`
 <!-- github-of-the-day:end -->
 
 Past picks are saved in the [GitHub of the Day Archive](github-of-the-day-archive.md). Repositories need at least 3 stars to be eligible.
