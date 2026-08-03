@@ -6,18 +6,18 @@ Star counts were refreshed on 2026-06-10.
 
 For the current automated rankings, see the weekly top 100 and weekly top 250 reports below.
 
-Latest weekly scan: 2026-07-27.
+Latest weekly scan: 2026-08-03.
 
 ## GitHub of the Day
 
 <!-- github-of-the-day:start -->
-Selected for 2026-08-02 from public, non-fork, non-archived repositories with recent activity. This is random and is not based on popularity.
+Selected for 2026-08-03 from public, non-fork, non-archived repositories with recent activity. This is random and is not based on popularity.
 
 | Repository | Stars | Language | Notes |
 | --- | ---: | --- | --- |
-| [volkkov/go](https://github.com/volkkov/go) | 37 | Go | Help rock the github what and how to do? |
+| [open-telemetry/opentelemetry.io](https://github.com/open-telemetry/opentelemetry.io) | 943 | JavaScript | The OpenTelemetry website and documentation |
 
-Selection query: `stars:3..50 fork:false archived:false is:public pushed:>=2025-08-02 language:Go`
+Selection query: `stars:251..1000 fork:false archived:false is:public pushed:>=2025-08-03 language:JavaScript`
 <!-- github-of-the-day:end -->
 
 Past picks are saved in the [GitHub of the Day Archive](github-of-the-day-archive.md). Repositories need at least 3 stars to be eligible.
