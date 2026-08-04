@@ -11,13 +11,13 @@ Latest weekly scan: 2026-08-03.
 ## GitHub of the Day
 
 <!-- github-of-the-day:start -->
-Selected for 2026-08-03 from public, non-fork, non-archived repositories with recent activity. This is random and is not based on popularity.
+Selected for 2026-08-04 from public, non-fork, non-archived repositories with recent activity. This is random and is not based on popularity.
 
 | Repository | Stars | Language | Notes |
 | --- | ---: | --- | --- |
-| [open-telemetry/opentelemetry.io](https://github.com/open-telemetry/opentelemetry.io) | 943 | JavaScript | The OpenTelemetry website and documentation |
+| [microsoft/wassette](https://github.com/microsoft/wassette) | 931 | Rust | Wassette: A security-oriented runtime that runs WebAssembly Components via MCP |
 
-Selection query: `stars:251..1000 fork:false archived:false is:public pushed:>=2025-08-03 language:JavaScript`
+Selection query: `stars:251..1000 fork:false archived:false is:public pushed:>=2025-08-04 language:Rust`
 <!-- github-of-the-day:end -->
 
 Past picks are saved in the [GitHub of the Day Archive](github-of-the-day-archive.md). Repositories need at least 3 stars to be eligible.

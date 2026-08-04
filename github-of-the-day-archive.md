@@ -6,6 +6,7 @@ Each row keeps the repository link, star count, primary language, site descripti
 
 | Date | Repository | Stars | Language | Site Description | Selection Query |
 | --- | --- | ---: | --- | --- | --- |
+| 2026-08-04 | [microsoft/wassette](https://github.com/microsoft/wassette) | 931 | Rust | Wassette: A security-oriented runtime that runs WebAssembly Components via MCP | `stars:251..1000 fork:false archived:false is:public pushed:>=2025-08-04 language:Rust` |
 | 2026-08-03 | [open-telemetry/opentelemetry.io](https://github.com/open-telemetry/opentelemetry.io) | 943 | JavaScript | The OpenTelemetry website and documentation | `stars:251..1000 fork:false archived:false is:public pushed:>=2025-08-03 language:JavaScript` |
 | 2026-08-02 | [volkkov/go](https://github.com/volkkov/go) | 37 | Go | Help rock the github what and how to do? | `stars:3..50 fork:false archived:false is:public pushed:>=2025-08-02 language:Go` |
 | 2026-08-01 | [dpadGuy/SalsaNOW](https://github.com/dpadGuy/SalsaNOW) | 65 | C# | SalsaNOW, the tool that sets up your GeForce NOW session experiences into local ones ! | `stars:51..250 fork:false archived:false is:public pushed:>=2025-08-01 language:C#` |
