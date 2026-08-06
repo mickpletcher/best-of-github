@@ -11,13 +11,13 @@ Latest weekly scan: 2026-08-03.
 ## GitHub of the Day
 
 <!-- github-of-the-day:start -->
-Selected for 2026-08-05 from public, non-fork, non-archived repositories with recent activity. This is random and is not based on popularity.
+Selected for 2026-08-06 from public, non-fork, non-archived repositories with recent activity. This is random and is not based on popularity.
 
 | Repository | Stars | Language | Notes |
 | --- | ---: | --- | --- |
-| [Taritsyn/WebMarkupMin](https://github.com/Taritsyn/WebMarkupMin) | 497 | C# | The Web Markup Minifier (abbreviated WebMarkupMin) - a .NET library that contains a set of markup minifiers. The objective of this project is to improve the performance of web applications by reducing the size of HTML, XHTML and XML code. |
+| [akitaonrails/ai-usagebar](https://github.com/akitaonrails/ai-usagebar) | 251 | Rust | Rust-based waybar widget to monitor status of Claude, GPT, GLM, OpenRouter plans/credits - inspired by claudebar/codexbar |
 
-Selection query: `stars:251..1000 fork:false archived:false is:public pushed:>=2025-08-05 language:C#`
+Selection query: `stars:251..1000 fork:false archived:false is:public pushed:>=2025-08-06 language:Rust`
 <!-- github-of-the-day:end -->
 
 Past picks are saved in the [GitHub of the Day Archive](github-of-the-day-archive.md). Repositories need at least 3 stars to be eligible.

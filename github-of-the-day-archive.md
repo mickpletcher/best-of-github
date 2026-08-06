@@ -6,6 +6,7 @@ Each row keeps the repository link, star count, primary language, site descripti
 
 | Date | Repository | Stars | Language | Site Description | Selection Query |
 | --- | --- | ---: | --- | --- | --- |
+| 2026-08-06 | [akitaonrails/ai-usagebar](https://github.com/akitaonrails/ai-usagebar) | 251 | Rust | Rust-based waybar widget to monitor status of Claude, GPT, GLM, OpenRouter plans/credits - inspired by claudebar/codexbar | `stars:251..1000 fork:false archived:false is:public pushed:>=2025-08-06 language:Rust` |
 | 2026-08-05 | [Taritsyn/WebMarkupMin](https://github.com/Taritsyn/WebMarkupMin) | 497 | C# | The Web Markup Minifier (abbreviated WebMarkupMin) - a .NET library that contains a set of markup minifiers. The objective of this project is to improve the performance of web applications by reducing the size of HTML, XHTML and XML code. | `stars:251..1000 fork:false archived:false is:public pushed:>=2025-08-05 language:C#` |
 | 2026-08-04 | [microsoft/wassette](https://github.com/microsoft/wassette) | 931 | Rust | Wassette: A security-oriented runtime that runs WebAssembly Components via MCP | `stars:251..1000 fork:false archived:false is:public pushed:>=2025-08-04 language:Rust` |
 | 2026-08-03 | [open-telemetry/opentelemetry.io](https://github.com/open-telemetry/opentelemetry.io) | 943 | JavaScript | The OpenTelemetry website and documentation | `stars:251..1000 fork:false archived:false is:public pushed:>=2025-08-03 language:JavaScript` |
