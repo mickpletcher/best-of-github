@@ -6,6 +6,7 @@ Each row keeps the repository link, star count, primary language, site descripti
 
 | Date | Repository | Stars | Language | Site Description | Selection Query |
 | --- | --- | ---: | --- | --- | --- |
+| 2026-08-08 | [ublue-os/bazzite-dx](https://github.com/ublue-os/bazzite-dx) | 320 | Shell | The Bazzite Developer Experience | `stars:251..1000 fork:false archived:false is:public pushed:>=2025-08-08 language:Shell` |
 | 2026-08-07 | [Bonasa-Tech/manifest](https://github.com/Bonasa-Tech/manifest) | 146 | Rust | The Spot CLOB on Solana | `stars:51..250 fork:false archived:false is:public pushed:>=2025-08-07 language:Rust` |
 | 2026-08-06 | [akitaonrails/ai-usagebar](https://github.com/akitaonrails/ai-usagebar) | 251 | Rust | Rust-based waybar widget to monitor status of Claude, GPT, GLM, OpenRouter plans/credits - inspired by claudebar/codexbar | `stars:251..1000 fork:false archived:false is:public pushed:>=2025-08-06 language:Rust` |
 | 2026-08-05 | [Taritsyn/WebMarkupMin](https://github.com/Taritsyn/WebMarkupMin) | 497 | C# | The Web Markup Minifier (abbreviated WebMarkupMin) - a .NET library that contains a set of markup minifiers. The objective of this project is to improve the performance of web applications by reducing the size of HTML, XHTML and XML code. | `stars:251..1000 fork:false archived:false is:public pushed:>=2025-08-05 language:C#` |

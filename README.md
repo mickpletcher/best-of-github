@@ -11,13 +11,13 @@ Latest weekly scan: 2026-08-03.
 ## GitHub of the Day
 
 <!-- github-of-the-day:start -->
-Selected for 2026-08-07 from public, non-fork, non-archived repositories with recent activity. This is random and is not based on popularity.
+Selected for 2026-08-08 from public, non-fork, non-archived repositories with recent activity. This is random and is not based on popularity.
 
 | Repository | Stars | Language | Notes |
 | --- | ---: | --- | --- |
-| [Bonasa-Tech/manifest](https://github.com/Bonasa-Tech/manifest) | 146 | Rust | The Spot CLOB on Solana |
+| [ublue-os/bazzite-dx](https://github.com/ublue-os/bazzite-dx) | 320 | Shell | The Bazzite Developer Experience |
 
-Selection query: `stars:51..250 fork:false archived:false is:public pushed:>=2025-08-07 language:Rust`
+Selection query: `stars:251..1000 fork:false archived:false is:public pushed:>=2025-08-08 language:Shell`
 <!-- github-of-the-day:end -->
 
 Past picks are saved in the [GitHub of the Day Archive](github-of-the-day-archive.md). Repositories need at least 3 stars to be eligible.
