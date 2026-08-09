@@ -11,13 +11,13 @@ Latest weekly scan: 2026-08-03.
 ## GitHub of the Day
 
 <!-- github-of-the-day:start -->
-Selected for 2026-08-08 from public, non-fork, non-archived repositories with recent activity. This is random and is not based on popularity.
+Selected for 2026-08-09 from public, non-fork, non-archived repositories with recent activity. This is random and is not based on popularity.
 
 | Repository | Stars | Language | Notes |
 | --- | ---: | --- | --- |
-| [ublue-os/bazzite-dx](https://github.com/ublue-os/bazzite-dx) | 320 | Shell | The Bazzite Developer Experience |
+| [mirakc/mirakc](https://github.com/mirakc/mirakc) | 267 | Rust | A Mirakurun-compatible PVR backend written in Rust |
 
-Selection query: `stars:251..1000 fork:false archived:false is:public pushed:>=2025-08-08 language:Shell`
+Selection query: `stars:251..1000 fork:false archived:false is:public pushed:>=2025-08-09 language:Rust`
 <!-- github-of-the-day:end -->
 
 Past picks are saved in the [GitHub of the Day Archive](github-of-the-day-archive.md). Repositories need at least 3 stars to be eligible.
