@@ -6,6 +6,7 @@ Each row keeps the repository link, star count, primary language, site descripti
 
 | Date | Repository | Stars | Language | Site Description | Selection Query |
 | --- | --- | ---: | --- | --- | --- |
+| 2026-08-10 | [dotnet/dotnet-operator-sdk](https://github.com/dotnet/dotnet-operator-sdk) | 368 | C# | KubeOps is a Kubernetes operator sdk in dotnet. Strongly inspired by kubebuilder. | `stars:251..1000 fork:false archived:false is:public pushed:>=2025-08-10 language:C#` |
 | 2026-08-09 | [mirakc/mirakc](https://github.com/mirakc/mirakc) | 267 | Rust | A Mirakurun-compatible PVR backend written in Rust | `stars:251..1000 fork:false archived:false is:public pushed:>=2025-08-09 language:Rust` |
 | 2026-08-08 | [ublue-os/bazzite-dx](https://github.com/ublue-os/bazzite-dx) | 320 | Shell | The Bazzite Developer Experience | `stars:251..1000 fork:false archived:false is:public pushed:>=2025-08-08 language:Shell` |
 | 2026-08-07 | [Bonasa-Tech/manifest](https://github.com/Bonasa-Tech/manifest) | 146 | Rust | The Spot CLOB on Solana | `stars:51..250 fork:false archived:false is:public pushed:>=2025-08-07 language:Rust` |
