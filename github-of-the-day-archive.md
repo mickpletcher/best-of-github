@@ -6,6 +6,7 @@ Each row keeps the repository link, star count, primary language, site descripti
 
 | Date | Repository | Stars | Language | Site Description | Selection Query |
 | --- | --- | ---: | --- | --- | --- |
+| 2026-08-11 | [samuelgursky/davinci-resolve-mcp](https://github.com/samuelgursky/davinci-resolve-mcp) | 2,073 | Python | MCP server integration for DaVinci Resolve Studio | `stars:1001..5000 fork:false archived:false is:public pushed:>=2025-08-11 language:Python` |
 | 2026-08-10 | [dotnet/dotnet-operator-sdk](https://github.com/dotnet/dotnet-operator-sdk) | 368 | C# | KubeOps is a Kubernetes operator sdk in dotnet. Strongly inspired by kubebuilder. | `stars:251..1000 fork:false archived:false is:public pushed:>=2025-08-10 language:C#` |
 | 2026-08-09 | [mirakc/mirakc](https://github.com/mirakc/mirakc) | 267 | Rust | A Mirakurun-compatible PVR backend written in Rust | `stars:251..1000 fork:false archived:false is:public pushed:>=2025-08-09 language:Rust` |
 | 2026-08-08 | [ublue-os/bazzite-dx](https://github.com/ublue-os/bazzite-dx) | 320 | Shell | The Bazzite Developer Experience | `stars:251..1000 fork:false archived:false is:public pushed:>=2025-08-08 language:Shell` |
