@@ -6,6 +6,7 @@ Each row keeps the repository link, star count, primary language, site descripti
 
 | Date | Repository | Stars | Language | Site Description | Selection Query |
 | --- | --- | ---: | --- | --- | --- |
+| 2026-08-12 | [cardano-foundation/cardano-ignite](https://github.com/cardano-foundation/cardano-ignite) | 11 | Shell | Cardano Ignite is a toolbox for rapidly deploying and managing Cardano testnets with multiple stake-pools and helper tools (such as cardano-db-sync and blockfrost). | `stars:3..50 fork:false archived:false is:public pushed:>=2025-08-12 language:Shell` |
 | 2026-08-11 | [samuelgursky/davinci-resolve-mcp](https://github.com/samuelgursky/davinci-resolve-mcp) | 2,073 | Python | MCP server integration for DaVinci Resolve Studio | `stars:1001..5000 fork:false archived:false is:public pushed:>=2025-08-11 language:Python` |
 | 2026-08-10 | [dotnet/dotnet-operator-sdk](https://github.com/dotnet/dotnet-operator-sdk) | 368 | C# | KubeOps is a Kubernetes operator sdk in dotnet. Strongly inspired by kubebuilder. | `stars:251..1000 fork:false archived:false is:public pushed:>=2025-08-10 language:C#` |
 | 2026-08-09 | [mirakc/mirakc](https://github.com/mirakc/mirakc) | 267 | Rust | A Mirakurun-compatible PVR backend written in Rust | `stars:251..1000 fork:false archived:false is:public pushed:>=2025-08-09 language:Rust` |
