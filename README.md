@@ -11,13 +11,13 @@ Latest weekly scan: 2026-08-10.
 ## GitHub of the Day
 
 <!-- github-of-the-day:start -->
-Selected for 2026-08-12 from public, non-fork, non-archived repositories with recent activity. This is random and is not based on popularity.
+Selected for 2026-08-13 from public, non-fork, non-archived repositories with recent activity. This is random and is not based on popularity.
 
 | Repository | Stars | Language | Notes |
 | --- | ---: | --- | --- |
-| [cardano-foundation/cardano-ignite](https://github.com/cardano-foundation/cardano-ignite) | 11 | Shell | Cardano Ignite is a toolbox for rapidly deploying and managing Cardano testnets with multiple stake-pools and helper tools (such as cardano-db-sync and blockfrost). |
+| [benaclejames/VRCFaceTracking](https://github.com/benaclejames/VRCFaceTracking) | 900 | C# | OSC App to allow VRChat avatars to interact with eye and facial tracking hardware |
 
-Selection query: `stars:3..50 fork:false archived:false is:public pushed:>=2025-08-12 language:Shell`
+Selection query: `stars:251..1000 fork:false archived:false is:public pushed:>=2025-08-13 language:C#`
 <!-- github-of-the-day:end -->
 
 Past picks are saved in the [GitHub of the Day Archive](github-of-the-day-archive.md). Repositories need at least 3 stars to be eligible.
