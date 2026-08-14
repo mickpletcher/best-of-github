@@ -11,13 +11,13 @@ Latest weekly scan: 2026-08-10.
 ## GitHub of the Day
 
 <!-- github-of-the-day:start -->
-Selected for 2026-08-13 from public, non-fork, non-archived repositories with recent activity. This is random and is not based on popularity.
+Selected for 2026-08-14 from public, non-fork, non-archived repositories with recent activity. This is random and is not based on popularity.
 
 | Repository | Stars | Language | Notes |
 | --- | ---: | --- | --- |
-| [benaclejames/VRCFaceTracking](https://github.com/benaclejames/VRCFaceTracking) | 900 | C# | OSC App to allow VRChat avatars to interact with eye and facial tracking hardware |
+| [openshift/windows-machine-config-operator](https://github.com/openshift/windows-machine-config-operator) | 51 | Go | Windows MCO for OpenShift that handles addition of Windows nodes to the cluster |
 
-Selection query: `stars:251..1000 fork:false archived:false is:public pushed:>=2025-08-13 language:C#`
+Selection query: `stars:51..250 fork:false archived:false is:public pushed:>=2025-08-14 language:Go`
 <!-- github-of-the-day:end -->
 
 Past picks are saved in the [GitHub of the Day Archive](github-of-the-day-archive.md). Repositories need at least 3 stars to be eligible.
