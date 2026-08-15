@@ -11,13 +11,13 @@ Latest weekly scan: 2026-08-10.
 ## GitHub of the Day
 
 <!-- github-of-the-day:start -->
-Selected for 2026-08-14 from public, non-fork, non-archived repositories with recent activity. This is random and is not based on popularity.
+Selected for 2026-08-15 from public, non-fork, non-archived repositories with recent activity. This is random and is not based on popularity.
 
 | Repository | Stars | Language | Notes |
 | --- | ---: | --- | --- |
-| [openshift/windows-machine-config-operator](https://github.com/openshift/windows-machine-config-operator) | 51 | Go | Windows MCO for OpenShift that handles addition of Windows nodes to the cluster |
+| [HardwareScript/hwc](https://github.com/HardwareScript/hwc) | 4 | Rust | Hardware Script Compiler: Rust CLI toolchain that compiles .hw source files into manufacturing-ready DXF(2D), GLB(3D) models, and SPICE netlists |
 
-Selection query: `stars:51..250 fork:false archived:false is:public pushed:>=2025-08-14 language:Go`
+Selection query: `stars:3..50 fork:false archived:false is:public pushed:>=2025-08-15 language:Rust`
 <!-- github-of-the-day:end -->
 
 Past picks are saved in the [GitHub of the Day Archive](github-of-the-day-archive.md). Repositories need at least 3 stars to be eligible.
