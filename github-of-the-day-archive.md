@@ -6,6 +6,7 @@ Each row keeps the repository link, star count, primary language, site descripti
 
 | Date | Repository | Stars | Language | Site Description | Selection Query |
 | --- | --- | ---: | --- | --- | --- |
+| 2026-08-16 | [tqwewe/kameo](https://github.com/tqwewe/kameo) | 1,370 | Rust | Fault-tolerant async actors for Rust that scale seamlessly | `stars:1001..5000 fork:false archived:false is:public pushed:>=2025-08-16 language:Rust` |
 | 2026-08-15 | [HardwareScript/hwc](https://github.com/HardwareScript/hwc) | 4 | Rust | Hardware Script Compiler: Rust CLI toolchain that compiles .hw source files into manufacturing-ready DXF(2D), GLB(3D) models, and SPICE netlists | `stars:3..50 fork:false archived:false is:public pushed:>=2025-08-15 language:Rust` |
 | 2026-08-14 | [openshift/windows-machine-config-operator](https://github.com/openshift/windows-machine-config-operator) | 51 | Go | Windows MCO for OpenShift that handles addition of Windows nodes to the cluster | `stars:51..250 fork:false archived:false is:public pushed:>=2025-08-14 language:Go` |
 | 2026-08-13 | [benaclejames/VRCFaceTracking](https://github.com/benaclejames/VRCFaceTracking) | 900 | C# | OSC App to allow VRChat avatars to interact with eye and facial tracking hardware | `stars:251..1000 fork:false archived:false is:public pushed:>=2025-08-13 language:C#` |
