@@ -23,6 +23,7 @@ Use this file for projects that look useful, fast moving, experimental, duplicat
 | [browser-use/browser-use](https://github.com/browser-use/browser-use) | Browser automation | Browser automation for AI agents that may overlap with Playwright and web task workflows. | Promote if it solves a browser automation task better than the current Playwright approach. | [weekly top 250](weekly-top-250-github-repositories.md) |
 | [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) | MCP | Large MCP server index that could help discover useful connectors and agent tooling. | Promote if it becomes a regular source for useful MCP tools. | [weekly top 250](weekly-top-250-github-repositories.md) |
 | [infiniflow/ragflow](https://github.com/infiniflow/ragflow) | RAG and document AI | RAG and document intelligence project that may fit document processing and search workflows. | Promote after testing against a real document corpus or comparing it with existing document AI tools. | [weekly top 250](weekly-top-250-github-repositories.md) |
+| [vostride/agent-qa](https://github.com/vostride/agent-qa) | QA automation | Source-available CLI and MCP server for natural-language web and mobile testing, with run memory and same-run recovery from UI changes. | Promote after validating it on a real regression suite and comparing provider cost and stability with existing Playwright workflows. | [GitHub repository](https://github.com/vostride/agent-qa) |
 
 ## Review Rules
 
