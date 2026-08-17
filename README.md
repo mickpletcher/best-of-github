@@ -15,7 +15,7 @@ Selected for 2026-08-17 from public, non-fork, non-archived repositories with re
 
 | Repository | Stars | Language | Notes |
 | --- | ---: | --- | --- |
-| [Qiskit/ecosystem](https://github.com/Qiskit/ecosystem) | 160 | Python | The Qiskit ecosystem is a collection of tools created by researchers and developers who use Qiskit every day. |
+| [luuquangvu/blueprints-updater](https://github.com/luuquangvu/blueprints-updater) | 143 | Python | Automatically update Home Assistant blueprints via native update entities. |
 
 Selection query: `stars:51..250 fork:false archived:false is:public pushed:>=2025-08-17 language:Python`
 <!-- github-of-the-day:end -->
