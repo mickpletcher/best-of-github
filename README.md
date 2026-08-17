@@ -6,18 +6,18 @@ Star counts were refreshed on 2026-06-10.
 
 For the current automated rankings, see the weekly top 100 and weekly top 250 reports below.
 
-Latest weekly scan: 2026-08-10.
+Latest weekly scan: 2026-08-17.
 
 ## GitHub of the Day
 
 <!-- github-of-the-day:start -->
-Selected for 2026-08-16 from public, non-fork, non-archived repositories with recent activity. This is random and is not based on popularity.
+Selected for 2026-08-17 from public, non-fork, non-archived repositories with recent activity. This is random and is not based on popularity.
 
 | Repository | Stars | Language | Notes |
 | --- | ---: | --- | --- |
-| [tqwewe/kameo](https://github.com/tqwewe/kameo) | 1,370 | Rust | Fault-tolerant async actors for Rust that scale seamlessly |
+| [Qiskit/ecosystem](https://github.com/Qiskit/ecosystem) | 160 | Python | The Qiskit ecosystem is a collection of tools created by researchers and developers who use Qiskit every day. |
 
-Selection query: `stars:1001..5000 fork:false archived:false is:public pushed:>=2025-08-16 language:Rust`
+Selection query: `stars:51..250 fork:false archived:false is:public pushed:>=2025-08-17 language:Python`
 <!-- github-of-the-day:end -->
 
 Past picks are saved in the [GitHub of the Day Archive](github-of-the-day-archive.md). Repositories need at least 3 stars to be eligible.
