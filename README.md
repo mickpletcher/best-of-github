@@ -11,13 +11,13 @@ Latest weekly scan: 2026-08-17.
 ## GitHub of the Day
 
 <!-- github-of-the-day:start -->
-Selected for 2026-08-17 from public, non-fork, non-archived repositories with recent activity. This is random and is not based on popularity.
+Selected for 2026-08-18 from public, non-fork, non-archived repositories with recent activity. This is random and is not based on popularity.
 
 | Repository | Stars | Language | Notes |
 | --- | ---: | --- | --- |
-| [luuquangvu/blueprints-updater](https://github.com/luuquangvu/blueprints-updater) | 143 | Python | Automatically update Home Assistant blueprints via native update entities. |
+| [mikolajj04/Investment-Predictor](https://github.com/mikolajj04/Investment-Predictor) | 3 | C# | .NET 8 Blazor application for forecasting investment growth based on historical stock market indices and compound interest. |
 
-Selection query: `stars:51..250 fork:false archived:false is:public pushed:>=2025-08-17 language:Python`
+Selection query: `stars:3..50 fork:false archived:false is:public pushed:>=2025-08-18 language:C#`
 <!-- github-of-the-day:end -->
 
 Past picks are saved in the [GitHub of the Day Archive](github-of-the-day-archive.md). Repositories need at least 3 stars to be eligible.

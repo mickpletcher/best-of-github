@@ -6,6 +6,7 @@ Each row keeps the repository link, star count, primary language, site descripti
 
 | Date | Repository | Stars | Language | Site Description | Selection Query |
 | --- | --- | ---: | --- | --- | --- |
+| 2026-08-18 | [mikolajj04/Investment-Predictor](https://github.com/mikolajj04/Investment-Predictor) | 3 | C# | .NET 8 Blazor application for forecasting investment growth based on historical stock market indices and compound interest. | `stars:3..50 fork:false archived:false is:public pushed:>=2025-08-18 language:C#` |
 | 2026-08-17 | [luuquangvu/blueprints-updater](https://github.com/luuquangvu/blueprints-updater) | 143 | Python | Automatically update Home Assistant blueprints via native update entities. | `stars:51..250 fork:false archived:false is:public pushed:>=2025-08-17 language:Python` |
 | 2026-08-16 | [tqwewe/kameo](https://github.com/tqwewe/kameo) | 1,370 | Rust | Fault-tolerant async actors for Rust that scale seamlessly | `stars:1001..5000 fork:false archived:false is:public pushed:>=2025-08-16 language:Rust` |
 | 2026-08-15 | [HardwareScript/hwc](https://github.com/HardwareScript/hwc) | 4 | Rust | Hardware Script Compiler: Rust CLI toolchain that compiles .hw source files into manufacturing-ready DXF(2D), GLB(3D) models, and SPICE netlists | `stars:3..50 fork:false archived:false is:public pushed:>=2025-08-15 language:Rust` |
