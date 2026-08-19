@@ -11,13 +11,13 @@ Latest weekly scan: 2026-08-17.
 ## GitHub of the Day
 
 <!-- github-of-the-day:start -->
-Selected for 2026-08-18 from public, non-fork, non-archived repositories with recent activity. This is random and is not based on popularity.
+Selected for 2026-08-19 from public, non-fork, non-archived repositories with recent activity. This is random and is not based on popularity.
 
 | Repository | Stars | Language | Notes |
 | --- | ---: | --- | --- |
-| [mikolajj04/Investment-Predictor](https://github.com/mikolajj04/Investment-Predictor) | 3 | C# | .NET 8 Blazor application for forecasting investment growth based on historical stock market indices and compound interest. |
+| [wayvr-org/wayvr](https://github.com/wayvr-org/wayvr) | 1,284 | Rust | Your way to enjoy VR on Linux. Run apps inside VR & access your Wayland/X11 screens from Monado/WiVRn/SteamVR. |
 
-Selection query: `stars:3..50 fork:false archived:false is:public pushed:>=2025-08-18 language:C#`
+Selection query: `stars:1001..5000 fork:false archived:false is:public pushed:>=2025-08-19 language:Rust`
 <!-- github-of-the-day:end -->
 
 Past picks are saved in the [GitHub of the Day Archive](github-of-the-day-archive.md). Repositories need at least 3 stars to be eligible.
