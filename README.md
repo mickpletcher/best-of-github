@@ -1,8 +1,8 @@
 # Best of GitHub
 
-Best of GitHub is Mick's curated catalog of standout open-source projects for AI engineering, coding agents, document processing, web automation, media tooling, and security. It highlights practical repositories worth exploring, with current star counts and short notes explaining why each project is useful or interesting.
+Best of GitHub is Mick's curated catalog of standout public repositories for AI engineering, coding agents, document processing, web automation, media tooling, and security. It highlights practical repositories worth exploring, with current star counts and short notes explaining why each project is useful or interesting.
 
-Star counts were refreshed on 2026-06-10.
+Star counts were refreshed on 2026-08-20.
 
 For the current automated rankings, see the weekly top 100 and weekly top 250 reports below.
 
@@ -59,47 +59,77 @@ python scripts/update_github_of_the_day.py
 
 ## Mick's Curated GitHub Picks
 
-These are repositories I personally like enough to keep on the main README. They are selected for practical value, not just star count.
+These are the 41 public repositories starred by [mickpletcher](https://github.com/mickpletcher) as of 2026-08-20. They are selected for practical value, not just star count.
 
 Repos that look promising but still need testing or review live in [Mick's Watchlist](micks-watchlist.md).
 
-### AI Coding Agents, Skills, and Plugins
+### AI Coding Agents, Skills, and Developer Tools
 
 | Project | Stars | Why It Is Interesting |
 | --- | ---: | --- |
-| [Egonex-AI/Understand-Anything](https://github.com/Egonex-AI/Understand-Anything) | 56,259 | Turns codebases into interactive knowledge graphs that can be explored, searched, and queried with AI coding tools. |
-| [colbymchenry/codegraph](https://github.com/colbymchenry/codegraph) | 46,419 | Builds local, pre-indexed code knowledge graphs for AI coding agents to reduce context and tool-call overhead. |
-| [chopratejas/headroom](https://github.com/chopratejas/headroom) | 24,950 | Compresses tool outputs, logs, files, and RAG chunks before they reach the LLM to reduce token usage. |
-| [hardikpandya/stop-slop](https://github.com/hardikpandya/stop-slop) | 9,795 | A compact skill file for removing obvious AI tells from generated prose. |
-| [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) | 40,495 | AI agent skill for researching recent discussion across Reddit, X, YouTube, HN, Polymarket, and the web. |
-| [cursor/plugins](https://github.com/cursor/plugins) | 1,916 | Cursor's plugin specification and official plugin examples. |
-| [EveryInc/compound-engineering-plugin](https://github.com/EveryInc/compound-engineering-plugin) | 20,833 | Official Compound Engineering plugin for Claude Code, Codex, Cursor, and similar agentic coding environments. |
-| [affaan-m/ECC](https://github.com/affaan-m/ECC) | 212,236 | Agent harness optimization system covering skills, instincts, memory, security, and research-first development. |
-| [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) | 50,086 | Production-grade engineering skills for AI coding agents. |
+| [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) | 88,798 | Provides production-grade engineering skills for AI coding agents. |
+| [affaan-m/ECC](https://github.com/affaan-m/ECC) | 241,400 | Covers agent harness optimization through skills, memory, security, and research-first workflows. |
+| [EveryInc/compound-engineering-plugin](https://github.com/EveryInc/compound-engineering-plugin) | 24,403 | Implements the Compound Engineering workflow for Claude Code, Codex, Cursor, and other coding agents. |
+| [cursor/plugins](https://github.com/cursor/plugins) | 3,999 | Defines Cursor's plugin specification and provides its official plugins. |
+| [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) | 58,802 | Researches recent discussion across social, video, prediction-market, and web sources. |
+| [headroomlabs-ai/headroom](https://github.com/headroomlabs-ai/headroom) | 67,002 | Compresses agent tool output, logs, files, and RAG content to reduce token use while preserving answers. |
+| [colbymchenry/codegraph](https://github.com/colbymchenry/codegraph) | 67,362 | Builds a local code knowledge graph that stays synchronized for coding agents. |
+| [Egonex-AI/Understand-Anything](https://github.com/Egonex-AI/Understand-Anything) | 79,924 | Turns codebases into interactive knowledge graphs that can be explored, searched, and queried. |
+| [hardikpandya/stop-slop](https://github.com/hardikpandya/stop-slop) | 16,006 | Provides a compact agent skill for removing obvious AI tells from prose. |
+| [abi/screenshot-to-code](https://github.com/abi/screenshot-to-code) | 74,281 | Converts screenshots into HTML, Tailwind, React, or Vue implementations. |
+| [elvisun/newsjack](https://github.com/elvisun/newsjack) | 630 | Supplies agent skills that model a full pull request team. |
+| [openai/openai-cookbook](https://github.com/openai/openai-cookbook) | 75,396 | Provides practical examples and guides for building with the OpenAI API. |
+| [crewAIInc/crewAI](https://github.com/crewAIInc/crewAI) | 57,393 | Orchestrates role-based autonomous agents for collaborative workflows. |
+| [anthropics/claude-code](https://github.com/anthropics/claude-code) | 142,123 | Runs an agentic coding workflow from the terminal with codebase and Git support. |
+| [openai/codex](https://github.com/openai/codex) | 107,096 | Provides a lightweight open-source coding agent for terminal workflows. |
 
-### AI Engineering and Learning
-
-| Project | Stars | Why It Is Interesting |
-| --- | ---: | --- |
-| [rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch) | 30,891 | A hands-on AI engineering learning path that emphasizes building and shipping systems from scratch. |
-
-### Document and Content Processing
-
-| Project | Stars | Why It Is Interesting |
-| --- | ---: | --- |
-| [microsoft/markitdown](https://github.com/microsoft/markitdown) | 149,768 | Converts files and Office documents into Markdown for downstream AI and automation workflows. |
-| [run-llama/liteparse](https://github.com/run-llama/liteparse) | 9,777 | Fast open-source document parser for OCR, PDF parsing, and text extraction. |
-
-### Web Automation, Scraping, and Media
+### AI Engineering, Local Models, and Research
 
 | Project | Stars | Why It Is Interesting |
 | --- | ---: | --- |
-| [microsoft/Webwright](https://github.com/microsoft/Webwright) | 5,282 | Browser-agent framework for long-horizon web tasks. |
-| [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling) | 62,613 | Adaptive web scraping framework that scales from single requests to full crawls. |
-| [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | 169,586 | Feature-rich command-line audio and video downloader. |
+| [rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch) | 47,345 | Provides a hands-on path for learning, building, and shipping AI systems. |
+| [alexziskind1/llm-inference-calculator](https://github.com/alexziskind1/llm-inference-calculator) | 316 | Helps estimate hardware and resource requirements for local LLM inference. |
+| [paperswithcode/paperswithcode-data](https://github.com/paperswithcode/paperswithcode-data) | 934 | Publishes the dataset behind Papers with Code for local analysis and research. |
+| [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) | 64,979 | Provides a local-first AI workspace with agents, document chat, and model integrations. |
+| [open-webui/open-webui](https://github.com/open-webui/open-webui) | 149,374 | Offers a self-hosted interface for Ollama, OpenAI-compatible APIs, and other models. |
+| [ollama/ollama](https://github.com/ollama/ollama) | 179,049 | Simplifies running and managing language models locally. |
+| [lmstudio-ai/lmstudio-bug-tracker](https://github.com/lmstudio-ai/lmstudio-bug-tracker) | 149 | Tracks bugs and product issues for the LM Studio desktop application. |
+| [unslothai/unsloth](https://github.com/unslothai/unsloth) | 74,066 | Supports local model training and inference through an integrated UI. |
+
+### Document Processing, Web Automation, and Media
+
+| Project | Stars | Why It Is Interesting |
+| --- | ---: | --- |
+| [microsoft/markitdown](https://github.com/microsoft/markitdown) | 174,905 | Converts files and Office documents into Markdown for AI and automation workflows. |
+| [run-llama/liteparse](https://github.com/run-llama/liteparse) | 12,140 | Provides fast open-source document parsing and text extraction. |
+| [microsoft/Webwright](https://github.com/microsoft/Webwright) | 5,931 | Implements a software-engineering-style browser agent for long-running web tasks. |
+| [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling) | 75,517 | Scales adaptive web scraping from single requests to complete crawls. |
+| [microsoft/playwright](https://github.com/microsoft/playwright) | 94,818 | Automates Chromium, Firefox, and WebKit for testing and browser workflows. |
+| [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | 185,851 | Provides a feature-rich command-line audio and video downloader. |
+| [shanselman/TinyToolTown](https://github.com/shanselman/TinyToolTown) | 255 | Collects small, focused, open-source utilities built for specific needs. |
+| [bradautomates/claude-video](https://github.com/bradautomates/claude-video) | 15,899 | Downloads, samples, and transcribes videos so Claude can analyze them. |
+
+### Automation, Infrastructure, and Home Lab
+
+| Project | Stars | Why It Is Interesting |
+| --- | ---: | --- |
+| [smart-underworld/seestar_alp](https://github.com/smart-underworld/seestar_alp) | 285 | Adds complete control and automation for the Seestar S50 telescope. |
+| [espressif/arduino-esp32](https://github.com/espressif/arduino-esp32) | 17,260 | Brings the Arduino platform to the ESP32 family of microcontrollers. |
+| [pi-hole/pi-hole](https://github.com/pi-hole/pi-hole) | 60,504 | Provides network-wide DNS filtering for ads and unwanted domains. |
+| [tailscale/tailscale](https://github.com/tailscale/tailscale) | 35,397 | Builds secure private networks on WireGuard with simple identity-based access. |
+| [home-assistant/core](https://github.com/home-assistant/core) | 90,011 | Provides privacy-focused home automation with local control. |
+| [n8n-io/n8n](https://github.com/n8n-io/n8n) | 201,361 | Combines visual workflow automation, code, AI features, and self-hosting. |
+| [PowerShell/PowerShell](https://github.com/PowerShell/PowerShell) | 55,018 | Provides the cross-platform PowerShell automation runtime and shell. |
+
+### Finance and Market Data
+
+| Project | Stars | Why It Is Interesting |
+| --- | ---: | --- |
+| [trendsmcp-ai/news-sentiment-mcp](https://github.com/trendsmcp-ai/news-sentiment-mcp) | 1 | Exposes live news sentiment and coverage volume through MCP. |
+| [risabhmishra/algotrading-sentimentanalysis-genai](https://github.com/risabhmishra/algotrading-sentimentanalysis-genai) | 24 | Explores algorithmic trading with news sentiment analysis and generative AI. |
 
 ### Cybersecurity and Agent Security
 
 | Project | Stars | Why It Is Interesting |
 | --- | ---: | --- |
-| [mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills) | 15,104 | Large collection of structured cybersecurity skills for AI agents, mapped to major security frameworks. |
+| [mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills) | 30,313 | Provides structured cybersecurity skills mapped to major defensive, offensive, fraud, and AI security frameworks. |

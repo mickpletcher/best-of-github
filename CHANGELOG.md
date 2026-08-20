@@ -30,6 +30,7 @@ The format is based on Keep a Changelog and this project follows Semantic Versio
 - Added `github-of-the-day-archive.md` to retain daily picks with links, descriptions, and selection queries.
 
 ### Changed
+- Replaced Mick's curated README catalog with all 41 public repositories starred by `mickpletcher` as of 2026-08-20 and refreshed their star counts.
 - Added a .gitignore rule for best-of-github.code-workspace so the workspace file is not committed or pushed.
 - Categorized the private initial list and expanded README.md into a public project catalog with links, descriptions, and GitHub star counts.
 - Documented the maintenance rule that every repository change should be logged in CHANGELOG.md and reflected in assessment.md.
