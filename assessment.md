@@ -16,9 +16,13 @@ Best of GitHub is a documentation-first repository for highlighting Mick's curat
 - Weekly report validator: [scripts/validate_weekly_rankings.py](scripts/validate_weekly_rankings.py)
 - GitHub of the Day updater: [scripts/update_github_of_the_day.py](scripts/update_github_of_the_day.py)
 - GitHub of the Day archive: [github-of-the-day-archive.md](github-of-the-day-archive.md)
-- README freshness note: `Latest weekly scan: 2026-08-10.`
+- README freshness note: `Latest weekly scan: 2026-08-17.`
 - Scheduled workflow: [.github/workflows/weekly-github-rankings.yml](.github/workflows/weekly-github-rankings.yml)
 - Daily GitHub of the Day workflow: [.github/workflows/github-of-the-day.yml](.github/workflows/github-of-the-day.yml)
+- Pull-request and main-branch validation: [.github/workflows/quality.yml](.github/workflows/quality.yml)
+- GitHub Actions dependency updates: [.github/dependabot.yml](.github/dependabot.yml)
+- Contribution and disclosure guidance: [CONTRIBUTING.md](CONTRIBUTING.md)
+- Private vulnerability-reporting guidance: [SECURITY.md](SECURITY.md)
 - Upgrade backlog: [future-upgrades.md](future-upgrades.md)
 - Completed upgrades: [completed-upgrades.md](completed-upgrades.md)
 - Change history: [CHANGELOG.md](CHANGELOG.md)
@@ -41,9 +45,14 @@ Best of GitHub is a documentation-first repository for highlighting Mick's curat
 - The README now has a GitHub of the Day block that can highlight a random public repository without relying on popularity.
 - The GitHub of the Day archive keeps past daily picks retrievable with repository descriptions and selection queries.
 - GitHub of the Day eligibility requires at least 3 stars.
+- GitHub Actions are pinned to immutable release commits and monitored by Dependabot.
+- Scheduled write workflows share a concurrency lock, preventing overlapping Monday pushes.
+- Pull requests run read-only script compilation and generated-report validation.
+- Structured issue forms collect license, testing, practical-value, and affiliation details.
 
 ## Risks and Gaps
 
+- GitHub-hosted branch rules and security switches must remain aligned with the automation-friendly protection model so trusted scheduled workflows can update `main`.
 - There are no fixture-based unit tests for the report generator or validator.
 - The curated README catalog and generated weekly report use separate update paths.
 - The curated README catalog is a dated snapshot and does not yet refresh automatically when Mick stars or unstars a repository.

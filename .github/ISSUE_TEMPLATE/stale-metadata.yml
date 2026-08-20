@@ -1,0 +1,31 @@
+name: Stale or incorrect metadata
+description: Report a renamed, archived, deleted, misclassified, or inaccurately described repository.
+title: "[Metadata]: "
+body:
+  - type: input
+    id: repository
+    attributes:
+      label: Repository or report entry
+      placeholder: https://github.com/owner/repository
+    validations:
+      required: true
+  - type: dropdown
+    id: problem
+    attributes:
+      label: Problem type
+      options:
+        - Renamed or moved
+        - Archived or deleted
+        - Incorrect description
+        - Incorrect category
+        - Incorrect license information
+        - Other
+    validations:
+      required: true
+  - type: textarea
+    id: details
+    attributes:
+      label: Details
+      description: Describe the correction and include an authoritative source when possible.
+    validations:
+      required: true

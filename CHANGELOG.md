@@ -7,6 +7,10 @@ The format is based on Keep a Changelog and this project follows Semantic Versio
 ## [Unreleased]
 
 ### Added
+- Added a read-only quality workflow that compiles maintenance scripts and validates generated ranking reports on pull requests and pushes to `main`.
+- Added Dependabot configuration for GitHub Actions dependencies.
+- Added `SECURITY.md`, `CONTRIBUTING.md`, `CODEOWNERS`, a pull request template, and structured issue forms.
+- Added workflow-status and license badges plus local validation and regeneration instructions to README.md.
 - Created this changelog to track repository changes.
 - Added chopratejas/headroom to the README.md AI coding agents, skills, and plugins catalog.
 - Added mvanhorn/last30days-skill to the README.md AI coding agents, skills, and plugins catalog.
@@ -30,6 +34,10 @@ The format is based on Keep a Changelog and this project follows Semantic Versio
 - Added `github-of-the-day-archive.md` to retain daily picks with links, descriptions, and selection queries.
 
 ### Changed
+- Pinned `actions/checkout` and `actions/setup-python` to immutable release commit SHAs.
+- Added shared concurrency control and execution timeouts to prevent overlapping scheduled repository updates.
+- Standardized automation and validation workflows on Python 3.13.
+- Updated the repository assessment and upgrade trackers for the hardening work.
 - Replaced Mick's curated README catalog with all 41 public repositories starred by `mickpletcher` as of 2026-08-20 and refreshed their star counts.
 - Added a .gitignore rule for best-of-github.code-workspace so the workspace file is not committed or pushed.
 - Categorized the private initial list and expanded README.md into a public project catalog with links, descriptions, and GitHub star counts.

@@ -1,0 +1,59 @@
+name: Repository suggestion
+description: Suggest a repository for Mick's Watchlist or curated catalog.
+title: "[Repository]: "
+body:
+  - type: markdown
+    attributes:
+      value: Thanks for suggesting a project. New suggestions normally enter Mick's Watchlist before promotion.
+  - type: input
+    id: repository
+    attributes:
+      label: Repository URL
+      placeholder: https://github.com/owner/repository
+    validations:
+      required: true
+  - type: input
+    id: category
+    attributes:
+      label: Category
+      placeholder: AI agents, automation, security, document processing, or another category
+    validations:
+      required: true
+  - type: textarea
+    id: value
+    attributes:
+      label: Practical value
+      description: Explain what the project does and why it is useful beyond its star count.
+    validations:
+      required: true
+  - type: textarea
+    id: evidence
+    attributes:
+      label: Testing or review
+      description: Describe any local testing, production use, or source review already completed.
+    validations:
+      required: true
+  - type: input
+    id: license
+    attributes:
+      label: License
+      description: State the repository's license, including whether it is OSI-approved or source-available.
+    validations:
+      required: true
+  - type: dropdown
+    id: affiliation
+    attributes:
+      label: Affiliation
+      description: Are you affiliated with this repository, product, or organization?
+      options:
+        - No affiliation
+        - Contributor or maintainer
+        - Employee, owner, or sponsor
+        - Other affiliation
+    validations:
+      required: true
+  - type: textarea
+    id: disclosure
+    attributes:
+      label: Disclosure details
+      description: If affiliated, explain the relationship and any costs or commercial terms.

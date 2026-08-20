@@ -13,10 +13,10 @@ This file tracks planned improvements. When an upgrade is implemented, move it f
 ## Tier 1: High-Value, Low-Complexity
 
 - Add a README table of contents once the project documentation grows beyond the current quick-reference sections.
-- Add a short "how to run locally" section to README.md for regenerating and validating both weekly ranking reports.
 - Add a workflow_dispatch input for report counts so GitHub Actions can generate top 50, top 100, top 250, or top 500 reports from the Actions UI.
 - Add a README note explaining that the latest weekly scan date is refreshed automatically by the ranking generator.
 - Add a README badge or status note that shows whether the daily GitHub of the Day workflow last completed successfully.
+- Add a single cross-platform maintenance command that compiles scripts, regenerates requested reports, and runs validation.
 
 ## Tier 2: Better Discovery and Filtering
 
@@ -30,5 +30,5 @@ This file tracks planned improvements. When an upgrade is implemented, move it f
 - Publish the weekly reports through GitHub Pages with searchable and sortable tables.
 - Store historical weekly snapshots so trends can be reviewed over time instead of only keeping the latest generated list.
 - Add tests for the GitHub API parsing and Markdown rendering logic with fixture data.
-- Add issue templates for suggesting repositories, reporting stale metadata, and proposing future upgrade items.
 - Add a scheduled stale-link audit that checks README links and generated report links for deleted, archived, or renamed repositories.
+- Add automated workflow-security and Python code scanning after evaluating a low-noise configuration for this documentation-first repository.

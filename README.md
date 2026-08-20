@@ -1,5 +1,9 @@
 # Best of GitHub
 
+[![Quality](https://github.com/mickpletcher/best-of-github/actions/workflows/quality.yml/badge.svg)](https://github.com/mickpletcher/best-of-github/actions/workflows/quality.yml)
+[![GitHub of the Day](https://github.com/mickpletcher/best-of-github/actions/workflows/github-of-the-day.yml/badge.svg)](https://github.com/mickpletcher/best-of-github/actions/workflows/github-of-the-day.yml)
+[![Weekly Rankings](https://github.com/mickpletcher/best-of-github/actions/workflows/weekly-github-rankings.yml/badge.svg)](https://github.com/mickpletcher/best-of-github/actions/workflows/weekly-github-rankings.yml)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 Best of GitHub is Mick's curated catalog of standout public repositories for AI engineering, coding agents, document processing, web automation, media tooling, and security. It highlights practical repositories worth exploring, with current star counts and short notes explaining why each project is useful or interesting.
 
 Star counts were refreshed on 2026-08-20.
@@ -30,6 +34,8 @@ Past picks are saved in the [GitHub of the Day Archive](github-of-the-day-archiv
 - [Completed upgrades](completed-upgrades.md): implemented improvements moved out of the future-upgrades backlog.
 - [Repository assessment](assessment.md): a quick-reference assessment that is updated whenever the repo changes.
 - [Changelog](CHANGELOG.md): every repository change should be logged here.
+- [Contributing](CONTRIBUTING.md): suggestion criteria, validation steps, and disclosure expectations.
+- [Security policy](SECURITY.md): private vulnerability-reporting guidance.
 
 ## Weekly Rankings
 
@@ -56,6 +62,27 @@ Refresh the GitHub of the Day block:
 ```powershell
 python scripts/update_github_of_the_day.py
 ```
+
+## Run Locally
+
+Python 3.10 or newer is required. The scripts use only the Python standard library.
+
+Validate the current repository state:
+
+```powershell
+python -m compileall -q scripts
+python scripts/validate_weekly_rankings.py
+```
+
+Regenerate the weekly reports and daily pick:
+
+```powershell
+python scripts/update_weekly_rankings.py --counts 100 250
+python scripts/update_github_of_the_day.py
+python scripts/validate_weekly_rankings.py
+```
+
+Unauthenticated GitHub API requests are rate-limited. For local authenticated runs, provide a token through `GH_TOKEN` or `GITHUB_TOKEN` in the environment and never commit it.
 
 ## Mick's Curated GitHub Picks
 

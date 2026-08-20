@@ -35,3 +35,14 @@ Completed upgrades are moved here from the tracked `future-upgrades.md` backlog.
 - Added a daily GitHub of the Day workflow so the README pick changes each day without rerunning weekly rankings.
 - Added `github-of-the-day-archive.md` so past daily picks are retained with links, descriptions, and selection queries.
 - Added a minimum 3-star eligibility rule for GitHub of the Day picks.
+
+## 2026-08-20
+
+- Added a read-only quality workflow for pull requests and pushes to `main`.
+- Added Python compilation and generated-report validation as automated checks.
+- Pinned third-party GitHub Actions to immutable release commit SHAs.
+- Added Dependabot updates for pinned GitHub Actions dependencies.
+- Added shared concurrency control and timeouts to scheduled write workflows.
+- Added `SECURITY.md`, `CONTRIBUTING.md`, `CODEOWNERS`, and a pull request template.
+- Added structured issue forms for repository suggestions and stale metadata reports.
+- Added workflow-status and license badges plus local run instructions to README.
