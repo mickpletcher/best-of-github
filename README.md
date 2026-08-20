@@ -11,13 +11,13 @@ Latest weekly scan: 2026-08-17.
 ## GitHub of the Day
 
 <!-- github-of-the-day:start -->
-Selected for 2026-08-19 from public, non-fork, non-archived repositories with recent activity. This is random and is not based on popularity.
+Selected for 2026-08-20 from public, non-fork, non-archived repositories with recent activity. This is random and is not based on popularity.
 
 | Repository | Stars | Language | Notes |
 | --- | ---: | --- | --- |
-| [wayvr-org/wayvr](https://github.com/wayvr-org/wayvr) | 1,284 | Rust | Your way to enjoy VR on Linux. Run apps inside VR & access your Wayland/X11 screens from Monado/WiVRn/SteamVR. |
+| [DNSCrypt/dnscrypt-resolvers](https://github.com/DNSCrypt/dnscrypt-resolvers) | 1,551 | Go | Lists of public DNSCrypt / DoH DNS servers and DNS relays - Actively maintained since 2011. |
 
-Selection query: `stars:1001..5000 fork:false archived:false is:public pushed:>=2025-08-19 language:Rust`
+Selection query: `stars:1001..5000 fork:false archived:false is:public pushed:>=2025-08-20 language:Go`
 <!-- github-of-the-day:end -->
 
 Past picks are saved in the [GitHub of the Day Archive](github-of-the-day-archive.md). Repositories need at least 3 stars to be eligible.
