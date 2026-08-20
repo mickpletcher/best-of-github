@@ -4,6 +4,7 @@
 [![GitHub of the Day](https://github.com/mickpletcher/best-of-github/actions/workflows/github-of-the-day.yml/badge.svg)](https://github.com/mickpletcher/best-of-github/actions/workflows/github-of-the-day.yml)
 [![Weekly Rankings](https://github.com/mickpletcher/best-of-github/actions/workflows/weekly-github-rankings.yml/badge.svg)](https://github.com/mickpletcher/best-of-github/actions/workflows/weekly-github-rankings.yml)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+
 Best of GitHub is Mick's curated catalog of standout public repositories for AI engineering, coding agents, document processing, web automation, media tooling, and security. It highlights practical repositories worth exploring, with current star counts and short notes explaining why each project is useful or interesting.
 
 Star counts were refreshed on 2026-08-20.
