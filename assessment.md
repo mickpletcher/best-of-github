@@ -1,6 +1,6 @@
 # Repository Assessment
 
-Last updated: 2026-06-29
+Last updated: 2026-08-16
 
 ## Quick Reference
 
@@ -9,14 +9,14 @@ Best of GitHub is a documentation-first repository for highlighting Mick's curat
 ## Current State
 
 - Primary catalog: [README.md](README.md), currently listing 16 personal curated picks across five topic sections.
-- Watchlist: [micks-watchlist.md](micks-watchlist.md), used for promising repos that need more review before README promotion.
+- Watchlist: [micks-watchlist.md](micks-watchlist.md), currently tracking nine promising repos that need more review before README promotion.
 - Automated weekly top 100 ranking: [weekly-top-100-github-repositories.md](weekly-top-100-github-repositories.md)
 - Automated weekly top 250 ranking: [weekly-top-250-github-repositories.md](weekly-top-250-github-repositories.md)
 - Weekly ranking generator: [scripts/update_weekly_rankings.py](scripts/update_weekly_rankings.py)
 - Weekly report validator: [scripts/validate_weekly_rankings.py](scripts/validate_weekly_rankings.py)
 - GitHub of the Day updater: [scripts/update_github_of_the_day.py](scripts/update_github_of_the_day.py)
 - GitHub of the Day archive: [github-of-the-day-archive.md](github-of-the-day-archive.md)
-- README freshness note: `Latest weekly scan: 2026-06-17.`
+- README freshness note: `Latest weekly scan: 2026-08-10.`
 - Scheduled workflow: [.github/workflows/weekly-github-rankings.yml](.github/workflows/weekly-github-rankings.yml)
 - Daily GitHub of the Day workflow: [.github/workflows/github-of-the-day.yml](.github/workflows/github-of-the-day.yml)
 - Upgrade backlog: [future-upgrades.md](future-upgrades.md)

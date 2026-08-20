@@ -7,6 +7,7 @@ The format is based on Keep a Changelog and this project follows Semantic Versio
 ## [Unreleased]
 
 ### Added
+- Added vostride/agent-qa to Mick's Watchlist for evaluation as a web and mobile QA automation tool.
 - Created this changelog to track repository changes.
 - Added chopratejas/headroom to the README.md AI coding agents, skills, and plugins catalog.
 - Added mvanhorn/last30days-skill to the README.md AI coding agents, skills, and plugins catalog.
