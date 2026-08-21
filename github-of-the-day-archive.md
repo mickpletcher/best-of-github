@@ -6,6 +6,7 @@ Each row keeps the repository link, star count, primary language, site descripti
 
 | Date | Repository | Stars | Language | Site Description | Selection Query |
 | --- | --- | ---: | --- | --- | --- |
+| 2026-08-21 | [rust-lang/rustc-perf](https://github.com/rust-lang/rustc-perf) | 732 | Rust | Website for graphing performance of rustc | `stars:251..1000 fork:false archived:false is:public pushed:>=2025-08-21 language:Rust` |
 | 2026-08-20 | [DNSCrypt/dnscrypt-resolvers](https://github.com/DNSCrypt/dnscrypt-resolvers) | 1,551 | Go | Lists of public DNSCrypt / DoH DNS servers and DNS relays - Actively maintained since 2011. | `stars:1001..5000 fork:false archived:false is:public pushed:>=2025-08-20 language:Go` |
 | 2026-08-19 | [wayvr-org/wayvr](https://github.com/wayvr-org/wayvr) | 1,284 | Rust | Your way to enjoy VR on Linux. Run apps inside VR & access your Wayland/X11 screens from Monado/WiVRn/SteamVR. | `stars:1001..5000 fork:false archived:false is:public pushed:>=2025-08-19 language:Rust` |
 | 2026-08-18 | [mikolajj04/Investment-Predictor](https://github.com/mikolajj04/Investment-Predictor) | 3 | C# | .NET 8 Blazor application for forecasting investment growth based on historical stock market indices and compound interest. | `stars:3..50 fork:false archived:false is:public pushed:>=2025-08-18 language:C#` |
