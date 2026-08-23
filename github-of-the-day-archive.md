@@ -6,6 +6,7 @@ Each row keeps the repository link, star count, primary language, site descripti
 
 | Date | Repository | Stars | Language | Site Description | Selection Query |
 | --- | --- | ---: | --- | --- | --- |
+| 2026-08-23 | [hyperpolymath/sdp-hkdf-deployment](https://github.com/hyperpolymath/sdp-hkdf-deployment) | 3 | Shell | Rootless/SDP deployment configurations for HKDF cryptographic services | `stars:3..50 fork:false archived:false is:public pushed:>=2025-08-23 language:Shell` |
 | 2026-08-22 | [solana-program/token](https://github.com/solana-program/token) | 187 | Rust | The SPL Token program and its clients | `stars:51..250 fork:false archived:false is:public pushed:>=2025-08-22 language:Rust` |
 | 2026-08-21 | [rust-lang/rustc-perf](https://github.com/rust-lang/rustc-perf) | 732 | Rust | Website for graphing performance of rustc | `stars:251..1000 fork:false archived:false is:public pushed:>=2025-08-21 language:Rust` |
 | 2026-08-20 | [DNSCrypt/dnscrypt-resolvers](https://github.com/DNSCrypt/dnscrypt-resolvers) | 1,551 | Go | Lists of public DNSCrypt / DoH DNS servers and DNS relays - Actively maintained since 2011. | `stars:1001..5000 fork:false archived:false is:public pushed:>=2025-08-20 language:Go` |
