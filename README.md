@@ -11,18 +11,18 @@ Star counts were refreshed on 2026-08-20.
 
 For the current automated rankings, see the weekly top 100 and weekly top 250 reports below.
 
-Latest weekly scan: 2026-08-17.
+Latest weekly scan: 2026-08-24.
 
 ## GitHub of the Day
 
 <!-- github-of-the-day:start -->
-Selected for 2026-08-23 from public, non-fork, non-archived repositories with recent activity. This is random and is not based on popularity.
+Selected for 2026-08-24 from public, non-fork, non-archived repositories with recent activity. This is random and is not based on popularity.
 
 | Repository | Stars | Language | Notes |
 | --- | ---: | --- | --- |
-| [hyperpolymath/sdp-hkdf-deployment](https://github.com/hyperpolymath/sdp-hkdf-deployment) | 3 | Shell | Rootless/SDP deployment configurations for HKDF cryptographic services |
+| [liushuangls/go-anthropic](https://github.com/liushuangls/go-anthropic) | 175 | Go | Anthropic Claude API wrapper for Go |
 
-Selection query: `stars:3..50 fork:false archived:false is:public pushed:>=2025-08-23 language:Shell`
+Selection query: `stars:51..250 fork:false archived:false is:public pushed:>=2025-08-24 language:Go`
 <!-- github-of-the-day:end -->
 
 Past picks are saved in the [GitHub of the Day Archive](github-of-the-day-archive.md). Repositories need at least 3 stars to be eligible.
