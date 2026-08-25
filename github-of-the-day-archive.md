@@ -6,6 +6,7 @@ Each row keeps the repository link, star count, primary language, site descripti
 
 | Date | Repository | Stars | Language | Site Description | Selection Query |
 | --- | --- | ---: | --- | --- | --- |
+| 2026-08-25 | [OSInside/flake-pilot](https://github.com/OSInside/flake-pilot) | 10 | Rust | App runner for isolated workflows | `stars:3..50 fork:false archived:false is:public pushed:>=2025-08-25 language:Rust` |
 | 2026-08-24 | [liushuangls/go-anthropic](https://github.com/liushuangls/go-anthropic) | 175 | Go | Anthropic Claude API wrapper for Go | `stars:51..250 fork:false archived:false is:public pushed:>=2025-08-24 language:Go` |
 | 2026-08-23 | [hyperpolymath/sdp-hkdf-deployment](https://github.com/hyperpolymath/sdp-hkdf-deployment) | 3 | Shell | Rootless/SDP deployment configurations for HKDF cryptographic services | `stars:3..50 fork:false archived:false is:public pushed:>=2025-08-23 language:Shell` |
 | 2026-08-22 | [solana-program/token](https://github.com/solana-program/token) | 187 | Rust | The SPL Token program and its clients | `stars:51..250 fork:false archived:false is:public pushed:>=2025-08-22 language:Rust` |
