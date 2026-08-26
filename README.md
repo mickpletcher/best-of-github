@@ -16,13 +16,13 @@ Latest weekly scan: 2026-08-24.
 ## GitHub of the Day
 
 <!-- github-of-the-day:start -->
-Selected for 2026-08-25 from public, non-fork, non-archived repositories with recent activity. This is random and is not based on popularity.
+Selected for 2026-08-26 from public, non-fork, non-archived repositories with recent activity. This is random and is not based on popularity.
 
 | Repository | Stars | Language | Notes |
 | --- | ---: | --- | --- |
-| [OSInside/flake-pilot](https://github.com/OSInside/flake-pilot) | 10 | Rust | App runner for isolated workflows |
+| [BretFisher/docker-vackup](https://github.com/BretFisher/docker-vackup) | 491 | Shell | Script to easily backup and restore docker volumes |
 
-Selection query: `stars:3..50 fork:false archived:false is:public pushed:>=2025-08-25 language:Rust`
+Selection query: `stars:251..1000 fork:false archived:false is:public pushed:>=2025-08-26 language:Shell`
 <!-- github-of-the-day:end -->
 
 Past picks are saved in the [GitHub of the Day Archive](github-of-the-day-archive.md). Repositories need at least 3 stars to be eligible.
