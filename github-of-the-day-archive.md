@@ -6,6 +6,7 @@ Each row keeps the repository link, star count, primary language, site descripti
 
 | Date | Repository | Stars | Language | Site Description | Selection Query |
 | --- | --- | ---: | --- | --- | --- |
+| 2026-08-27 | [openmrs/openmrs-esm-laboratory-app](https://github.com/openmrs/openmrs-esm-laboratory-app) | 6 | TypeScript | Laboratory lite frontend module for O3 | `stars:3..50 fork:false archived:false is:public pushed:>=2025-08-27 language:TypeScript` |
 | 2026-08-26 | [BretFisher/docker-vackup](https://github.com/BretFisher/docker-vackup) | 491 | Shell | Script to easily backup and restore docker volumes | `stars:251..1000 fork:false archived:false is:public pushed:>=2025-08-26 language:Shell` |
 | 2026-08-25 | [OSInside/flake-pilot](https://github.com/OSInside/flake-pilot) | 10 | Rust | App runner for isolated workflows | `stars:3..50 fork:false archived:false is:public pushed:>=2025-08-25 language:Rust` |
 | 2026-08-24 | [liushuangls/go-anthropic](https://github.com/liushuangls/go-anthropic) | 175 | Go | Anthropic Claude API wrapper for Go | `stars:51..250 fork:false archived:false is:public pushed:>=2025-08-24 language:Go` |
