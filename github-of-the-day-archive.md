@@ -6,6 +6,7 @@ Each row keeps the repository link, star count, primary language, site descripti
 
 | Date | Repository | Stars | Language | Site Description | Selection Query |
 | --- | --- | ---: | --- | --- | --- |
+| 2026-08-29 | [versenilvis/IRIS](https://github.com/versenilvis/IRIS) | 1,249 | Go | A shell auto-completion tool for your terminal | `stars:1001..5000 fork:false archived:false is:public pushed:>=2025-08-29 language:Go` |
 | 2026-08-28 | [sipsorcery-org/sipsorcery](https://github.com/sipsorcery-org/sipsorcery) | 1,932 | C# | A WebRTC, SIP and VoIP library for C# and .NET. Designed for real-time communications apps. | `stars:1001..5000 fork:false archived:false is:public pushed:>=2025-08-28 language:C#` |
 | 2026-08-27 | [openmrs/openmrs-esm-laboratory-app](https://github.com/openmrs/openmrs-esm-laboratory-app) | 6 | TypeScript | Laboratory lite frontend module for O3 | `stars:3..50 fork:false archived:false is:public pushed:>=2025-08-27 language:TypeScript` |
 | 2026-08-26 | [BretFisher/docker-vackup](https://github.com/BretFisher/docker-vackup) | 491 | Shell | Script to easily backup and restore docker volumes | `stars:251..1000 fork:false archived:false is:public pushed:>=2025-08-26 language:Shell` |
