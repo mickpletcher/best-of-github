@@ -16,13 +16,13 @@ Latest weekly scan: 2026-08-24.
 ## GitHub of the Day
 
 <!-- github-of-the-day:start -->
-Selected for 2026-08-29 from public, non-fork, non-archived repositories with recent activity. This is random and is not based on popularity.
+Selected for 2026-08-30 from public, non-fork, non-archived repositories with recent activity. This is random and is not based on popularity.
 
 | Repository | Stars | Language | Notes |
 | --- | ---: | --- | --- |
-| [versenilvis/IRIS](https://github.com/versenilvis/IRIS) | 1,249 | Go | A shell auto-completion tool for your terminal |
+| [HandyS11/RustPlusApi](https://github.com/HandyS11/RustPlusApi) | 19 | C# | A C# library for the Rust+ companion API. Query and control your server, render security cameras, listen for push notifications, and acquire all the required credentials natively. |
 
-Selection query: `stars:1001..5000 fork:false archived:false is:public pushed:>=2025-08-29 language:Go`
+Selection query: `stars:3..50 fork:false archived:false is:public pushed:>=2025-08-30 language:C#`
 <!-- github-of-the-day:end -->
 
 Past picks are saved in the [GitHub of the Day Archive](github-of-the-day-archive.md). Repositories need at least 3 stars to be eligible.
