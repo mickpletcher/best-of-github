@@ -11,18 +11,18 @@ Star counts were refreshed on 2026-08-20.
 
 For the current automated rankings, see the weekly top 100 and weekly top 250 reports below.
 
-Latest weekly scan: 2026-08-24.
+Latest weekly scan: 2026-08-31.
 
 ## GitHub of the Day
 
 <!-- github-of-the-day:start -->
-Selected for 2026-08-30 from public, non-fork, non-archived repositories with recent activity. This is random and is not based on popularity.
+Selected for 2026-08-31 from public, non-fork, non-archived repositories with recent activity. This is random and is not based on popularity.
 
 | Repository | Stars | Language | Notes |
 | --- | ---: | --- | --- |
-| [HandyS11/RustPlusApi](https://github.com/HandyS11/RustPlusApi) | 19 | C# | A C# library for the Rust+ companion API. Query and control your server, render security cameras, listen for push notifications, and acquire all the required credentials natively. |
+| [linebender/resvg](https://github.com/linebender/resvg) | 4,039 | Rust | An SVG rendering library. |
 
-Selection query: `stars:3..50 fork:false archived:false is:public pushed:>=2025-08-30 language:C#`
+Selection query: `stars:1001..5000 fork:false archived:false is:public pushed:>=2025-08-31 language:Rust`
 <!-- github-of-the-day:end -->
 
 Past picks are saved in the [GitHub of the Day Archive](github-of-the-day-archive.md). Repositories need at least 3 stars to be eligible.

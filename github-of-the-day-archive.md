@@ -6,6 +6,7 @@ Each row keeps the repository link, star count, primary language, site descripti
 
 | Date | Repository | Stars | Language | Site Description | Selection Query |
 | --- | --- | ---: | --- | --- | --- |
+| 2026-08-31 | [linebender/resvg](https://github.com/linebender/resvg) | 4,039 | Rust | An SVG rendering library. | `stars:1001..5000 fork:false archived:false is:public pushed:>=2025-08-31 language:Rust` |
 | 2026-08-30 | [HandyS11/RustPlusApi](https://github.com/HandyS11/RustPlusApi) | 19 | C# | A C# library for the Rust+ companion API. Query and control your server, render security cameras, listen for push notifications, and acquire all the required credentials natively. | `stars:3..50 fork:false archived:false is:public pushed:>=2025-08-30 language:C#` |
 | 2026-08-29 | [versenilvis/IRIS](https://github.com/versenilvis/IRIS) | 1,249 | Go | A shell auto-completion tool for your terminal | `stars:1001..5000 fork:false archived:false is:public pushed:>=2025-08-29 language:Go` |
 | 2026-08-28 | [sipsorcery-org/sipsorcery](https://github.com/sipsorcery-org/sipsorcery) | 1,932 | C# | A WebRTC, SIP and VoIP library for C# and .NET. Designed for real-time communications apps. | `stars:1001..5000 fork:false archived:false is:public pushed:>=2025-08-28 language:C#` |
