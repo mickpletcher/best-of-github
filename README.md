@@ -16,13 +16,13 @@ Latest weekly scan: 2026-08-31.
 ## GitHub of the Day
 
 <!-- github-of-the-day:start -->
-Selected for 2026-08-31 from public, non-fork, non-archived repositories with recent activity. This is random and is not based on popularity.
+Selected for 2026-09-01 from public, non-fork, non-archived repositories with recent activity. This is random and is not based on popularity.
 
 | Repository | Stars | Language | Notes |
 | --- | ---: | --- | --- |
-| [linebender/resvg](https://github.com/linebender/resvg) | 4,039 | Rust | An SVG rendering library. |
+| [mavam/dotfiles](https://github.com/mavam/dotfiles) | 54 | Shell | :desktop_computer: The very heart of an efficient work environment |
 
-Selection query: `stars:1001..5000 fork:false archived:false is:public pushed:>=2025-08-31 language:Rust`
+Selection query: `stars:51..250 fork:false archived:false is:public pushed:>=2025-09-01 language:Shell`
 <!-- github-of-the-day:end -->
 
 Past picks are saved in the [GitHub of the Day Archive](github-of-the-day-archive.md). Repositories need at least 3 stars to be eligible.
