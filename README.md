@@ -16,13 +16,13 @@ Latest weekly scan: 2026-08-31.
 ## GitHub of the Day
 
 <!-- github-of-the-day:start -->
-Selected for 2026-09-01 from public, non-fork, non-archived repositories with recent activity. This is random and is not based on popularity.
+Selected for 2026-09-02 from public, non-fork, non-archived repositories with recent activity. This is random and is not based on popularity.
 
 | Repository | Stars | Language | Notes |
 | --- | ---: | --- | --- |
-| [mavam/dotfiles](https://github.com/mavam/dotfiles) | 54 | Shell | :desktop_computer: The very heart of an efficient work environment |
+| [hanchiang/market-data-notification](https://github.com/hanchiang/market-data-notification) | 3 | Python | Retrieve and send stocks and crypto market data to telegram. Infra: https://github.com/hanchiang/market-data-notification-infra. Stocks: https://t.me/+6RjlDOi8OyxkOGU1. Crypto: https://t.me/+geTqFk8RktA2YzA9. Blog post: https://www.yaphc.com/stocks-notification-tradingview-webhook-to-telegram |
 
-Selection query: `stars:51..250 fork:false archived:false is:public pushed:>=2025-09-01 language:Shell`
+Selection query: `stars:3..50 fork:false archived:false is:public pushed:>=2025-09-02 language:Python`
 <!-- github-of-the-day:end -->
 
 Past picks are saved in the [GitHub of the Day Archive](github-of-the-day-archive.md). Repositories need at least 3 stars to be eligible.
