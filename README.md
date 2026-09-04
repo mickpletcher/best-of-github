@@ -16,13 +16,13 @@ Latest weekly scan: 2026-08-31.
 ## GitHub of the Day
 
 <!-- github-of-the-day:start -->
-Selected for 2026-09-03 from public, non-fork, non-archived repositories with recent activity. This is random and is not based on popularity.
+Selected for 2026-09-04 from public, non-fork, non-archived repositories with recent activity. This is random and is not based on popularity.
 
 | Repository | Stars | Language | Notes |
 | --- | ---: | --- | --- |
-| [NEWSLabNTU/nano-ros](https://github.com/NEWSLabNTU/nano-ros) | 13 | Rust | no_std ROS 2 client for microcontrollers and RTOS (Zephyr, FreeRTOS, NuttX, ThreadX) and Linux. Rust-first with C/C++ APIs; pluggable Zenoh / XRCE-DDS / Cyclone DDS backends; interoperates with standard ROS 2. |
+| [openfga/openfga.dev](https://github.com/openfga/openfga.dev) | 51 | TypeScript | OpenFGA website and documentation |
 
-Selection query: `stars:3..50 fork:false archived:false is:public pushed:>=2025-09-03 language:Rust`
+Selection query: `stars:51..250 fork:false archived:false is:public pushed:>=2025-09-04 language:TypeScript`
 <!-- github-of-the-day:end -->
 
 Past picks are saved in the [GitHub of the Day Archive](github-of-the-day-archive.md). Repositories need at least 3 stars to be eligible.
