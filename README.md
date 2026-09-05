@@ -16,13 +16,13 @@ Latest weekly scan: 2026-08-31.
 ## GitHub of the Day
 
 <!-- github-of-the-day:start -->
-Selected for 2026-09-04 from public, non-fork, non-archived repositories with recent activity. This is random and is not based on popularity.
+Selected for 2026-09-05 from public, non-fork, non-archived repositories with recent activity. This is random and is not based on popularity.
 
 | Repository | Stars | Language | Notes |
 | --- | ---: | --- | --- |
-| [openfga/openfga.dev](https://github.com/openfga/openfga.dev) | 51 | TypeScript | OpenFGA website and documentation |
+| [scylladb/scylla-operator](https://github.com/scylladb/scylla-operator) | 401 | Go | The Kubernetes Operator for ScyllaDB |
 
-Selection query: `stars:51..250 fork:false archived:false is:public pushed:>=2025-09-04 language:TypeScript`
+Selection query: `stars:251..1000 fork:false archived:false is:public pushed:>=2025-09-05 language:Go`
 <!-- github-of-the-day:end -->
 
 Past picks are saved in the [GitHub of the Day Archive](github-of-the-day-archive.md). Repositories need at least 3 stars to be eligible.
