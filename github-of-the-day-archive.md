@@ -6,6 +6,7 @@ Each row keeps the repository link, star count, primary language, site descripti
 
 | Date | Repository | Stars | Language | Site Description | Selection Query |
 | --- | --- | ---: | --- | --- | --- |
+| 2026-09-06 | [Integrity-Ltd/BoronDNS](https://github.com/Integrity-Ltd/BoronDNS) | 4 | Rust | High-performance, secondary-only authoritative DNS server written in Rust. | `stars:3..50 fork:false archived:false is:public pushed:>=2025-09-06 language:Rust` |
 | 2026-09-05 | [scylladb/scylla-operator](https://github.com/scylladb/scylla-operator) | 401 | Go | The Kubernetes Operator for ScyllaDB | `stars:251..1000 fork:false archived:false is:public pushed:>=2025-09-05 language:Go` |
 | 2026-09-04 | [openfga/openfga.dev](https://github.com/openfga/openfga.dev) | 51 | TypeScript | OpenFGA website and documentation | `stars:51..250 fork:false archived:false is:public pushed:>=2025-09-04 language:TypeScript` |
 | 2026-09-03 | [NEWSLabNTU/nano-ros](https://github.com/NEWSLabNTU/nano-ros) | 13 | Rust | no_std ROS 2 client for microcontrollers and RTOS (Zephyr, FreeRTOS, NuttX, ThreadX) and Linux. Rust-first with C/C++ APIs; pluggable Zenoh / XRCE-DDS / Cyclone DDS backends; interoperates with standard ROS 2. | `stars:3..50 fork:false archived:false is:public pushed:>=2025-09-03 language:Rust` |
