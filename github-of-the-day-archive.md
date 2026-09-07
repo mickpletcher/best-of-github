@@ -6,6 +6,7 @@ Each row keeps the repository link, star count, primary language, site descripti
 
 | Date | Repository | Stars | Language | Site Description | Selection Query |
 | --- | --- | ---: | --- | --- | --- |
+| 2026-09-07 | [pomerium/pomerium](https://github.com/pomerium/pomerium) | 4,997 | Go | Pomerium is an identity and context-aware access proxy. | `stars:1001..5000 fork:false archived:false is:public pushed:>=2025-09-07 language:Go` |
 | 2026-09-06 | [Integrity-Ltd/BoronDNS](https://github.com/Integrity-Ltd/BoronDNS) | 4 | Rust | High-performance, secondary-only authoritative DNS server written in Rust. | `stars:3..50 fork:false archived:false is:public pushed:>=2025-09-06 language:Rust` |
 | 2026-09-05 | [scylladb/scylla-operator](https://github.com/scylladb/scylla-operator) | 401 | Go | The Kubernetes Operator for ScyllaDB | `stars:251..1000 fork:false archived:false is:public pushed:>=2025-09-05 language:Go` |
 | 2026-09-04 | [openfga/openfga.dev](https://github.com/openfga/openfga.dev) | 51 | TypeScript | OpenFGA website and documentation | `stars:51..250 fork:false archived:false is:public pushed:>=2025-09-04 language:TypeScript` |

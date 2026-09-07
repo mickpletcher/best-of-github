@@ -11,18 +11,18 @@ Star counts were refreshed on 2026-08-20.
 
 For the current automated rankings, see the weekly top 100 and weekly top 250 reports below.
 
-Latest weekly scan: 2026-08-31.
+Latest weekly scan: 2026-09-07.
 
 ## GitHub of the Day
 
 <!-- github-of-the-day:start -->
-Selected for 2026-09-06 from public, non-fork, non-archived repositories with recent activity. This is random and is not based on popularity.
+Selected for 2026-09-07 from public, non-fork, non-archived repositories with recent activity. This is random and is not based on popularity.
 
 | Repository | Stars | Language | Notes |
 | --- | ---: | --- | --- |
-| [Integrity-Ltd/BoronDNS](https://github.com/Integrity-Ltd/BoronDNS) | 4 | Rust | High-performance, secondary-only authoritative DNS server written in Rust. |
+| [pomerium/pomerium](https://github.com/pomerium/pomerium) | 4,997 | Go | Pomerium is an identity and context-aware access proxy. |
 
-Selection query: `stars:3..50 fork:false archived:false is:public pushed:>=2025-09-06 language:Rust`
+Selection query: `stars:1001..5000 fork:false archived:false is:public pushed:>=2025-09-07 language:Go`
 <!-- github-of-the-day:end -->
 
 Past picks are saved in the [GitHub of the Day Archive](github-of-the-day-archive.md). Repositories need at least 3 stars to be eligible.
