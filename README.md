@@ -16,13 +16,13 @@ Latest weekly scan: 2026-09-07.
 ## GitHub of the Day
 
 <!-- github-of-the-day:start -->
-Selected for 2026-09-08 from public, non-fork, non-archived repositories with recent activity. This is random and is not based on popularity.
+Selected for 2026-09-09 from public, non-fork, non-archived repositories with recent activity. This is random and is not based on popularity.
 
 | Repository | Stars | Language | Notes |
 | --- | ---: | --- | --- |
-| [reactiveui/splat](https://github.com/reactiveui/splat) | 992 | C# | Makes things cross-platform |
+| [cubewise-code/rushti](https://github.com/cubewise-code/rushti) | 12 | Python | Parallel TI execution engine for IBM Planning Analytics |
 
-Selection query: `stars:251..1000 fork:false archived:false is:public pushed:>=2025-09-08 language:C#`
+Selection query: `stars:3..50 fork:false archived:false is:public pushed:>=2025-09-09 language:Python`
 <!-- github-of-the-day:end -->
 
 Past picks are saved in the [GitHub of the Day Archive](github-of-the-day-archive.md). Repositories need at least 3 stars to be eligible.

@@ -6,6 +6,7 @@ Each row keeps the repository link, star count, primary language, site descripti
 
 | Date | Repository | Stars | Language | Site Description | Selection Query |
 | --- | --- | ---: | --- | --- | --- |
+| 2026-09-09 | [cubewise-code/rushti](https://github.com/cubewise-code/rushti) | 12 | Python | Parallel TI execution engine for IBM Planning Analytics | `stars:3..50 fork:false archived:false is:public pushed:>=2025-09-09 language:Python` |
 | 2026-09-08 | [reactiveui/splat](https://github.com/reactiveui/splat) | 992 | C# | Makes things cross-platform | `stars:251..1000 fork:false archived:false is:public pushed:>=2025-09-08 language:C#` |
 | 2026-09-07 | [pomerium/pomerium](https://github.com/pomerium/pomerium) | 4,997 | Go | Pomerium is an identity and context-aware access proxy. | `stars:1001..5000 fork:false archived:false is:public pushed:>=2025-09-07 language:Go` |
 | 2026-09-06 | [Integrity-Ltd/BoronDNS](https://github.com/Integrity-Ltd/BoronDNS) | 4 | Rust | High-performance, secondary-only authoritative DNS server written in Rust. | `stars:3..50 fork:false archived:false is:public pushed:>=2025-09-06 language:Rust` |
