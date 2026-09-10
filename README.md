@@ -16,13 +16,13 @@ Latest weekly scan: 2026-09-07.
 ## GitHub of the Day
 
 <!-- github-of-the-day:start -->
-Selected for 2026-09-09 from public, non-fork, non-archived repositories with recent activity. This is random and is not based on popularity.
+Selected for 2026-09-10 from public, non-fork, non-archived repositories with recent activity. This is random and is not based on popularity.
 
 | Repository | Stars | Language | Notes |
 | --- | ---: | --- | --- |
-| [cubewise-code/rushti](https://github.com/cubewise-code/rushti) | 12 | Python | Parallel TI execution engine for IBM Planning Analytics |
+| [prjkt-nv404/LinkLayerVPN-Manager](https://github.com/prjkt-nv404/LinkLayerVPN-Manager) | 4 | Shell | A bash - Manager for LinkLayer VPN |
 
-Selection query: `stars:3..50 fork:false archived:false is:public pushed:>=2025-09-09 language:Python`
+Selection query: `stars:3..50 fork:false archived:false is:public pushed:>=2025-09-10 language:Shell`
 <!-- github-of-the-day:end -->
 
 Past picks are saved in the [GitHub of the Day Archive](github-of-the-day-archive.md). Repositories need at least 3 stars to be eligible.
