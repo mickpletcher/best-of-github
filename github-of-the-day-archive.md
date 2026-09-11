@@ -6,6 +6,7 @@ Each row keeps the repository link, star count, primary language, site descripti
 
 | Date | Repository | Stars | Language | Site Description | Selection Query |
 | --- | --- | ---: | --- | --- | --- |
+| 2026-09-11 | [merefield/codexometer](https://github.com/merefield/codexometer) | 5 | Go | A terminal widget that allows you to keep track of Codex usage against your current quota, monitor sessions and more ... | `stars:3..50 fork:false archived:false is:public pushed:>=2025-09-11 language:Go` |
 | 2026-09-10 | [prjkt-nv404/LinkLayerVPN-Manager](https://github.com/prjkt-nv404/LinkLayerVPN-Manager) | 4 | Shell | A bash - Manager for LinkLayer VPN | `stars:3..50 fork:false archived:false is:public pushed:>=2025-09-10 language:Shell` |
 | 2026-09-09 | [cubewise-code/rushti](https://github.com/cubewise-code/rushti) | 12 | Python | Parallel TI execution engine for IBM Planning Analytics | `stars:3..50 fork:false archived:false is:public pushed:>=2025-09-09 language:Python` |
 | 2026-09-08 | [reactiveui/splat](https://github.com/reactiveui/splat) | 992 | C# | Makes things cross-platform | `stars:251..1000 fork:false archived:false is:public pushed:>=2025-09-08 language:C#` |
