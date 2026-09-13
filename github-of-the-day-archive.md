@@ -6,6 +6,7 @@ Each row keeps the repository link, star count, primary language, site descripti
 
 | Date | Repository | Stars | Language | Site Description | Selection Query |
 | --- | --- | ---: | --- | --- | --- |
+| 2026-09-13 | [brazilian-utils/javascript](https://github.com/brazilian-utils/javascript) | 1,670 | TypeScript | Utils library for specific Brazilian businesses | `stars:1001..5000 fork:false archived:false is:public pushed:>=2025-09-13 language:TypeScript` |
 | 2026-09-12 | [BoletoNet/boletonet](https://github.com/BoletoNet/boletonet) | 503 | C# | Boleto.Net is a library developed for use in Brazil, given it has been programmed with Brazilian retail legislation and business rules for bank registered billing integration. | `stars:251..1000 fork:false archived:false is:public pushed:>=2025-09-12 language:C#` |
 | 2026-09-11 | [merefield/codexometer](https://github.com/merefield/codexometer) | 5 | Go | A terminal widget that allows you to keep track of Codex usage against your current quota, monitor sessions and more ... | `stars:3..50 fork:false archived:false is:public pushed:>=2025-09-11 language:Go` |
 | 2026-09-10 | [prjkt-nv404/LinkLayerVPN-Manager](https://github.com/prjkt-nv404/LinkLayerVPN-Manager) | 4 | Shell | A bash - Manager for LinkLayer VPN | `stars:3..50 fork:false archived:false is:public pushed:>=2025-09-10 language:Shell` |
