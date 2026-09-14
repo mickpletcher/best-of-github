@@ -20,7 +20,7 @@ Selected for 2026-09-14 from public, non-fork, non-archived repositories with re
 
 | Repository | Stars | Language | Notes |
 | --- | ---: | --- | --- |
-| [wise-old-man/wise-old-man](https://github.com/wise-old-man/wise-old-man) | 353 | TypeScript | The Open Source Old School Runescape progress tracker. |
+| [emiliaprotocol/emilia-protocol](https://github.com/emiliaprotocol/emilia-protocol) | 649 | TypeScript | Authority control plane for autonomous work. EMILIA Gate enforces finite customer-owned mandates at protected executor boundaries; the open protocol keeps evidence verifiable. |
 
 Selection query: `stars:251..1000 fork:false archived:false is:public pushed:>=2025-09-14 language:TypeScript`
 <!-- github-of-the-day:end -->
