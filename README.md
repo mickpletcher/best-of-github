@@ -16,13 +16,13 @@ Latest weekly scan: 2026-09-14.
 ## GitHub of the Day
 
 <!-- github-of-the-day:start -->
-Selected for 2026-09-14 from public, non-fork, non-archived repositories with recent activity. This is random and is not based on popularity.
+Selected for 2026-09-15 from public, non-fork, non-archived repositories with recent activity. This is random and is not based on popularity.
 
 | Repository | Stars | Language | Notes |
 | --- | ---: | --- | --- |
-| [emiliaprotocol/emilia-protocol](https://github.com/emiliaprotocol/emilia-protocol) | 649 | TypeScript | Authority control plane for autonomous work. EMILIA Gate enforces finite customer-owned mandates at protected executor boundaries; the open protocol keeps evidence verifiable. |
+| [strands-agents/shell](https://github.com/strands-agents/shell) | 242 | Rust | Give your agent a shell without giving it the keys to your machine. |
 
-Selection query: `stars:251..1000 fork:false archived:false is:public pushed:>=2025-09-14 language:TypeScript`
+Selection query: `stars:51..250 fork:false archived:false is:public pushed:>=2025-09-15 language:Rust`
 <!-- github-of-the-day:end -->
 
 Past picks are saved in the [GitHub of the Day Archive](github-of-the-day-archive.md). Repositories need at least 3 stars to be eligible.

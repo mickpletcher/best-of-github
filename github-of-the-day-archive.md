@@ -6,6 +6,7 @@ Each row keeps the repository link, star count, primary language, site descripti
 
 | Date | Repository | Stars | Language | Site Description | Selection Query |
 | --- | --- | ---: | --- | --- | --- |
+| 2026-09-15 | [strands-agents/shell](https://github.com/strands-agents/shell) | 242 | Rust | Give your agent a shell without giving it the keys to your machine. | `stars:51..250 fork:false archived:false is:public pushed:>=2025-09-15 language:Rust` |
 | 2026-09-14 | [emiliaprotocol/emilia-protocol](https://github.com/emiliaprotocol/emilia-protocol) | 649 | TypeScript | Authority control plane for autonomous work. EMILIA Gate enforces finite customer-owned mandates at protected executor boundaries; the open protocol keeps evidence verifiable. | `stars:251..1000 fork:false archived:false is:public pushed:>=2025-09-14 language:TypeScript` |
 | 2026-09-13 | [brazilian-utils/javascript](https://github.com/brazilian-utils/javascript) | 1,670 | TypeScript | Utils library for specific Brazilian businesses | `stars:1001..5000 fork:false archived:false is:public pushed:>=2025-09-13 language:TypeScript` |
 | 2026-09-12 | [BoletoNet/boletonet](https://github.com/BoletoNet/boletonet) | 503 | C# | Boleto.Net is a library developed for use in Brazil, given it has been programmed with Brazilian retail legislation and business rules for bank registered billing integration. | `stars:251..1000 fork:false archived:false is:public pushed:>=2025-09-12 language:C#` |
