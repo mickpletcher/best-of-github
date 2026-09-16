@@ -6,6 +6,7 @@ Each row keeps the repository link, star count, primary language, site descripti
 
 | Date | Repository | Stars | Language | Site Description | Selection Query |
 | --- | --- | ---: | --- | --- | --- |
+| 2026-09-16 | [gkorobkov/cli-helpers](https://github.com/gkorobkov/cli-helpers) | 3 | PowerShell | Repo with scripts that help to run other scripts | `stars:3..50 fork:false archived:false is:public pushed:>=2025-09-16 language:PowerShell` |
 | 2026-09-15 | [strands-agents/shell](https://github.com/strands-agents/shell) | 242 | Rust | Give your agent a shell without giving it the keys to your machine. | `stars:51..250 fork:false archived:false is:public pushed:>=2025-09-15 language:Rust` |
 | 2026-09-14 | [emiliaprotocol/emilia-protocol](https://github.com/emiliaprotocol/emilia-protocol) | 649 | TypeScript | Authority control plane for autonomous work. EMILIA Gate enforces finite customer-owned mandates at protected executor boundaries; the open protocol keeps evidence verifiable. | `stars:251..1000 fork:false archived:false is:public pushed:>=2025-09-14 language:TypeScript` |
 | 2026-09-13 | [brazilian-utils/javascript](https://github.com/brazilian-utils/javascript) | 1,670 | TypeScript | Utils library for specific Brazilian businesses | `stars:1001..5000 fork:false archived:false is:public pushed:>=2025-09-13 language:TypeScript` |
