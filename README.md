@@ -16,13 +16,13 @@ Latest weekly scan: 2026-09-14.
 ## GitHub of the Day
 
 <!-- github-of-the-day:start -->
-Selected for 2026-09-17 from public, non-fork, non-archived repositories with recent activity. This is random and is not based on popularity.
+Selected for 2026-09-18 from public, non-fork, non-archived repositories with recent activity. This is random and is not based on popularity.
 
 | Repository | Stars | Language | Notes |
 | --- | ---: | --- | --- |
-| [enix/pvecontrol](https://github.com/enix/pvecontrol) | 79 | Python | Proxmox VE control CLI |
+| [ps3dev/ps3libraries](https://github.com/ps3dev/ps3libraries) | 100 | Shell | A script to automatically build various open source libraries for use on the PS3. |
 
-Selection query: `stars:51..250 fork:false archived:false is:public pushed:>=2025-09-17 language:Python`
+Selection query: `stars:51..250 fork:false archived:false is:public pushed:>=2025-09-18 language:Shell`
 <!-- github-of-the-day:end -->
 
 Past picks are saved in the [GitHub of the Day Archive](github-of-the-day-archive.md). Repositories need at least 3 stars to be eligible.

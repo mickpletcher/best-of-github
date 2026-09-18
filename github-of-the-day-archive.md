@@ -6,6 +6,7 @@ Each row keeps the repository link, star count, primary language, site descripti
 
 | Date | Repository | Stars | Language | Site Description | Selection Query |
 | --- | --- | ---: | --- | --- | --- |
+| 2026-09-18 | [ps3dev/ps3libraries](https://github.com/ps3dev/ps3libraries) | 100 | Shell | A script to automatically build various open source libraries for use on the PS3. | `stars:51..250 fork:false archived:false is:public pushed:>=2025-09-18 language:Shell` |
 | 2026-09-17 | [enix/pvecontrol](https://github.com/enix/pvecontrol) | 79 | Python | Proxmox VE control CLI | `stars:51..250 fork:false archived:false is:public pushed:>=2025-09-17 language:Python` |
 | 2026-09-16 | [gkorobkov/cli-helpers](https://github.com/gkorobkov/cli-helpers) | 3 | PowerShell | Repo with scripts that help to run other scripts | `stars:3..50 fork:false archived:false is:public pushed:>=2025-09-16 language:PowerShell` |
 | 2026-09-15 | [strands-agents/shell](https://github.com/strands-agents/shell) | 242 | Rust | Give your agent a shell without giving it the keys to your machine. | `stars:51..250 fork:false archived:false is:public pushed:>=2025-09-15 language:Rust` |
