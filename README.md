@@ -16,13 +16,13 @@ Latest weekly scan: 2026-09-14.
 ## GitHub of the Day
 
 <!-- github-of-the-day:start -->
-Selected for 2026-09-18 from public, non-fork, non-archived repositories with recent activity. This is random and is not based on popularity.
+Selected for 2026-09-19 from public, non-fork, non-archived repositories with recent activity. This is random and is not based on popularity.
 
 | Repository | Stars | Language | Notes |
 | --- | ---: | --- | --- |
-| [ps3dev/ps3libraries](https://github.com/ps3dev/ps3libraries) | 100 | Shell | A script to automatically build various open source libraries for use on the PS3. |
+| [Kruithne/wow.export.web](https://github.com/Kruithne/wow.export.web) | 3 | TypeScript | Source code for the wow.export website |
 
-Selection query: `stars:51..250 fork:false archived:false is:public pushed:>=2025-09-18 language:Shell`
+Selection query: `stars:3..50 fork:false archived:false is:public pushed:>=2025-09-19 language:TypeScript`
 <!-- github-of-the-day:end -->
 
 Past picks are saved in the [GitHub of the Day Archive](github-of-the-day-archive.md). Repositories need at least 3 stars to be eligible.
