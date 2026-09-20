@@ -6,6 +6,7 @@ Each row keeps the repository link, star count, primary language, site descripti
 
 | Date | Repository | Stars | Language | Site Description | Selection Query |
 | --- | --- | ---: | --- | --- | --- |
+| 2026-09-20 | [Blockstream/esplora](https://github.com/Blockstream/esplora) | 1,265 | JavaScript | Explorer for Bitcoin and Liquid | `stars:1001..5000 fork:false archived:false is:public pushed:>=2025-09-20 language:JavaScript` |
 | 2026-09-19 | [Kruithne/wow.export.web](https://github.com/Kruithne/wow.export.web) | 3 | TypeScript | Source code for the wow.export website | `stars:3..50 fork:false archived:false is:public pushed:>=2025-09-19 language:TypeScript` |
 | 2026-09-18 | [ps3dev/ps3libraries](https://github.com/ps3dev/ps3libraries) | 100 | Shell | A script to automatically build various open source libraries for use on the PS3. | `stars:51..250 fork:false archived:false is:public pushed:>=2025-09-18 language:Shell` |
 | 2026-09-17 | [enix/pvecontrol](https://github.com/enix/pvecontrol) | 79 | Python | Proxmox VE control CLI | `stars:51..250 fork:false archived:false is:public pushed:>=2025-09-17 language:Python` |
