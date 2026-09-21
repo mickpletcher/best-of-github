@@ -20,7 +20,7 @@ Selected for 2026-09-21 from public, non-fork, non-archived repositories with re
 
 | Repository | Stars | Language | Notes |
 | --- | ---: | --- | --- |
-| [islamu-ngo/Event](https://github.com/islamu-ngo/Event) | 7 | C# | Event Platform & Management System in development. |
+| [SimonCropp/StrongIdAnalyzer](https://github.com/SimonCropp/StrongIdAnalyzer) | 31 | C# | Roslyn analyzer that prevents primitive ID values (Guid, int, string, etc.) from being crossed between domain types at compile time |
 
 Selection query: `stars:3..50 fork:false archived:false is:public pushed:>=2025-09-21 language:C#`
 <!-- github-of-the-day:end -->
