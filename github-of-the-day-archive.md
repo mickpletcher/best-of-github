@@ -6,6 +6,7 @@ Each row keeps the repository link, star count, primary language, site descripti
 
 | Date | Repository | Stars | Language | Site Description | Selection Query |
 | --- | --- | ---: | --- | --- | --- |
+| 2026-09-22 | [camunda/camunda-7-to-8-migration-tooling](https://github.com/camunda/camunda-7-to-8-migration-tooling) | 5 | JavaScript | Camunda 7 to 8 Migration Tooling (Data Migrator, Code Conversion, Diagram Converter) | `stars:3..50 fork:false archived:false is:public pushed:>=2025-09-22 language:JavaScript` |
 | 2026-09-21 | [SimonCropp/StrongIdAnalyzer](https://github.com/SimonCropp/StrongIdAnalyzer) | 31 | C# | Roslyn analyzer that prevents primitive ID values (Guid, int, string, etc.) from being crossed between domain types at compile time | `stars:3..50 fork:false archived:false is:public pushed:>=2025-09-21 language:C#` |
 | 2026-09-20 | [Blockstream/esplora](https://github.com/Blockstream/esplora) | 1,265 | JavaScript | Explorer for Bitcoin and Liquid | `stars:1001..5000 fork:false archived:false is:public pushed:>=2025-09-20 language:JavaScript` |
 | 2026-09-19 | [Kruithne/wow.export.web](https://github.com/Kruithne/wow.export.web) | 3 | TypeScript | Source code for the wow.export website | `stars:3..50 fork:false archived:false is:public pushed:>=2025-09-19 language:TypeScript` |
