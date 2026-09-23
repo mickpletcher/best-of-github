@@ -16,13 +16,13 @@ Latest weekly scan: 2026-09-21.
 ## GitHub of the Day
 
 <!-- github-of-the-day:start -->
-Selected for 2026-09-22 from public, non-fork, non-archived repositories with recent activity. This is random and is not based on popularity.
+Selected for 2026-09-23 from public, non-fork, non-archived repositories with recent activity. This is random and is not based on popularity.
 
 | Repository | Stars | Language | Notes |
 | --- | ---: | --- | --- |
-| [camunda/camunda-7-to-8-migration-tooling](https://github.com/camunda/camunda-7-to-8-migration-tooling) | 5 | JavaScript | Camunda 7 to 8 Migration Tooling (Data Migrator, Code Conversion, Diagram Converter) |
+| [vinayakkulkarni/tileserver-rs](https://github.com/vinayakkulkarni/tileserver-rs) | 57 | Rust | High-performance Rust tile server for PMTiles, MBTiles, PostGIS, and Cloud Optimized GeoTIFFs |
 
-Selection query: `stars:3..50 fork:false archived:false is:public pushed:>=2025-09-22 language:JavaScript`
+Selection query: `stars:51..250 fork:false archived:false is:public pushed:>=2025-09-23 language:Rust`
 <!-- github-of-the-day:end -->
 
 Past picks are saved in the [GitHub of the Day Archive](github-of-the-day-archive.md). Repositories need at least 3 stars to be eligible.

@@ -6,6 +6,7 @@ Each row keeps the repository link, star count, primary language, site descripti
 
 | Date | Repository | Stars | Language | Site Description | Selection Query |
 | --- | --- | ---: | --- | --- | --- |
+| 2026-09-23 | [vinayakkulkarni/tileserver-rs](https://github.com/vinayakkulkarni/tileserver-rs) | 57 | Rust | High-performance Rust tile server for PMTiles, MBTiles, PostGIS, and Cloud Optimized GeoTIFFs | `stars:51..250 fork:false archived:false is:public pushed:>=2025-09-23 language:Rust` |
 | 2026-09-22 | [camunda/camunda-7-to-8-migration-tooling](https://github.com/camunda/camunda-7-to-8-migration-tooling) | 5 | JavaScript | Camunda 7 to 8 Migration Tooling (Data Migrator, Code Conversion, Diagram Converter) | `stars:3..50 fork:false archived:false is:public pushed:>=2025-09-22 language:JavaScript` |
 | 2026-09-21 | [SimonCropp/StrongIdAnalyzer](https://github.com/SimonCropp/StrongIdAnalyzer) | 31 | C# | Roslyn analyzer that prevents primitive ID values (Guid, int, string, etc.) from being crossed between domain types at compile time | `stars:3..50 fork:false archived:false is:public pushed:>=2025-09-21 language:C#` |
 | 2026-09-20 | [Blockstream/esplora](https://github.com/Blockstream/esplora) | 1,265 | JavaScript | Explorer for Bitcoin and Liquid | `stars:1001..5000 fork:false archived:false is:public pushed:>=2025-09-20 language:JavaScript` |
