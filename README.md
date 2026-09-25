@@ -16,13 +16,13 @@ Latest weekly scan: 2026-09-21.
 ## GitHub of the Day
 
 <!-- github-of-the-day:start -->
-Selected for 2026-09-24 from public, non-fork, non-archived repositories with recent activity. This is random and is not based on popularity.
+Selected for 2026-09-25 from public, non-fork, non-archived repositories with recent activity. This is random and is not based on popularity.
 
 | Repository | Stars | Language | Notes |
 | --- | ---: | --- | --- |
-| [pbatard/Fido](https://github.com/pbatard/Fido) | 2,890 | PowerShell | A PowerShell script to download Windows or UEFI Shell ISOs |
+| [Wundark/binaural-beats](https://github.com/Wundark/binaural-beats) | 3 | Go | Go-based application that generates binaural beats with optional pink noise. |
 
-Selection query: `stars:1001..5000 fork:false archived:false is:public pushed:>=2025-09-24 language:PowerShell`
+Selection query: `stars:3..50 fork:false archived:false is:public pushed:>=2025-09-25 language:Go`
 <!-- github-of-the-day:end -->
 
 Past picks are saved in the [GitHub of the Day Archive](github-of-the-day-archive.md). Repositories need at least 3 stars to be eligible.
