@@ -6,6 +6,7 @@ Each row keeps the repository link, star count, primary language, site descripti
 
 | Date | Repository | Stars | Language | Site Description | Selection Query |
 | --- | --- | ---: | --- | --- | --- |
+| 2026-09-26 | [jeremiah-k/fetchtastic](https://github.com/jeremiah-k/fetchtastic) | 14 | Python | Fetchtastic is a utility for downloading and managing the latest Meshtastic Android app and Firmware releases on your PC and/or phone (using Termux). It also provides optional notifications via NTFY. | `stars:3..50 fork:false archived:false is:public pushed:>=2025-09-26 language:Python` |
 | 2026-09-25 | [Wundark/binaural-beats](https://github.com/Wundark/binaural-beats) | 3 | Go | Go-based application that generates binaural beats with optional pink noise. | `stars:3..50 fork:false archived:false is:public pushed:>=2025-09-25 language:Go` |
 | 2026-09-24 | [pbatard/Fido](https://github.com/pbatard/Fido) | 2,890 | PowerShell | A PowerShell script to download Windows or UEFI Shell ISOs | `stars:1001..5000 fork:false archived:false is:public pushed:>=2025-09-24 language:PowerShell` |
 | 2026-09-23 | [vinayakkulkarni/tileserver-rs](https://github.com/vinayakkulkarni/tileserver-rs) | 57 | Rust | High-performance Rust tile server for PMTiles, MBTiles, PostGIS, and Cloud Optimized GeoTIFFs | `stars:51..250 fork:false archived:false is:public pushed:>=2025-09-23 language:Rust` |
