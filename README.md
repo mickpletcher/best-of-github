@@ -20,7 +20,7 @@ Selected for 2026-09-28 from public, non-fork, non-archived repositories with re
 
 | Repository | Stars | Language | Notes |
 | --- | ---: | --- | --- |
-| [yyjeqhc/webcodex](https://github.com/yyjeqhc/webcodex) | 2,010 | Rust | Give cloud AI agents a real development environment on your own machines. |
+| [fallow-rs/fallow](https://github.com/fallow-rs/fallow) | 4,939 | Rust | Codebase intelligence for TypeScript and JavaScript. Free static analysis of code and styles: unused code, duplication, circular deps, complexity hotspots, architecture boundaries, design-system drift. Optional paid runtime layer (Fallow Runtime): hot-path review and cold-path deletion evidence from real production traffic. |
 
 Selection query: `stars:1001..5000 fork:false archived:false is:public pushed:>=2025-09-28 language:Rust`
 <!-- github-of-the-day:end -->
