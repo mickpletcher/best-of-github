@@ -6,6 +6,7 @@ Each row keeps the repository link, star count, primary language, site descripti
 
 | Date | Repository | Stars | Language | Site Description | Selection Query |
 | --- | --- | ---: | --- | --- | --- |
+| 2026-09-28 | [yyjeqhc/webcodex](https://github.com/yyjeqhc/webcodex) | 2,010 | Rust | Give cloud AI agents a real development environment on your own machines. | `stars:1001..5000 fork:false archived:false is:public pushed:>=2025-09-28 language:Rust` |
 | 2026-09-27 | [microsoft/unitysetup.powershell](https://github.com/microsoft/unitysetup.powershell) | 186 | PowerShell | Powershell module for interfacing with Unity installs and projects. | `stars:51..250 fork:false archived:false is:public pushed:>=2025-09-27 language:PowerShell` |
 | 2026-09-26 | [jeremiah-k/fetchtastic](https://github.com/jeremiah-k/fetchtastic) | 14 | Python | Fetchtastic is a utility for downloading and managing the latest Meshtastic Android app and Firmware releases on your PC and/or phone (using Termux). It also provides optional notifications via NTFY. | `stars:3..50 fork:false archived:false is:public pushed:>=2025-09-26 language:Python` |
 | 2026-09-25 | [Wundark/binaural-beats](https://github.com/Wundark/binaural-beats) | 3 | Go | Go-based application that generates binaural beats with optional pink noise. | `stars:3..50 fork:false archived:false is:public pushed:>=2025-09-25 language:Go` |
