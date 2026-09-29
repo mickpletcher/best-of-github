@@ -16,13 +16,13 @@ Latest weekly scan: 2026-09-28.
 ## GitHub of the Day
 
 <!-- github-of-the-day:start -->
-Selected for 2026-09-28 from public, non-fork, non-archived repositories with recent activity. This is random and is not based on popularity.
+Selected for 2026-09-29 from public, non-fork, non-archived repositories with recent activity. This is random and is not based on popularity.
 
 | Repository | Stars | Language | Notes |
 | --- | ---: | --- | --- |
-| [fallow-rs/fallow](https://github.com/fallow-rs/fallow) | 4,939 | Rust | Codebase intelligence for TypeScript and JavaScript. Free static analysis of code and styles: unused code, duplication, circular deps, complexity hotspots, architecture boundaries, design-system drift. Optional paid runtime layer (Fallow Runtime): hot-path review and cold-path deletion evidence from real production traffic. |
+| [xyproto/algernon](https://github.com/xyproto/algernon) | 3,032 | JavaScript | Small self-contained pure-Go web server with Lua, Teal, Markdown, HTTP/2, QUIC, Redis, TypeScript, npm-less React 19, SQLite, and PostgreSQL support ++ |
 
-Selection query: `stars:1001..5000 fork:false archived:false is:public pushed:>=2025-09-28 language:Rust`
+Selection query: `stars:1001..5000 fork:false archived:false is:public pushed:>=2025-09-29 language:JavaScript`
 <!-- github-of-the-day:end -->
 
 Past picks are saved in the [GitHub of the Day Archive](github-of-the-day-archive.md). Repositories need at least 3 stars to be eligible.
