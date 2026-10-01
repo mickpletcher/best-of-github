@@ -6,6 +6,7 @@ Each row keeps the repository link, star count, primary language, site descripti
 
 | Date | Repository | Stars | Language | Site Description | Selection Query |
 | --- | --- | ---: | --- | --- | --- |
+| 2026-10-01 | [yks0000/starred-repo-toc](https://github.com/yks0000/starred-repo-toc) | 47 | Go | Generates Markdown table for all Starred Repositories by a GitHub user. | `stars:3..50 fork:false archived:false is:public pushed:>=2025-10-01 language:Go` |
 | 2026-09-30 | [n0-computer/n0-mainline](https://github.com/n0-computer/n0-mainline) | 11 | Rust | Simple, robust, BitTorrent's Mainline DHT implementation | `stars:3..50 fork:false archived:false is:public pushed:>=2025-09-30 language:Rust` |
 | 2026-09-29 | [xyproto/algernon](https://github.com/xyproto/algernon) | 3,032 | JavaScript | Small self-contained pure-Go web server with Lua, Teal, Markdown, HTTP/2, QUIC, Redis, TypeScript, npm-less React 19, SQLite, and PostgreSQL support ++ | `stars:1001..5000 fork:false archived:false is:public pushed:>=2025-09-29 language:JavaScript` |
 | 2026-09-28 | [fallow-rs/fallow](https://github.com/fallow-rs/fallow) | 4,939 | Rust | Codebase intelligence for TypeScript and JavaScript. Free static analysis of code and styles: unused code, duplication, circular deps, complexity hotspots, architecture boundaries, design-system drift. Optional paid runtime layer (Fallow Runtime): hot-path review and cold-path deletion evidence from real production traffic. | `stars:1001..5000 fork:false archived:false is:public pushed:>=2025-09-28 language:Rust` |

@@ -16,13 +16,13 @@ Latest weekly scan: 2026-09-28.
 ## GitHub of the Day
 
 <!-- github-of-the-day:start -->
-Selected for 2026-09-30 from public, non-fork, non-archived repositories with recent activity. This is random and is not based on popularity.
+Selected for 2026-10-01 from public, non-fork, non-archived repositories with recent activity. This is random and is not based on popularity.
 
 | Repository | Stars | Language | Notes |
 | --- | ---: | --- | --- |
-| [n0-computer/n0-mainline](https://github.com/n0-computer/n0-mainline) | 11 | Rust | Simple, robust, BitTorrent's Mainline DHT implementation |
+| [yks0000/starred-repo-toc](https://github.com/yks0000/starred-repo-toc) | 47 | Go | Generates Markdown table for all Starred Repositories by a GitHub user. |
 
-Selection query: `stars:3..50 fork:false archived:false is:public pushed:>=2025-09-30 language:Rust`
+Selection query: `stars:3..50 fork:false archived:false is:public pushed:>=2025-10-01 language:Go`
 <!-- github-of-the-day:end -->
 
 Past picks are saved in the [GitHub of the Day Archive](github-of-the-day-archive.md). Repositories need at least 3 stars to be eligible.
