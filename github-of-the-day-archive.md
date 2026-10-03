@@ -6,6 +6,7 @@ Each row keeps the repository link, star count, primary language, site descripti
 
 | Date | Repository | Stars | Language | Site Description | Selection Query |
 | --- | --- | ---: | --- | --- | --- |
+| 2026-10-03 | [alexgetmancom/signal-forge](https://github.com/alexgetmancom/signal-forge) | 5 | TypeScript | Evidence-first monitoring for AI model releases, catalog changes, arenas, packages, docs, incidents, and platform signals. | `stars:3..50 fork:false archived:false is:public pushed:>=2025-10-03 language:TypeScript` |
 | 2026-10-02 | [leookun/cursor-byok](https://github.com/leookun/cursor-byok) | 3,136 | Rust | cursor-byok is a local implementation of Cursor's backend | `stars:1001..5000 fork:false archived:false is:public pushed:>=2025-10-02 language:Rust` |
 | 2026-10-01 | [yks0000/starred-repo-toc](https://github.com/yks0000/starred-repo-toc) | 47 | Go | Generates Markdown table for all Starred Repositories by a GitHub user. | `stars:3..50 fork:false archived:false is:public pushed:>=2025-10-01 language:Go` |
 | 2026-09-30 | [n0-computer/n0-mainline](https://github.com/n0-computer/n0-mainline) | 11 | Rust | Simple, robust, BitTorrent's Mainline DHT implementation | `stars:3..50 fork:false archived:false is:public pushed:>=2025-09-30 language:Rust` |

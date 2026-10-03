@@ -16,13 +16,13 @@ Latest weekly scan: 2026-09-28.
 ## GitHub of the Day
 
 <!-- github-of-the-day:start -->
-Selected for 2026-10-02 from public, non-fork, non-archived repositories with recent activity. This is random and is not based on popularity.
+Selected for 2026-10-03 from public, non-fork, non-archived repositories with recent activity. This is random and is not based on popularity.
 
 | Repository | Stars | Language | Notes |
 | --- | ---: | --- | --- |
-| [leookun/cursor-byok](https://github.com/leookun/cursor-byok) | 3,136 | Rust | cursor-byok is a local implementation of Cursor's backend |
+| [alexgetmancom/signal-forge](https://github.com/alexgetmancom/signal-forge) | 5 | TypeScript | Evidence-first monitoring for AI model releases, catalog changes, arenas, packages, docs, incidents, and platform signals. |
 
-Selection query: `stars:1001..5000 fork:false archived:false is:public pushed:>=2025-10-02 language:Rust`
+Selection query: `stars:3..50 fork:false archived:false is:public pushed:>=2025-10-03 language:TypeScript`
 <!-- github-of-the-day:end -->
 
 Past picks are saved in the [GitHub of the Day Archive](github-of-the-day-archive.md). Repositories need at least 3 stars to be eligible.
