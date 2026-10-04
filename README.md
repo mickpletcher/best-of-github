@@ -16,13 +16,13 @@ Latest weekly scan: 2026-09-28.
 ## GitHub of the Day
 
 <!-- github-of-the-day:start -->
-Selected for 2026-10-03 from public, non-fork, non-archived repositories with recent activity. This is random and is not based on popularity.
+Selected for 2026-10-04 from public, non-fork, non-archived repositories with recent activity. This is random and is not based on popularity.
 
 | Repository | Stars | Language | Notes |
 | --- | ---: | --- | --- |
-| [alexgetmancom/signal-forge](https://github.com/alexgetmancom/signal-forge) | 5 | TypeScript | Evidence-first monitoring for AI model releases, catalog changes, arenas, packages, docs, incidents, and platform signals. |
+| [mliu98/awesome-human-distillation](https://github.com/mliu98/awesome-human-distillation) | 748 | Python | A curated catalog of human distillliation agent skills |
 
-Selection query: `stars:3..50 fork:false archived:false is:public pushed:>=2025-10-03 language:TypeScript`
+Selection query: `stars:251..1000 fork:false archived:false is:public pushed:>=2025-10-04 language:Python`
 <!-- github-of-the-day:end -->
 
 Past picks are saved in the [GitHub of the Day Archive](github-of-the-day-archive.md). Repositories need at least 3 stars to be eligible.
