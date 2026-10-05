@@ -6,6 +6,7 @@ Each row keeps the repository link, star count, primary language, site descripti
 
 | Date | Repository | Stars | Language | Site Description | Selection Query |
 | --- | --- | ---: | --- | --- | --- |
+| 2026-10-05 | [MCPJam/inspector](https://github.com/MCPJam/inspector) | 2,234 | TypeScript | Testing and evaluation platform to chat, inspect, and debug MCP servers, MCP apps, and ChatGPT apps. | `stars:1001..5000 fork:false archived:false is:public pushed:>=2025-10-05 language:TypeScript` |
 | 2026-10-04 | [mliu98/awesome-human-distillation](https://github.com/mliu98/awesome-human-distillation) | 748 | Python | A curated catalog of human distillliation agent skills | `stars:251..1000 fork:false archived:false is:public pushed:>=2025-10-04 language:Python` |
 | 2026-10-03 | [alexgetmancom/signal-forge](https://github.com/alexgetmancom/signal-forge) | 5 | TypeScript | Evidence-first monitoring for AI model releases, catalog changes, arenas, packages, docs, incidents, and platform signals. | `stars:3..50 fork:false archived:false is:public pushed:>=2025-10-03 language:TypeScript` |
 | 2026-10-02 | [leookun/cursor-byok](https://github.com/leookun/cursor-byok) | 3,136 | Rust | cursor-byok is a local implementation of Cursor's backend | `stars:1001..5000 fork:false archived:false is:public pushed:>=2025-10-02 language:Rust` |
