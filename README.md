@@ -16,13 +16,13 @@ Latest weekly scan: 2026-10-05.
 ## GitHub of the Day
 
 <!-- github-of-the-day:start -->
-Selected for 2026-10-05 from public, non-fork, non-archived repositories with recent activity. This is random and is not based on popularity.
+Selected for 2026-10-06 from public, non-fork, non-archived repositories with recent activity. This is random and is not based on popularity.
 
 | Repository | Stars | Language | Notes |
 | --- | ---: | --- | --- |
-| [MCPJam/inspector](https://github.com/MCPJam/inspector) | 2,234 | TypeScript | Testing and evaluation platform to chat, inspect, and debug MCP servers, MCP apps, and ChatGPT apps. |
+| [lumiis2/opportunity-tracker](https://github.com/lumiis2/opportunity-tracker) | 114 | Python | Open-source platform for tracking scholarships, research internships, conferences, graduate programs, and academic opportunities worldwide. |
 
-Selection query: `stars:1001..5000 fork:false archived:false is:public pushed:>=2025-10-05 language:TypeScript`
+Selection query: `stars:51..250 fork:false archived:false is:public pushed:>=2025-10-06 language:Python`
 <!-- github-of-the-day:end -->
 
 Past picks are saved in the [GitHub of the Day Archive](github-of-the-day-archive.md). Repositories need at least 3 stars to be eligible.
