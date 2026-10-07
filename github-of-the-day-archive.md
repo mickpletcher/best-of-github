@@ -6,6 +6,7 @@ Each row keeps the repository link, star count, primary language, site descripti
 
 | Date | Repository | Stars | Language | Site Description | Selection Query |
 | --- | --- | ---: | --- | --- | --- |
+| 2026-10-07 | [lucianopaz/slsqp-jax](https://github.com/lucianopaz/slsqp-jax) | 6 | Python | A jax implementation of the SLSQP optimisation algorithm | `stars:3..50 fork:false archived:false is:public pushed:>=2025-10-07 language:Python` |
 | 2026-10-06 | [lumiis2/opportunity-tracker](https://github.com/lumiis2/opportunity-tracker) | 114 | Python | Open-source platform for tracking scholarships, research internships, conferences, graduate programs, and academic opportunities worldwide. | `stars:51..250 fork:false archived:false is:public pushed:>=2025-10-06 language:Python` |
 | 2026-10-05 | [MCPJam/inspector](https://github.com/MCPJam/inspector) | 2,234 | TypeScript | Testing and evaluation platform to chat, inspect, and debug MCP servers, MCP apps, and ChatGPT apps. | `stars:1001..5000 fork:false archived:false is:public pushed:>=2025-10-05 language:TypeScript` |
 | 2026-10-04 | [mliu98/awesome-human-distillation](https://github.com/mliu98/awesome-human-distillation) | 748 | Python | A curated catalog of human distillliation agent skills | `stars:251..1000 fork:false archived:false is:public pushed:>=2025-10-04 language:Python` |
