@@ -16,13 +16,13 @@ Latest weekly scan: 2026-10-05.
 ## GitHub of the Day
 
 <!-- github-of-the-day:start -->
-Selected for 2026-10-07 from public, non-fork, non-archived repositories with recent activity. This is random and is not based on popularity.
+Selected for 2026-10-08 from public, non-fork, non-archived repositories with recent activity. This is random and is not based on popularity.
 
 | Repository | Stars | Language | Notes |
 | --- | ---: | --- | --- |
-| [lucianopaz/slsqp-jax](https://github.com/lucianopaz/slsqp-jax) | 6 | Python | A jax implementation of the SLSQP optimisation algorithm |
+| [apache/incubator-seata-go](https://github.com/apache/incubator-seata-go) | 1,738 | Go | Go Implementation For Seata |
 
-Selection query: `stars:3..50 fork:false archived:false is:public pushed:>=2025-10-07 language:Python`
+Selection query: `stars:1001..5000 fork:false archived:false is:public pushed:>=2025-10-08 language:Go`
 <!-- github-of-the-day:end -->
 
 Past picks are saved in the [GitHub of the Day Archive](github-of-the-day-archive.md). Repositories need at least 3 stars to be eligible.
