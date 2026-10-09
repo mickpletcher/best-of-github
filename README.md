@@ -16,13 +16,13 @@ Latest weekly scan: 2026-10-05.
 ## GitHub of the Day
 
 <!-- github-of-the-day:start -->
-Selected for 2026-10-08 from public, non-fork, non-archived repositories with recent activity. This is random and is not based on popularity.
+Selected for 2026-10-09 from public, non-fork, non-archived repositories with recent activity. This is random and is not based on popularity.
 
 | Repository | Stars | Language | Notes |
 | --- | ---: | --- | --- |
-| [apache/incubator-seata-go](https://github.com/apache/incubator-seata-go) | 1,738 | Go | Go Implementation For Seata |
+| [code-yeongyu/lazycodex](https://github.com/code-yeongyu/lazycodex) | 3,750 | TypeScript | The one and only agent harness for complex codebases. Project memory, planning, execution, and verified completion inside Codex. |
 
-Selection query: `stars:1001..5000 fork:false archived:false is:public pushed:>=2025-10-08 language:Go`
+Selection query: `stars:1001..5000 fork:false archived:false is:public pushed:>=2025-10-09 language:TypeScript`
 <!-- github-of-the-day:end -->
 
 Past picks are saved in the [GitHub of the Day Archive](github-of-the-day-archive.md). Repositories need at least 3 stars to be eligible.
