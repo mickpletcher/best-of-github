@@ -6,6 +6,7 @@ Each row keeps the repository link, star count, primary language, site descripti
 
 | Date | Repository | Stars | Language | Site Description | Selection Query |
 | --- | --- | ---: | --- | --- | --- |
+| 2026-10-10 | [annervisser/pr-cli](https://github.com/annervisser/pr-cli) | 10 | TypeScript | Command line tool for easily creating pull requests for part of your changes without interrupting your flow. | `stars:3..50 fork:false archived:false is:public pushed:>=2025-10-10 language:TypeScript` |
 | 2026-10-09 | [code-yeongyu/lazycodex](https://github.com/code-yeongyu/lazycodex) | 3,750 | TypeScript | The one and only agent harness for complex codebases. Project memory, planning, execution, and verified completion inside Codex. | `stars:1001..5000 fork:false archived:false is:public pushed:>=2025-10-09 language:TypeScript` |
 | 2026-10-08 | [apache/incubator-seata-go](https://github.com/apache/incubator-seata-go) | 1,738 | Go | Go Implementation For Seata | `stars:1001..5000 fork:false archived:false is:public pushed:>=2025-10-08 language:Go` |
 | 2026-10-07 | [lucianopaz/slsqp-jax](https://github.com/lucianopaz/slsqp-jax) | 6 | Python | A jax implementation of the SLSQP optimisation algorithm | `stars:3..50 fork:false archived:false is:public pushed:>=2025-10-07 language:Python` |
