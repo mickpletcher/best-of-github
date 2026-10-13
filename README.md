@@ -16,13 +16,13 @@ Latest weekly scan: 2026-10-12.
 ## GitHub of the Day
 
 <!-- github-of-the-day:start -->
-Selected for 2026-10-12 from public, non-fork, non-archived repositories with recent activity. This is random and is not based on popularity.
+Selected for 2026-10-13 from public, non-fork, non-archived repositories with recent activity. This is random and is not based on popularity.
 
 | Repository | Stars | Language | Notes |
 | --- | ---: | --- | --- |
-| [juribalimited/powershell-module-dpc](https://github.com/juribalimited/powershell-module-dpc) | 3 | PowerShell | PowerShell module to interact with Juriba DPC. |
+| [ArturSepp/QuantInvestStrats](https://github.com/ArturSepp/QuantInvestStrats) | 641 | Python | Performance analytics, portfolio backtesting, risk analysis, and factsheet reporting in Python |
 
-Selection query: `stars:3..50 fork:false archived:false is:public pushed:>=2025-10-12 language:PowerShell`
+Selection query: `stars:251..1000 fork:false archived:false is:public pushed:>=2025-10-13 language:Python`
 <!-- github-of-the-day:end -->
 
 Past picks are saved in the [GitHub of the Day Archive](github-of-the-day-archive.md). Repositories need at least 3 stars to be eligible.

@@ -6,6 +6,7 @@ Each row keeps the repository link, star count, primary language, site descripti
 
 | Date | Repository | Stars | Language | Site Description | Selection Query |
 | --- | --- | ---: | --- | --- | --- |
+| 2026-10-13 | [ArturSepp/QuantInvestStrats](https://github.com/ArturSepp/QuantInvestStrats) | 641 | Python | Performance analytics, portfolio backtesting, risk analysis, and factsheet reporting in Python | `stars:251..1000 fork:false archived:false is:public pushed:>=2025-10-13 language:Python` |
 | 2026-10-12 | [juribalimited/powershell-module-dpc](https://github.com/juribalimited/powershell-module-dpc) | 3 | PowerShell | PowerShell module to interact with Juriba DPC. | `stars:3..50 fork:false archived:false is:public pushed:>=2025-10-12 language:PowerShell` |
 | 2026-10-11 | [minio/madmin-go](https://github.com/minio/madmin-go) | 123 | Go | The MinIO Admin Go Client SDK provides APIs to manage MinIO services | `stars:51..250 fork:false archived:false is:public pushed:>=2025-10-11 language:Go` |
 | 2026-10-10 | [annervisser/pr-cli](https://github.com/annervisser/pr-cli) | 10 | TypeScript | Command line tool for easily creating pull requests for part of your changes without interrupting your flow. | `stars:3..50 fork:false archived:false is:public pushed:>=2025-10-10 language:TypeScript` |
