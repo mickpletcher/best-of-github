@@ -16,13 +16,13 @@ Latest weekly scan: 2026-10-12.
 ## GitHub of the Day
 
 <!-- github-of-the-day:start -->
-Selected for 2026-10-15 from public, non-fork, non-archived repositories with recent activity. This is random and is not based on popularity.
+Selected for 2026-10-16 from public, non-fork, non-archived repositories with recent activity. This is random and is not based on popularity.
 
 | Repository | Stars | Language | Notes |
 | --- | ---: | --- | --- |
-| [bitnami/containers](https://github.com/bitnami/containers) | 4,470 | Shell | Bitnami container images |
+| [cesarferreira/stax](https://github.com/cesarferreira/stax) | 130 | Rust | The fastest stacked-branch workflow for Git. Interactive TUI, smart PRs, safe undo. Written in Rust. |
 
-Selection query: `stars:1001..5000 fork:false archived:false is:public pushed:>=2025-10-15 language:Shell`
+Selection query: `stars:51..250 fork:false archived:false is:public pushed:>=2025-10-16 language:Rust`
 <!-- github-of-the-day:end -->
 
 Past picks are saved in the [GitHub of the Day Archive](github-of-the-day-archive.md). Repositories need at least 3 stars to be eligible.
