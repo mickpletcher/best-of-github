@@ -6,6 +6,7 @@ Each row keeps the repository link, star count, primary language, site descripti
 
 | Date | Repository | Stars | Language | Site Description | Selection Query |
 | --- | --- | ---: | --- | --- | --- |
+| 2026-10-17 | [rancher/local-path-provisioner](https://github.com/rancher/local-path-provisioner) | 2,945 | Go | Dynamically provisioning persistent local storage with Kubernetes | `stars:1001..5000 fork:false archived:false is:public pushed:>=2025-10-17 language:Go` |
 | 2026-10-16 | [cesarferreira/stax](https://github.com/cesarferreira/stax) | 130 | Rust | The fastest stacked-branch workflow for Git. Interactive TUI, smart PRs, safe undo. Written in Rust. | `stars:51..250 fork:false archived:false is:public pushed:>=2025-10-16 language:Rust` |
 | 2026-10-15 | [bitnami/containers](https://github.com/bitnami/containers) | 4,470 | Shell | Bitnami container images | `stars:1001..5000 fork:false archived:false is:public pushed:>=2025-10-15 language:Shell` |
 | 2026-10-14 | [NLnetLabs/krill](https://github.com/NLnetLabs/krill) | 366 | Rust | RPKI Certificate Authority and Publication Server written in Rust | `stars:251..1000 fork:false archived:false is:public pushed:>=2025-10-14 language:Rust` |
