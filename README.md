@@ -16,13 +16,13 @@ Latest weekly scan: 2026-10-12.
 ## GitHub of the Day
 
 <!-- github-of-the-day:start -->
-Selected for 2026-10-17 from public, non-fork, non-archived repositories with recent activity. This is random and is not based on popularity.
+Selected for 2026-10-18 from public, non-fork, non-archived repositories with recent activity. This is random and is not based on popularity.
 
 | Repository | Stars | Language | Notes |
 | --- | ---: | --- | --- |
-| [rancher/local-path-provisioner](https://github.com/rancher/local-path-provisioner) | 2,945 | Go | Dynamically provisioning persistent local storage with Kubernetes |
+| [weberdak/transtractor-lib](https://github.com/weberdak/transtractor-lib) | 52 | Rust | Rust-based Python library for converting bank statement PDF files to CSV. |
 
-Selection query: `stars:1001..5000 fork:false archived:false is:public pushed:>=2025-10-17 language:Go`
+Selection query: `stars:51..250 fork:false archived:false is:public pushed:>=2025-10-18 language:Rust`
 <!-- github-of-the-day:end -->
 
 Past picks are saved in the [GitHub of the Day Archive](github-of-the-day-archive.md). Repositories need at least 3 stars to be eligible.
