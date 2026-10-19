@@ -11,18 +11,18 @@ Star counts were refreshed on 2026-08-20.
 
 For the current automated rankings, see the weekly top 100 and weekly top 250 reports below.
 
-Latest weekly scan: 2026-10-12.
+Latest weekly scan: 2026-10-19.
 
 ## GitHub of the Day
 
 <!-- github-of-the-day:start -->
-Selected for 2026-10-18 from public, non-fork, non-archived repositories with recent activity. This is random and is not based on popularity.
+Selected for 2026-10-19 from public, non-fork, non-archived repositories with recent activity. This is random and is not based on popularity.
 
 | Repository | Stars | Language | Notes |
 | --- | ---: | --- | --- |
-| [weberdak/transtractor-lib](https://github.com/weberdak/transtractor-lib) | 52 | Rust | Rust-based Python library for converting bank statement PDF files to CSV. |
+| [hodgesds/narf](https://github.com/hodgesds/narf) | 7 | Rust | Not Another Rust Framekernel |
 
-Selection query: `stars:51..250 fork:false archived:false is:public pushed:>=2025-10-18 language:Rust`
+Selection query: `stars:3..50 fork:false archived:false is:public pushed:>=2025-10-19 language:Rust`
 <!-- github-of-the-day:end -->
 
 Past picks are saved in the [GitHub of the Day Archive](github-of-the-day-archive.md). Repositories need at least 3 stars to be eligible.
