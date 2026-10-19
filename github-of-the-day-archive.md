@@ -6,7 +6,7 @@ Each row keeps the repository link, star count, primary language, site descripti
 
 | Date | Repository | Stars | Language | Site Description | Selection Query |
 | --- | --- | ---: | --- | --- | --- |
-| 2026-10-19 | [hodgesds/narf](https://github.com/hodgesds/narf) | 7 | Rust | Not Another Rust Framekernel | `stars:3..50 fork:false archived:false is:public pushed:>=2025-10-19 language:Rust` |
+| 2026-10-19 | [wetware/ww](https://github.com/wetware/ww) | 22 | Rust | Decentralized OS for multi-tool agent swarms. | `stars:3..50 fork:false archived:false is:public pushed:>=2025-10-19 language:Rust` |
 | 2026-10-18 | [weberdak/transtractor-lib](https://github.com/weberdak/transtractor-lib) | 52 | Rust | Rust-based Python library for converting bank statement PDF files to CSV. | `stars:51..250 fork:false archived:false is:public pushed:>=2025-10-18 language:Rust` |
 | 2026-10-17 | [rancher/local-path-provisioner](https://github.com/rancher/local-path-provisioner) | 2,945 | Go | Dynamically provisioning persistent local storage with Kubernetes | `stars:1001..5000 fork:false archived:false is:public pushed:>=2025-10-17 language:Go` |
 | 2026-10-16 | [cesarferreira/stax](https://github.com/cesarferreira/stax) | 130 | Rust | The fastest stacked-branch workflow for Git. Interactive TUI, smart PRs, safe undo. Written in Rust. | `stars:51..250 fork:false archived:false is:public pushed:>=2025-10-16 language:Rust` |

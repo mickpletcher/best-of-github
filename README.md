@@ -20,7 +20,7 @@ Selected for 2026-10-19 from public, non-fork, non-archived repositories with re
 
 | Repository | Stars | Language | Notes |
 | --- | ---: | --- | --- |
-| [hodgesds/narf](https://github.com/hodgesds/narf) | 7 | Rust | Not Another Rust Framekernel |
+| [wetware/ww](https://github.com/wetware/ww) | 22 | Rust | Decentralized OS for multi-tool agent swarms. |
 
 Selection query: `stars:3..50 fork:false archived:false is:public pushed:>=2025-10-19 language:Rust`
 <!-- github-of-the-day:end -->
