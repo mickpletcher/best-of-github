@@ -6,6 +6,7 @@ Each row keeps the repository link, star count, primary language, site descripti
 
 | Date | Repository | Stars | Language | Site Description | Selection Query |
 | --- | --- | ---: | --- | --- | --- |
+| 2026-10-21 | [shinyflvre/VRCNext](https://github.com/shinyflvre/VRCNext) | 207 | C# | VRCN is a VRChat launcher for Windows that includes various useful tools within a clean interface. It allows you to manage friends, groups, and more in a single application without needing to visit VRChat.com. | `stars:51..250 fork:false archived:false is:public pushed:>=2025-10-21 language:C#` |
 | 2026-10-20 | [microsoft/GHAzDO-Resources](https://github.com/microsoft/GHAzDO-Resources) | 51 | PowerShell | Resources, Scripts, etc. for GitHub Advanced Security on Azure DevOps | `stars:51..250 fork:false archived:false is:public pushed:>=2025-10-20 language:PowerShell` |
 | 2026-10-19 | [wetware/ww](https://github.com/wetware/ww) | 22 | Rust | Decentralized OS for multi-tool agent swarms. | `stars:3..50 fork:false archived:false is:public pushed:>=2025-10-19 language:Rust` |
 | 2026-10-18 | [weberdak/transtractor-lib](https://github.com/weberdak/transtractor-lib) | 52 | Rust | Rust-based Python library for converting bank statement PDF files to CSV. | `stars:51..250 fork:false archived:false is:public pushed:>=2025-10-18 language:Rust` |
