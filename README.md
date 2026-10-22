@@ -16,13 +16,13 @@ Latest weekly scan: 2026-10-19.
 ## GitHub of the Day
 
 <!-- github-of-the-day:start -->
-Selected for 2026-10-21 from public, non-fork, non-archived repositories with recent activity. This is random and is not based on popularity.
+Selected for 2026-10-22 from public, non-fork, non-archived repositories with recent activity. This is random and is not based on popularity.
 
 | Repository | Stars | Language | Notes |
 | --- | ---: | --- | --- |
-| [shinyflvre/VRCNext](https://github.com/shinyflvre/VRCNext) | 207 | C# | VRCN is a VRChat launcher for Windows that includes various useful tools within a clean interface. It allows you to manage friends, groups, and more in a single application without needing to visit VRChat.com. |
+| [Thordata/awesome-free-proxy-list](https://github.com/Thordata/awesome-free-proxy-list) | 58 | Python | Daily-verified free proxy list with GeoIP country, latency tiers, anonymity ratings, survival streaks, Clash/V2Ray subscriptions and a live dashboard. Runs entirely on GitHub Actions. |
 
-Selection query: `stars:51..250 fork:false archived:false is:public pushed:>=2025-10-21 language:C#`
+Selection query: `stars:51..250 fork:false archived:false is:public pushed:>=2025-10-22 language:Python`
 <!-- github-of-the-day:end -->
 
 Past picks are saved in the [GitHub of the Day Archive](github-of-the-day-archive.md). Repositories need at least 3 stars to be eligible.
