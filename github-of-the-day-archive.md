@@ -6,6 +6,7 @@ Each row keeps the repository link, star count, primary language, site descripti
 
 | Date | Repository | Stars | Language | Site Description | Selection Query |
 | --- | --- | ---: | --- | --- | --- |
+| 2026-10-24 | [andyvandaric/opencode-suites-installer](https://github.com/andyvandaric/opencode-suites-installer) | 117 | PowerShell | OCS (OpenCode Config Suites) installer for Multi Agents workflow, AI coding setup, and cross-platform OpenCode onboarding. | `stars:51..250 fork:false archived:false is:public pushed:>=2025-10-24 language:PowerShell` |
 | 2026-10-23 | [HexRaysSA/ida-hcli](https://github.com/HexRaysSA/ida-hcli) | 148 | Python | Hex-Rays CLI (HCLI) | `stars:51..250 fork:false archived:false is:public pushed:>=2025-10-23 language:Python` |
 | 2026-10-22 | [Thordata/awesome-free-proxy-list](https://github.com/Thordata/awesome-free-proxy-list) | 58 | Python | Daily-verified free proxy list with GeoIP country, latency tiers, anonymity ratings, survival streaks, Clash/V2Ray subscriptions and a live dashboard. Runs entirely on GitHub Actions. | `stars:51..250 fork:false archived:false is:public pushed:>=2025-10-22 language:Python` |
 | 2026-10-21 | [shinyflvre/VRCNext](https://github.com/shinyflvre/VRCNext) | 207 | C# | VRCN is a VRChat launcher for Windows that includes various useful tools within a clean interface. It allows you to manage friends, groups, and more in a single application without needing to visit VRChat.com. | `stars:51..250 fork:false archived:false is:public pushed:>=2025-10-21 language:C#` |
