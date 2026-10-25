@@ -16,13 +16,13 @@ Latest weekly scan: 2026-10-19.
 ## GitHub of the Day
 
 <!-- github-of-the-day:start -->
-Selected for 2026-10-24 from public, non-fork, non-archived repositories with recent activity. This is random and is not based on popularity.
+Selected for 2026-10-25 from public, non-fork, non-archived repositories with recent activity. This is random and is not based on popularity.
 
 | Repository | Stars | Language | Notes |
 | --- | ---: | --- | --- |
-| [andyvandaric/opencode-suites-installer](https://github.com/andyvandaric/opencode-suites-installer) | 117 | PowerShell | OCS (OpenCode Config Suites) installer for Multi Agents workflow, AI coding setup, and cross-platform OpenCode onboarding. |
+| [SteamDeckHomebrew/decky-plugin-database](https://github.com/SteamDeckHomebrew/decky-plugin-database) | 350 | Shell | Decky Plugin Database. PR your plugins to this repository to have them added to the store! |
 
-Selection query: `stars:51..250 fork:false archived:false is:public pushed:>=2025-10-24 language:PowerShell`
+Selection query: `stars:251..1000 fork:false archived:false is:public pushed:>=2025-10-25 language:Shell`
 <!-- github-of-the-day:end -->
 
 Past picks are saved in the [GitHub of the Day Archive](github-of-the-day-archive.md). Repositories need at least 3 stars to be eligible.
