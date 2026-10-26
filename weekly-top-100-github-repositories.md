@@ -1,6 +1,6 @@
 # Weekly Top 100 GitHub Repositories
 
-Scanned on 2026-10-19.
+Scanned on 2026-10-26.
 
 This weekly report lists the top 100 public, non-fork, non-archived GitHub repositories sorted by star count and grouped into practical technology categories. The list is generated from the GitHub Search API.
 
@@ -24,150 +24,150 @@ Repository links are emitted as HTML anchors with `target="_blank"` for Markdown
 
 | Rank | Repository | Stars | Language | Description |
 | ---: | --- | ---: | --- | --- |
-| 6 | <a href="https://github.com/openclaw/openclaw" target="_blank" rel="noopener noreferrer">openclaw/openclaw</a> | 392,448 | TypeScript | The AI that really does things. Any OS. Any Platform. The lobster way. 🦞 |
-| 10 | <a href="https://github.com/morluto/rea" target="_blank" rel="noopener noreferrer">morluto/rea</a> | 331,128 | TypeScript | Reverse engineer anything with agents, from app behavior down to native binaries. |
-| 13 | <a href="https://github.com/obra/superpowers" target="_blank" rel="noopener noreferrer">obra/superpowers</a> | 301,919 | Shell | An agentic skills framework & software development methodology that works. |
-| 14 | <a href="https://github.com/mattpocock/skills" target="_blank" rel="noopener noreferrer">mattpocock/skills</a> | 296,963 | Shell | Skills for Real Engineers. Straight from my .agents directory. |
-| 16 | <a href="https://github.com/affaan-m/ECC" target="_blank" rel="noopener noreferrer">affaan-m/ECC</a> | 283,692 | JavaScript | The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond. |
-| 18 | <a href="https://github.com/NousResearch/hermes-agent" target="_blank" rel="noopener noreferrer">NousResearch/hermes-agent</a> | 255,141 | Python | The agent that grows with you |
-| 19 | <a href="https://github.com/deepseek-ai/deepseek-harness" target="_blank" rel="noopener noreferrer">deepseek-ai/deepseek-harness</a> | 254,139 | TypeScript | DeepSeek Harness: Everything is a Plugin. |
-| 24 | <a href="https://github.com/multica-ai/andrej-karpathy-skills" target="_blank" rel="noopener noreferrer">multica-ai/andrej-karpathy-skills</a> | 221,107 | - | A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls. |
-| 25 | <a href="https://github.com/anomalyco/opencode" target="_blank" rel="noopener noreferrer">anomalyco/opencode</a> | 217,243 | TypeScript | The open source coding agent. |
-| 28 | <a href="https://github.com/n8n-io/n8n" target="_blank" rel="noopener noreferrer">n8n-io/n8n</a> | 207,989 | TypeScript | Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. |
-| 30 | <a href="https://github.com/tensorflow/tensorflow" target="_blank" rel="noopener noreferrer">tensorflow/tensorflow</a> | 201,180 | C++ | An Open Source Machine Learning Framework for Everyone |
-| 34 | <a href="https://github.com/ultraworkers/claw-code" target="_blank" rel="noopener noreferrer">ultraworkers/claw-code</a> | 194,909 | Rust | An agent-managed museum exhibit, built in Rust with Gajae-Code / LazyCodex — developed and maintained with no human intervention. |
-| 36 | <a href="https://github.com/firecrawl/firecrawl" target="_blank" rel="noopener noreferrer">firecrawl/firecrawl</a> | 192,957 | TypeScript | Supercharge your AI agents with data from the web and beyond. Building the library for superintelligence. 🔥 |
-| 40 | <a href="https://github.com/Significant-Gravitas/AutoGPT" target="_blank" rel="noopener noreferrer">Significant-Gravitas/AutoGPT</a> | 187,649 | Python | AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters. |
-| 44 | <a href="https://github.com/ollama/ollama" target="_blank" rel="noopener noreferrer">ollama/ollama</a> | 183,813 | Go | Get up and running with Kimi, GLM, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models. |
-| 46 | <a href="https://github.com/anthropics/skills" target="_blank" rel="noopener noreferrer">anthropics/skills</a> | 182,136 | Python | Public repository for Agent Skills |
-| 50 | <a href="https://github.com/f/prompts.chat" target="_blank" rel="noopener noreferrer">f/prompts.chat</a> | 173,527 | HTML | f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy. |
-| 51 | <a href="https://github.com/huggingface/transformers" target="_blank" rel="noopener noreferrer">huggingface/transformers</a> | 167,852 | Python | 🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training. |
-| 52 | <a href="https://github.com/DietrichGebert/ponytail" target="_blank" rel="noopener noreferrer">DietrichGebert/ponytail</a> | 167,586 | JavaScript | Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote. |
-| 53 | <a href="https://github.com/AUTOMATIC1111/stable-diffusion-webui" target="_blank" rel="noopener noreferrer">AUTOMATIC1111/stable-diffusion-webui</a> | 165,069 | Python | Stable Diffusion web UI |
-| 55 | <a href="https://github.com/msitarzewski/agency-agents" target="_blank" rel="noopener noreferrer">msitarzewski/agency-agents</a> | 161,475 | Shell | A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables. |
-| 56 | <a href="https://github.com/Snailclimb/JavaGuide" target="_blank" rel="noopener noreferrer">Snailclimb/JavaGuide</a> | 159,133 | JavaScript | Java 面试 & 后端通用面试指南，覆盖计算机基础、数据库、分布式、高并发、系统设计与 AI 应用开发 |
-| 57 | <a href="https://github.com/langgenius/dify" target="_blank" rel="noopener noreferrer">langgenius/dify</a> | 158,884 | Python | Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack. |
-| 58 | <a href="https://github.com/open-webui/open-webui" target="_blank" rel="noopener noreferrer">open-webui/open-webui</a> | 156,149 | Python | User-friendly AI Interface (Supports Ollama, OpenAI API, ...) |
-| 59 | <a href="https://github.com/langflow-ai/langflow" target="_blank" rel="noopener noreferrer">langflow-ai/langflow</a> | 155,832 | Python | Langflow is a powerful tool for building and deploying AI-powered agents and workflows. |
-| 62 | <a href="https://github.com/anthropics/claude-code" target="_blank" rel="noopener noreferrer">anthropics/claude-code</a> | 152,385 | TypeScript | Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands. |
-| 63 | <a href="https://github.com/langchain-ai/langchain" target="_blank" rel="noopener noreferrer">langchain-ai/langchain</a> | 148,076 | Python | The agent engineering platform. |
-| 65 | <a href="https://github.com/farion1231/cc-switch" target="_blank" rel="noopener noreferrer">farion1231/cc-switch</a> | 146,231 | Rust | A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode, OpenClaw, Grok Build & Hermes Agent. Only official website: ccswitch.io |
-| 66 | <a href="https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools" target="_blank" rel="noopener noreferrer">x1xhlol/system-prompts-and-models-of-ai-tools</a> | 144,089 | - | FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models |
-| 69 | <a href="https://github.com/Shubhamsaboo/awesome-llm-apps" target="_blank" rel="noopener noreferrer">Shubhamsaboo/awesome-llm-apps</a> | 142,288 | Python | 100+ AI Agents, Agent Skills and RAG Apps - Free and Open Source. |
-| 70 | <a href="https://github.com/github/spec-kit" target="_blank" rel="noopener noreferrer">github/spec-kit</a> | 141,891 | Python | 💫 Toolkit to help you get started with SDD or any other process! |
-| 76 | <a href="https://github.com/Comfy-Org/ComfyUI" target="_blank" rel="noopener noreferrer">Comfy-Org/ComfyUI</a> | 139,211 | Python | The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local inference engine in the world. |
-| 77 | <a href="https://github.com/nextlevelbuilder/ui-ux-pro-max-skill" target="_blank" rel="noopener noreferrer">nextlevelbuilder/ui-ux-pro-max-skill</a> | 137,470 | Python | An AI skill that provides design intelligence for building professional UI/UX across multiple platforms. |
-| 78 | <a href="https://github.com/garrytan/gstack" target="_blank" rel="noopener noreferrer">garrytan/gstack</a> | 136,908 | TypeScript | Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA |
-| 81 | <a href="https://github.com/harry0703/MoneyPrinterTurbo" target="_blank" rel="noopener noreferrer">harry0703/MoneyPrinterTurbo</a> | 133,036 | Python | 利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow. |
-| 82 | <a href="https://github.com/ggml-org/llama.cpp" target="_blank" rel="noopener noreferrer">ggml-org/llama.cpp</a> | 131,693 | C++ | LLM inference in C/C++ |
-| 84 | <a href="https://github.com/openai/codex" target="_blank" rel="noopener noreferrer">openai/codex</a> | 129,889 | Rust | Lightweight coding agent that runs in your terminal |
-| 86 | <a href="https://github.com/Graphify-Labs/graphify" target="_blank" rel="noopener noreferrer">Graphify-Labs/graphify</a> | 128,794 | Python | Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store. |
-| 90 | <a href="https://github.com/shadcn-ui/ui" target="_blank" rel="noopener noreferrer">shadcn-ui/ui</a> | 125,936 | TypeScript | Composable, accessible components with thoughtful defaults. Build your own component library with code you can customize, extend, and make your own. |
-| 94 | <a href="https://github.com/VoltAgent/awesome-design-md" target="_blank" rel="noopener noreferrer">VoltAgent/awesome-design-md</a> | 122,232 | - | A collection of DESIGN.md files analysis by popular brand design systems. Drop one into your project and let coding agents generate a matching UI. |
-| 95 | <a href="https://github.com/microsoft/generative-ai-for-beginners" target="_blank" rel="noopener noreferrer">microsoft/generative-ai-for-beginners</a> | 121,627 | Jupyter Notebook | 21 Lessons, Get Started Building with Generative AI |
-| 100 | <a href="https://github.com/browser-use/browser-use" target="_blank" rel="noopener noreferrer">browser-use/browser-use</a> | 118,484 | Python | Open-source Python library for AI browser agents, plus Browser Use Cloud: stealth browsers and a hosted agent API. |
+| 6 | <a href="https://github.com/openclaw/openclaw" target="_blank" rel="noopener noreferrer">openclaw/openclaw</a> | 393,128 | TypeScript | The AI that really does things. Any OS. Any Platform. The lobster way. 🦞 |
+| 7 | <a href="https://github.com/morluto/rea" target="_blank" rel="noopener noreferrer">morluto/rea</a> | 389,257 | TypeScript | Reverse engineer anything with agents, from app behavior down to native binaries. |
+| 13 | <a href="https://github.com/obra/superpowers" target="_blank" rel="noopener noreferrer">obra/superpowers</a> | 305,417 | Shell | An agentic skills framework & software development methodology that works. |
+| 14 | <a href="https://github.com/mattpocock/skills" target="_blank" rel="noopener noreferrer">mattpocock/skills</a> | 303,783 | Shell | Skills for Real Engineers. Straight from my .agents directory. |
+| 15 | <a href="https://github.com/affaan-m/ECC" target="_blank" rel="noopener noreferrer">affaan-m/ECC</a> | 289,363 | JavaScript | The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond. |
+| 18 | <a href="https://github.com/deepseek-ai/deepseek-harness" target="_blank" rel="noopener noreferrer">deepseek-ai/deepseek-harness</a> | 262,302 | TypeScript | DeepSeek Harness: Everything is a Plugin. |
+| 19 | <a href="https://github.com/NousResearch/hermes-agent" target="_blank" rel="noopener noreferrer">NousResearch/hermes-agent</a> | 257,279 | Python | The agent that grows with you |
+| 24 | <a href="https://github.com/multica-ai/andrej-karpathy-skills" target="_blank" rel="noopener noreferrer">multica-ai/andrej-karpathy-skills</a> | 224,255 | - | A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls. |
+| 25 | <a href="https://github.com/anomalyco/opencode" target="_blank" rel="noopener noreferrer">anomalyco/opencode</a> | 221,797 | TypeScript | The open source coding agent. |
+| 28 | <a href="https://github.com/n8n-io/n8n" target="_blank" rel="noopener noreferrer">n8n-io/n8n</a> | 208,643 | TypeScript | Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. |
+| 31 | <a href="https://github.com/tensorflow/tensorflow" target="_blank" rel="noopener noreferrer">tensorflow/tensorflow</a> | 201,268 | C++ | An Open Source Machine Learning Framework for Everyone |
+| 34 | <a href="https://github.com/firecrawl/firecrawl" target="_blank" rel="noopener noreferrer">firecrawl/firecrawl</a> | 195,544 | TypeScript | Supercharge your AI agents with data from the web and beyond. Building the library for superintelligence. 🔥 |
+| 35 | <a href="https://github.com/ultraworkers/claw-code" target="_blank" rel="noopener noreferrer">ultraworkers/claw-code</a> | 194,985 | Rust | An agent-managed museum exhibit, built in Rust with Gajae-Code / LazyCodex — developed and maintained with no human intervention. |
+| 40 | <a href="https://github.com/Significant-Gravitas/AutoGPT" target="_blank" rel="noopener noreferrer">Significant-Gravitas/AutoGPT</a> | 187,759 | Python | AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters. |
+| 43 | <a href="https://github.com/ollama/ollama" target="_blank" rel="noopener noreferrer">ollama/ollama</a> | 184,850 | Go | Get up and running with Kimi, GLM, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models. |
+| 46 | <a href="https://github.com/anthropics/skills" target="_blank" rel="noopener noreferrer">anthropics/skills</a> | 183,913 | Python | Public repository for Agent Skills |
+| 48 | <a href="https://github.com/DietrichGebert/ponytail" target="_blank" rel="noopener noreferrer">DietrichGebert/ponytail</a> | 176,753 | JavaScript | Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote. |
+| 51 | <a href="https://github.com/f/prompts.chat" target="_blank" rel="noopener noreferrer">f/prompts.chat</a> | 174,638 | HTML | f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy. |
+| 52 | <a href="https://github.com/huggingface/transformers" target="_blank" rel="noopener noreferrer">huggingface/transformers</a> | 168,192 | Python | 🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training. |
+| 53 | <a href="https://github.com/AUTOMATIC1111/stable-diffusion-webui" target="_blank" rel="noopener noreferrer">AUTOMATIC1111/stable-diffusion-webui</a> | 165,151 | Python | Stable Diffusion web UI |
+| 54 | <a href="https://github.com/msitarzewski/agency-agents" target="_blank" rel="noopener noreferrer">msitarzewski/agency-agents</a> | 164,157 | Shell | A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables. |
+| 56 | <a href="https://github.com/langgenius/dify" target="_blank" rel="noopener noreferrer">langgenius/dify</a> | 159,593 | Python | Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack. |
+| 57 | <a href="https://github.com/Snailclimb/JavaGuide" target="_blank" rel="noopener noreferrer">Snailclimb/JavaGuide</a> | 159,268 | JavaScript | Java 面试 & 后端通用面试指南，覆盖计算机基础、数据库、分布式、高并发、系统设计与 AI 应用开发 |
+| 58 | <a href="https://github.com/open-webui/open-webui" target="_blank" rel="noopener noreferrer">open-webui/open-webui</a> | 156,811 | Python | User-friendly AI Interface (Supports Ollama, OpenAI API, ...) |
+| 59 | <a href="https://github.com/langflow-ai/langflow" target="_blank" rel="noopener noreferrer">langflow-ai/langflow</a> | 156,030 | Python | Langflow is a powerful tool for building and deploying AI-powered agents and workflows. |
+| 61 | <a href="https://github.com/anthropics/claude-code" target="_blank" rel="noopener noreferrer">anthropics/claude-code</a> | 153,436 | TypeScript | Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands. |
+| 63 | <a href="https://github.com/farion1231/cc-switch" target="_blank" rel="noopener noreferrer">farion1231/cc-switch</a> | 148,906 | Rust | A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode, OpenClaw, Grok Build & Hermes Agent. Only official website: ccswitch.io |
+| 64 | <a href="https://github.com/langchain-ai/langchain" target="_blank" rel="noopener noreferrer">langchain-ai/langchain</a> | 148,491 | Python | The agent engineering platform. |
+| 66 | <a href="https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools" target="_blank" rel="noopener noreferrer">x1xhlol/system-prompts-and-models-of-ai-tools</a> | 144,270 | - | FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models |
+| 68 | <a href="https://github.com/Comfy-Org/ComfyUI" target="_blank" rel="noopener noreferrer">Comfy-Org/ComfyUI</a> | 143,159 | Python | The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local inference engine in the world. |
+| 70 | <a href="https://github.com/Shubhamsaboo/awesome-llm-apps" target="_blank" rel="noopener noreferrer">Shubhamsaboo/awesome-llm-apps</a> | 143,119 | Python | 100+ AI Agents, Agent Skills and RAG Apps - Free and Open Source. |
+| 71 | <a href="https://github.com/github/spec-kit" target="_blank" rel="noopener noreferrer">github/spec-kit</a> | 142,980 | Python | 💫 Toolkit to help you get started with SDD or any other process! |
+| 74 | <a href="https://github.com/nextlevelbuilder/ui-ux-pro-max-skill" target="_blank" rel="noopener noreferrer">nextlevelbuilder/ui-ux-pro-max-skill</a> | 140,718 | Python | An AI skill that provides design intelligence for building professional UI/UX across multiple platforms. |
+| 78 | <a href="https://github.com/garrytan/gstack" target="_blank" rel="noopener noreferrer">garrytan/gstack</a> | 137,790 | TypeScript | Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA |
+| 80 | <a href="https://github.com/Graphify-Labs/graphify" target="_blank" rel="noopener noreferrer">Graphify-Labs/graphify</a> | 135,831 | Python | Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store. |
+| 81 | <a href="https://github.com/harry0703/MoneyPrinterTurbo" target="_blank" rel="noopener noreferrer">harry0703/MoneyPrinterTurbo</a> | 135,306 | Python | 利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow. |
+| 83 | <a href="https://github.com/ggml-org/llama.cpp" target="_blank" rel="noopener noreferrer">ggml-org/llama.cpp</a> | 132,419 | C++ | LLM inference in C/C++ |
+| 85 | <a href="https://github.com/openai/codex" target="_blank" rel="noopener noreferrer">openai/codex</a> | 131,003 | Rust | Lightweight coding agent that runs in your terminal |
+| 90 | <a href="https://github.com/shadcn-ui/ui" target="_blank" rel="noopener noreferrer">shadcn-ui/ui</a> | 126,584 | TypeScript | Composable, accessible components with thoughtful defaults. Build your own component library with code you can customize, extend, and make your own. |
+| 92 | <a href="https://github.com/VoltAgent/awesome-design-md" target="_blank" rel="noopener noreferrer">VoltAgent/awesome-design-md</a> | 123,643 | - | A collection of DESIGN.md files analysis by popular brand design systems. Drop one into your project and let coding agents generate a matching UI. |
+| 95 | <a href="https://github.com/microsoft/generative-ai-for-beginners" target="_blank" rel="noopener noreferrer">microsoft/generative-ai-for-beginners</a> | 122,206 | Jupyter Notebook | 21 Lessons, Get Started Building with Generative AI |
+| 98 | <a href="https://github.com/browser-use/browser-use" target="_blank" rel="noopener noreferrer">browser-use/browser-use</a> | 119,187 | Python | Open-source Python library for AI browser agents, plus Browser Use Cloud: stealth browsers and a hosted agent API. |
 
 ## Developer Tools and Frameworks
 
 | Rank | Repository | Stars | Language | Description |
 | ---: | --- | ---: | --- | --- |
-| 3 | <a href="https://github.com/public-apis/public-apis" target="_blank" rel="noopener noreferrer">public-apis/public-apis</a> | 490,331 | Python | A collective list of free APIs |
-| 4 | <a href="https://github.com/freeCodeCamp/freeCodeCamp" target="_blank" rel="noopener noreferrer">freeCodeCamp/freeCodeCamp</a> | 457,485 | TypeScript | freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free. |
-| 7 | <a href="https://github.com/donnemartin/system-design-primer" target="_blank" rel="noopener noreferrer">donnemartin/system-design-primer</a> | 374,736 | Python | Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards. |
-| 8 | <a href="https://github.com/nilbuild/developer-roadmap" target="_blank" rel="noopener noreferrer">nilbuild/developer-roadmap</a> | 369,846 | TypeScript | Interactive roadmaps, guides and other educational content to help developers grow in their careers. |
-| 9 | <a href="https://github.com/jwasham/coding-interview-university" target="_blank" rel="noopener noreferrer">jwasham/coding-interview-university</a> | 363,004 | - | A complete computer science study plan to become a software engineer. |
-| 11 | <a href="https://github.com/vinta/awesome-python" target="_blank" rel="noopener noreferrer">vinta/awesome-python</a> | 328,619 | Python | The definitive list that answers "I want to do X in Python, which tool should I use?" |
-| 17 | <a href="https://github.com/996icu/996.ICU" target="_blank" rel="noopener noreferrer">996icu/996.ICU</a> | 277,145 | - | Repo for counting stars and contributing. Press F to pay respect to glorious developers. |
-| 21 | <a href="https://github.com/react/react" target="_blank" rel="noopener noreferrer">react/react</a> | 251,357 | JavaScript | The library for web and native user interfaces. |
-| 22 | <a href="https://github.com/trimstray/the-book-of-secret-knowledge" target="_blank" rel="noopener noreferrer">trimstray/the-book-of-secret-knowledge</a> | 251,326 | - | A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more. |
-| 23 | <a href="https://github.com/TheAlgorithms/Python" target="_blank" rel="noopener noreferrer">TheAlgorithms/Python</a> | 225,395 | Python | All Algorithms implemented in Python |
-| 26 | <a href="https://github.com/vuejs/vue" target="_blank" rel="noopener noreferrer">vuejs/vue</a> | 212,690 | TypeScript | This is the repo for Vue 2. For Vue 3, go to https://github.com/vuejs/core |
-| 32 | <a href="https://github.com/trekhleb/javascript-algorithms" target="_blank" rel="noopener noreferrer">trekhleb/javascript-algorithms</a> | 196,682 | JavaScript | 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings |
-| 35 | <a href="https://github.com/microsoft/vscode" target="_blank" rel="noopener noreferrer">microsoft/vscode</a> | 193,941 | TypeScript | Visual Studio Code |
-| 37 | <a href="https://github.com/microsoft/markitdown" target="_blank" rel="noopener noreferrer">microsoft/markitdown</a> | 191,046 | Python | Python tool for converting files and office documents to Markdown. |
-| 38 | <a href="https://github.com/ohmyzsh/ohmyzsh" target="_blank" rel="noopener noreferrer">ohmyzsh/ohmyzsh</a> | 190,071 | Shell | 🙃   A delightful community-driven (with 2,500+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool that makes it easy to keep up with the latest updates from the community. |
-| 39 | <a href="https://github.com/avelino/awesome-go" target="_blank" rel="noopener noreferrer">avelino/awesome-go</a> | 189,195 | Go | A curated list of awesome Go frameworks, libraries and software |
-| 42 | <a href="https://github.com/CyC2018/CS-Notes" target="_blank" rel="noopener noreferrer">CyC2018/CS-Notes</a> | 186,277 | - | :books: 技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计 |
-| 47 | <a href="https://github.com/flutter/flutter" target="_blank" rel="noopener noreferrer">flutter/flutter</a> | 180,288 | Dart | Flutter makes it easy and fast to build beautiful apps for mobile and beyond |
-| 48 | <a href="https://github.com/github/gitignore" target="_blank" rel="noopener noreferrer">github/gitignore</a> | 175,992 | - | A collection of useful .gitignore templates |
-| 49 | <a href="https://github.com/twbs/bootstrap" target="_blank" rel="noopener noreferrer">twbs/bootstrap</a> | 175,012 | MDX | The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web. |
-| 67 | <a href="https://github.com/vercel/next.js" target="_blank" rel="noopener noreferrer">vercel/next.js</a> | 143,090 | JavaScript | The React Framework |
-| 68 | <a href="https://github.com/yangshun/tech-interview-handbook" target="_blank" rel="noopener noreferrer">yangshun/tech-interview-handbook</a> | 143,071 | TypeScript | Curated coding interview preparation materials for busy software engineers |
-| 73 | <a href="https://github.com/ripienaar/free-for-dev" target="_blank" rel="noopener noreferrer">ripienaar/free-for-dev</a> | 139,795 | HTML | A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev |
-| 79 | <a href="https://github.com/labuladong/fucking-algorithm" target="_blank" rel="noopener noreferrer">labuladong/fucking-algorithm</a> | 135,930 | Markdown | Crack LeetCode, not only how, but also why. |
-| 85 | <a href="https://github.com/Chalarangelo/30-seconds-of-code" target="_blank" rel="noopener noreferrer">Chalarangelo/30-seconds-of-code</a> | 129,256 | JavaScript | Coding articles to level up your development skills |
-| 88 | <a href="https://github.com/react/react-native" target="_blank" rel="noopener noreferrer">react/react-native</a> | 126,716 | C++ | A framework for building native applications using React |
-| 97 | <a href="https://github.com/justjavac/free-programming-books-zh_CN" target="_blank" rel="noopener noreferrer">justjavac/free-programming-books-zh_CN</a> | 119,271 | - | :books: 免费的计算机编程类中文书籍，欢迎投稿 |
+| 3 | <a href="https://github.com/public-apis/public-apis" target="_blank" rel="noopener noreferrer">public-apis/public-apis</a> | 492,330 | Python | A collective list of free APIs |
+| 4 | <a href="https://github.com/freeCodeCamp/freeCodeCamp" target="_blank" rel="noopener noreferrer">freeCodeCamp/freeCodeCamp</a> | 457,960 | TypeScript | freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free. |
+| 8 | <a href="https://github.com/donnemartin/system-design-primer" target="_blank" rel="noopener noreferrer">donnemartin/system-design-primer</a> | 375,649 | Python | Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards. |
+| 9 | <a href="https://github.com/nilbuild/developer-roadmap" target="_blank" rel="noopener noreferrer">nilbuild/developer-roadmap</a> | 370,456 | TypeScript | Interactive roadmaps, guides and other educational content to help developers grow in their careers. |
+| 10 | <a href="https://github.com/jwasham/coding-interview-university" target="_blank" rel="noopener noreferrer">jwasham/coding-interview-university</a> | 363,409 | - | A complete computer science study plan to become a software engineer. |
+| 12 | <a href="https://github.com/vinta/awesome-python" target="_blank" rel="noopener noreferrer">vinta/awesome-python</a> | 330,399 | Python | The definitive list that answers "I want to do X in Python, which tool should I use?" |
+| 17 | <a href="https://github.com/996icu/996.ICU" target="_blank" rel="noopener noreferrer">996icu/996.ICU</a> | 277,178 | - | Repo for counting stars and contributing. Press F to pay respect to glorious developers. |
+| 21 | <a href="https://github.com/trimstray/the-book-of-secret-knowledge" target="_blank" rel="noopener noreferrer">trimstray/the-book-of-secret-knowledge</a> | 253,389 | - | A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more. |
+| 22 | <a href="https://github.com/react/react" target="_blank" rel="noopener noreferrer">react/react</a> | 251,864 | JavaScript | The library for web and native user interfaces. |
+| 23 | <a href="https://github.com/TheAlgorithms/Python" target="_blank" rel="noopener noreferrer">TheAlgorithms/Python</a> | 225,533 | Python | All Algorithms implemented in Python |
+| 26 | <a href="https://github.com/vuejs/vue" target="_blank" rel="noopener noreferrer">vuejs/vue</a> | 212,633 | TypeScript | This is the repo for Vue 2. For Vue 3, go to https://github.com/vuejs/core |
+| 32 | <a href="https://github.com/trekhleb/javascript-algorithms" target="_blank" rel="noopener noreferrer">trekhleb/javascript-algorithms</a> | 196,697 | JavaScript | 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings |
+| 36 | <a href="https://github.com/microsoft/vscode" target="_blank" rel="noopener noreferrer">microsoft/vscode</a> | 194,330 | TypeScript | Visual Studio Code |
+| 37 | <a href="https://github.com/microsoft/markitdown" target="_blank" rel="noopener noreferrer">microsoft/markitdown</a> | 192,313 | Python | Python tool for converting files and office documents to Markdown. |
+| 38 | <a href="https://github.com/avelino/awesome-go" target="_blank" rel="noopener noreferrer">avelino/awesome-go</a> | 190,451 | Go | A curated list of awesome Go frameworks, libraries and software |
+| 39 | <a href="https://github.com/ohmyzsh/ohmyzsh" target="_blank" rel="noopener noreferrer">ohmyzsh/ohmyzsh</a> | 190,171 | Shell | 🙃   A delightful community-driven (with 2,500+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool that makes it easy to keep up with the latest updates from the community. |
+| 42 | <a href="https://github.com/CyC2018/CS-Notes" target="_blank" rel="noopener noreferrer">CyC2018/CS-Notes</a> | 186,348 | Python | :books: 技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计 |
+| 47 | <a href="https://github.com/flutter/flutter" target="_blank" rel="noopener noreferrer">flutter/flutter</a> | 180,378 | Dart | Flutter makes it easy and fast to build beautiful apps for mobile and beyond |
+| 49 | <a href="https://github.com/github/gitignore" target="_blank" rel="noopener noreferrer">github/gitignore</a> | 176,064 | - | A collection of useful .gitignore templates |
+| 50 | <a href="https://github.com/twbs/bootstrap" target="_blank" rel="noopener noreferrer">twbs/bootstrap</a> | 175,015 | MDX | The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web. |
+| 67 | <a href="https://github.com/vercel/next.js" target="_blank" rel="noopener noreferrer">vercel/next.js</a> | 143,301 | JavaScript | The React Framework |
+| 69 | <a href="https://github.com/yangshun/tech-interview-handbook" target="_blank" rel="noopener noreferrer">yangshun/tech-interview-handbook</a> | 143,158 | TypeScript | Curated coding interview preparation materials for busy software engineers |
+| 75 | <a href="https://github.com/ripienaar/free-for-dev" target="_blank" rel="noopener noreferrer">ripienaar/free-for-dev</a> | 140,059 | HTML | A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev |
+| 79 | <a href="https://github.com/labuladong/fucking-algorithm" target="_blank" rel="noopener noreferrer">labuladong/fucking-algorithm</a> | 135,972 | Markdown | Crack LeetCode, not only how, but also why. |
+| 86 | <a href="https://github.com/Chalarangelo/30-seconds-of-code" target="_blank" rel="noopener noreferrer">Chalarangelo/30-seconds-of-code</a> | 129,340 | JavaScript | Coding articles to level up your development skills |
+| 89 | <a href="https://github.com/react/react-native" target="_blank" rel="noopener noreferrer">react/react-native</a> | 126,795 | C++ | A framework for building native applications using React |
+| 97 | <a href="https://github.com/justjavac/free-programming-books-zh_CN" target="_blank" rel="noopener noreferrer">justjavac/free-programming-books-zh_CN</a> | 119,368 | - | :books: 免费的计算机编程类中文书籍，欢迎投稿 |
 
 ## Learning and Reference
 
 | Rank | Repository | Stars | Language | Description |
 | ---: | --- | ---: | --- | --- |
-| 1 | <a href="https://github.com/codecrafters-io/build-your-own-x" target="_blank" rel="noopener noreferrer">codecrafters-io/build-your-own-x</a> | 554,501 | Markdown | Master programming by recreating your favorite technologies from scratch. |
-| 2 | <a href="https://github.com/sindresorhus/awesome" target="_blank" rel="noopener noreferrer">sindresorhus/awesome</a> | 521,246 | - | 😎 Awesome lists about all kinds of interesting topics [NOTE: Pull requests are temporarily disabled until I have a chance to catch up with the existing ones] |
-| 5 | <a href="https://github.com/EbookFoundation/free-programming-books" target="_blank" rel="noopener noreferrer">EbookFoundation/free-programming-books</a> | 399,551 | Python | :books: Freely available programming books |
-| 12 | <a href="https://github.com/awesome-selfhosted/awesome-selfhosted" target="_blank" rel="noopener noreferrer">awesome-selfhosted/awesome-selfhosted</a> | 328,210 | - | A list of Free Software network services and web applications which can be hosted on your own servers |
-| 15 | <a href="https://github.com/practical-tutorials/project-based-learning" target="_blank" rel="noopener noreferrer">practical-tutorials/project-based-learning</a> | 287,255 | Python | Curated list of project-based tutorials |
-| 27 | <a href="https://github.com/ossu/computer-science" target="_blank" rel="noopener noreferrer">ossu/computer-science</a> | 210,135 | HTML | 🎓 Path to a free self-taught education in Computer Science! |
-| 29 | <a href="https://github.com/DigitalPlatDev/FreeDomain" target="_blank" rel="noopener noreferrer">DigitalPlatDev/FreeDomain</a> | 204,894 | Markdown | Free domain registration and practical DNS learning resources for everyone. |
-| 41 | <a href="https://github.com/jackfrued/Python-100-Days" target="_blank" rel="noopener noreferrer">jackfrued/Python-100-Days</a> | 187,299 | Jupyter Notebook | Python - 100天从新手到大师 |
-| 43 | <a href="https://github.com/getify/You-Dont-Know-JS" target="_blank" rel="noopener noreferrer">getify/You-Dont-Know-JS</a> | 184,825 | - | A book series (2 published editions) on the JS language. |
-| 45 | <a href="https://github.com/521xueweihan/HelloGitHub" target="_blank" rel="noopener noreferrer">521xueweihan/HelloGitHub</a> | 183,056 | Python | :octocat: 分享 GitHub 上有趣、入门级的开源项目。Share interesting, entry-level open source projects on GitHub. |
-| 64 | <a href="https://github.com/airbnb/javascript" target="_blank" rel="noopener noreferrer">airbnb/javascript</a> | 148,058 | JavaScript | JavaScript Style Guide |
-| 83 | <a href="https://github.com/krahets/hello-algo" target="_blank" rel="noopener noreferrer">krahets/hello-algo</a> | 130,857 | Java | 《Hello 算法》：动画图解、一键运行的数据结构与算法教程。支持简中、繁中、English、日本語，提供 Python, Java, C++, C, C#, JS, Go, Swift, Rust, Ruby, Kotlin, TS, Dart 等代码实现 |
-| 92 | <a href="https://github.com/Hack-with-Github/Awesome-Hacking" target="_blank" rel="noopener noreferrer">Hack-with-Github/Awesome-Hacking</a> | 123,031 | - | A collection of various awesome lists for hackers, pentesters and security researchers |
+| 1 | <a href="https://github.com/codecrafters-io/build-your-own-x" target="_blank" rel="noopener noreferrer">codecrafters-io/build-your-own-x</a> | 556,359 | Markdown | Master programming by recreating your favorite technologies from scratch. |
+| 2 | <a href="https://github.com/sindresorhus/awesome" target="_blank" rel="noopener noreferrer">sindresorhus/awesome</a> | 524,990 | - | 😎 Awesome lists about all kinds of interesting topics [NOTE: Pull requests are temporarily disabled until I have a chance to catch up with the existing ones] |
+| 5 | <a href="https://github.com/EbookFoundation/free-programming-books" target="_blank" rel="noopener noreferrer">EbookFoundation/free-programming-books</a> | 400,163 | Python | :books: Freely available programming books |
+| 11 | <a href="https://github.com/awesome-selfhosted/awesome-selfhosted" target="_blank" rel="noopener noreferrer">awesome-selfhosted/awesome-selfhosted</a> | 330,602 | - | A list of Free Software network services and web applications which can be hosted on your own servers |
+| 16 | <a href="https://github.com/practical-tutorials/project-based-learning" target="_blank" rel="noopener noreferrer">practical-tutorials/project-based-learning</a> | 288,048 | Python | Curated list of project-based tutorials |
+| 27 | <a href="https://github.com/ossu/computer-science" target="_blank" rel="noopener noreferrer">ossu/computer-science</a> | 210,369 | HTML | 🎓 Path to a free self-taught education in Computer Science! |
+| 29 | <a href="https://github.com/DigitalPlatDev/FreeDomain" target="_blank" rel="noopener noreferrer">DigitalPlatDev/FreeDomain</a> | 205,869 | Markdown | Free domain registration and practical DNS learning resources for everyone. |
+| 41 | <a href="https://github.com/jackfrued/Python-100-Days" target="_blank" rel="noopener noreferrer">jackfrued/Python-100-Days</a> | 187,457 | Jupyter Notebook | Python - 100天从新手到大师 |
+| 44 | <a href="https://github.com/getify/You-Dont-Know-JS" target="_blank" rel="noopener noreferrer">getify/You-Dont-Know-JS</a> | 184,834 | - | A book series (2 published editions) on the JS language. |
+| 45 | <a href="https://github.com/521xueweihan/HelloGitHub" target="_blank" rel="noopener noreferrer">521xueweihan/HelloGitHub</a> | 184,673 | Python | :octocat: 分享 GitHub 上有趣、入门级的开源项目。Share interesting, entry-level open source projects on GitHub. |
+| 65 | <a href="https://github.com/airbnb/javascript" target="_blank" rel="noopener noreferrer">airbnb/javascript</a> | 148,045 | JavaScript | JavaScript Style Guide |
+| 84 | <a href="https://github.com/krahets/hello-algo" target="_blank" rel="noopener noreferrer">krahets/hello-algo</a> | 131,260 | Java | 《Hello 算法》：动画图解、一键运行的数据结构与算法教程。支持简中、繁中、English、日本語，提供 Python, Java, C++, C, C#, JS, Go, Swift, Rust, Ruby, Kotlin, TS, Dart 等代码实现 |
+| 91 | <a href="https://github.com/Hack-with-Github/Awesome-Hacking" target="_blank" rel="noopener noreferrer">Hack-with-Github/Awesome-Hacking</a> | 123,681 | - | A collection of various awesome lists for hackers, pentesters and security researchers |
 
 ## Web and Application Development
 
 | Rank | Repository | Stars | Language | Description |
 | ---: | --- | ---: | --- | --- |
-| 60 | <a href="https://github.com/Genymobile/scrcpy" target="_blank" rel="noopener noreferrer">Genymobile/scrcpy</a> | 152,526 | C | Display and control your Android device |
-| 61 | <a href="https://github.com/clash-verge-rev/clash-verge-rev" target="_blank" rel="noopener noreferrer">clash-verge-rev/clash-verge-rev</a> | 152,472 | Rust | A modern GUI client based on Tauri, designed to run in Windows, macOS and Linux for tailored proxy experience |
-| 71 | <a href="https://github.com/iptv-org/iptv" target="_blank" rel="noopener noreferrer">iptv-org/iptv</a> | 141,432 | TypeScript | Collection of publicly available IPTV channels from all over the world |
-| 80 | <a href="https://github.com/excalidraw/excalidraw" target="_blank" rel="noopener noreferrer">excalidraw/excalidraw</a> | 134,160 | TypeScript | Virtual whiteboard for sketching hand-drawn like diagrams |
-| 89 | <a href="https://github.com/rustdesk/rustdesk" target="_blank" rel="noopener noreferrer">rustdesk/rustdesk</a> | 126,307 | Rust | An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer. |
-| 91 | <a href="https://github.com/electron/electron" target="_blank" rel="noopener noreferrer">electron/electron</a> | 123,407 | C++ | :electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS |
-| 93 | <a href="https://github.com/nodejs/node" target="_blank" rel="noopener noreferrer">nodejs/node</a> | 122,503 | JavaScript | Node.js JavaScript runtime ✨🐢🚀✨ |
+| 60 | <a href="https://github.com/clash-verge-rev/clash-verge-rev" target="_blank" rel="noopener noreferrer">clash-verge-rev/clash-verge-rev</a> | 154,038 | Rust | A modern GUI client based on Tauri, designed to run in Windows, macOS and Linux for tailored proxy experience |
+| 62 | <a href="https://github.com/Genymobile/scrcpy" target="_blank" rel="noopener noreferrer">Genymobile/scrcpy</a> | 153,189 | C | Display and control your Android device |
+| 72 | <a href="https://github.com/iptv-org/iptv" target="_blank" rel="noopener noreferrer">iptv-org/iptv</a> | 142,425 | TypeScript | Collection of publicly available IPTV channels from all over the world |
+| 82 | <a href="https://github.com/excalidraw/excalidraw" target="_blank" rel="noopener noreferrer">excalidraw/excalidraw</a> | 134,589 | TypeScript | Virtual whiteboard for sketching hand-drawn like diagrams |
+| 88 | <a href="https://github.com/rustdesk/rustdesk" target="_blank" rel="noopener noreferrer">rustdesk/rustdesk</a> | 127,131 | Rust | An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer. |
+| 93 | <a href="https://github.com/electron/electron" target="_blank" rel="noopener noreferrer">electron/electron</a> | 123,560 | C++ | :electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS |
+| 94 | <a href="https://github.com/nodejs/node" target="_blank" rel="noopener noreferrer">nodejs/node</a> | 123,109 | JavaScript | Node.js JavaScript runtime ✨🐢🚀✨ |
 
 ## Infrastructure and DevOps
 
 | Rank | Repository | Stars | Language | Description |
 | ---: | --- | ---: | --- | --- |
-| 87 | <a href="https://github.com/kubernetes/kubernetes" target="_blank" rel="noopener noreferrer">kubernetes/kubernetes</a> | 128,459 | Go | Production-Grade Container Scheduling and Management |
-| 99 | <a href="https://github.com/2dust/v2rayN" target="_blank" rel="noopener noreferrer">2dust/v2rayN</a> | 118,585 | C# | A GUI client for Windows, Linux and macOS, support Xray and sing-box and others |
+| 87 | <a href="https://github.com/kubernetes/kubernetes" target="_blank" rel="noopener noreferrer">kubernetes/kubernetes</a> | 128,707 | Go | Production-Grade Container Scheduling and Management |
+| 99 | <a href="https://github.com/2dust/v2rayN" target="_blank" rel="noopener noreferrer">2dust/v2rayN</a> | 119,152 | C# | A GUI client for Windows, Linux and macOS, support Xray and sing-box and others |
 
 ## Security and Privacy
 
 | Rank | Repository | Stars | Language | Description |
 | ---: | --- | ---: | --- | --- |
-| 33 | <a href="https://github.com/massgravel/Microsoft-Activation-Scripts" target="_blank" rel="noopener noreferrer">massgravel/Microsoft-Activation-Scripts</a> | 195,043 | Batchfile | Open-source Windows and Office activator featuring HWID, Ohook, TSforge, and Online KMS activation methods, along with advanced troubleshooting. |
+| 33 | <a href="https://github.com/massgravel/Microsoft-Activation-Scripts" target="_blank" rel="noopener noreferrer">massgravel/Microsoft-Activation-Scripts</a> | 196,219 | Batchfile | Open-source Windows and Office activator featuring HWID, Ohook, TSforge, and Online KMS activation methods, along with advanced troubleshooting. |
 
 ## Media and Content Tools
 
 | Rank | Repository | Stars | Language | Description |
 | ---: | --- | ---: | --- | --- |
-| 31 | <a href="https://github.com/yt-dlp/yt-dlp" target="_blank" rel="noopener noreferrer">yt-dlp/yt-dlp</a> | 199,376 | Python | A feature-rich command-line audio/video downloader |
-| 54 | <a href="https://github.com/jlevy/the-art-of-command-line" target="_blank" rel="noopener noreferrer">jlevy/the-art-of-command-line</a> | 162,547 | - | Master the command line, in one page |
-| 72 | <a href="https://github.com/ytdl-org/youtube-dl" target="_blank" rel="noopener noreferrer">ytdl-org/youtube-dl</a> | 141,331 | Python | Command-line program to download videos from YouTube.com and other video sites |
+| 30 | <a href="https://github.com/yt-dlp/yt-dlp" target="_blank" rel="noopener noreferrer">yt-dlp/yt-dlp</a> | 202,444 | Python | A feature-rich command-line audio/video downloader |
+| 55 | <a href="https://github.com/jlevy/the-art-of-command-line" target="_blank" rel="noopener noreferrer">jlevy/the-art-of-command-line</a> | 162,602 | - | Master the command line, in one page |
+| 73 | <a href="https://github.com/ytdl-org/youtube-dl" target="_blank" rel="noopener noreferrer">ytdl-org/youtube-dl</a> | 141,398 | Python | Command-line program to download videos from YouTube.com and other video sites |
 
 ## Systems, Languages, and Runtimes
 
 | Rank | Repository | Stars | Language | Description |
 | ---: | --- | ---: | --- | --- |
-| 20 | <a href="https://github.com/torvalds/linux" target="_blank" rel="noopener noreferrer">torvalds/linux</a> | 252,558 | C | Linux kernel source tree |
-| 75 | <a href="https://github.com/golang/go" target="_blank" rel="noopener noreferrer">golang/go</a> | 139,387 | Go | The Go programming language |
-| 96 | <a href="https://github.com/rust-lang/rust" target="_blank" rel="noopener noreferrer">rust-lang/rust</a> | 120,579 | Rust | Empowering everyone to build reliable and efficient software. |
-| 98 | <a href="https://github.com/godotengine/godot" target="_blank" rel="noopener noreferrer">godotengine/godot</a> | 118,675 | C++ | Godot Engine – Multi-platform 2D and 3D game engine |
+| 20 | <a href="https://github.com/torvalds/linux" target="_blank" rel="noopener noreferrer">torvalds/linux</a> | 253,533 | C | Linux kernel source tree |
+| 77 | <a href="https://github.com/golang/go" target="_blank" rel="noopener noreferrer">golang/go</a> | 139,611 | Go | The Go programming language |
+| 96 | <a href="https://github.com/rust-lang/rust" target="_blank" rel="noopener noreferrer">rust-lang/rust</a> | 120,832 | Rust | Empowering everyone to build reliable and efficient software. |
+| 100 | <a href="https://github.com/godotengine/godot" target="_blank" rel="noopener noreferrer">godotengine/godot</a> | 119,107 | C++ | Godot Engine – Multi-platform 2D and 3D game engine |
 
 ## Productivity and Utilities
 
 | Rank | Repository | Stars | Language | Description |
 | ---: | --- | ---: | --- | --- |
-| 74 | <a href="https://github.com/microsoft/PowerToys" target="_blank" rel="noopener noreferrer">microsoft/PowerToys</a> | 139,481 | C | Microsoft PowerToys is a collection of utilities that supercharge productivity and customization on Windows |
+| 76 | <a href="https://github.com/microsoft/PowerToys" target="_blank" rel="noopener noreferrer">microsoft/PowerToys</a> | 139,972 | C | Microsoft PowerToys is a collection of utilities that supercharge productivity and customization on Windows |
 
 ## Source Details
 
-- Generated at: 2026-10-19T08:05:30-05:00
+- Generated at: 2026-10-26T09:39:21-05:00
 - GitHub API endpoint: `https://api.github.com/search/repositories`
 - Search query: `stars:>1 fork:false archived:false`
 - Sort: `stars`

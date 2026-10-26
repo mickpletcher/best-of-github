@@ -11,18 +11,18 @@ Star counts were refreshed on 2026-08-20.
 
 For the current automated rankings, see the weekly top 100 and weekly top 250 reports below.
 
-Latest weekly scan: 2026-10-19.
+Latest weekly scan: 2026-10-26.
 
 ## GitHub of the Day
 
 <!-- github-of-the-day:start -->
-Selected for 2026-10-25 from public, non-fork, non-archived repositories with recent activity. This is random and is not based on popularity.
+Selected for 2026-10-26 from public, non-fork, non-archived repositories with recent activity. This is random and is not based on popularity.
 
 | Repository | Stars | Language | Notes |
 | --- | ---: | --- | --- |
-| [SteamDeckHomebrew/decky-plugin-database](https://github.com/SteamDeckHomebrew/decky-plugin-database) | 350 | Shell | Decky Plugin Database. PR your plugins to this repository to have them added to the store! |
+| [Squidex/squidex](https://github.com/Squidex/squidex) | 2,512 | C# | Headless CMS and Content Managment Hub |
 
-Selection query: `stars:251..1000 fork:false archived:false is:public pushed:>=2025-10-25 language:Shell`
+Selection query: `stars:1001..5000 fork:false archived:false is:public pushed:>=2025-10-26 language:C#`
 <!-- github-of-the-day:end -->
 
 Past picks are saved in the [GitHub of the Day Archive](github-of-the-day-archive.md). Repositories need at least 3 stars to be eligible.
