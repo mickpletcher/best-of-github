@@ -6,6 +6,7 @@ Each row keeps the repository link, star count, primary language, site descripti
 
 | Date | Repository | Stars | Language | Site Description | Selection Query |
 | --- | --- | ---: | --- | --- | --- |
+| 2026-10-27 | [aonyx-ai/clawless](https://github.com/aonyx-ai/clawless) | 13 | Rust | A framework to build command-line applications in Rust | `stars:3..50 fork:false archived:false is:public pushed:>=2025-10-27 language:Rust` |
 | 2026-10-26 | [Squidex/squidex](https://github.com/Squidex/squidex) | 2,512 | C# | Headless CMS and Content Managment Hub | `stars:1001..5000 fork:false archived:false is:public pushed:>=2025-10-26 language:C#` |
 | 2026-10-25 | [SteamDeckHomebrew/decky-plugin-database](https://github.com/SteamDeckHomebrew/decky-plugin-database) | 350 | Shell | Decky Plugin Database. PR your plugins to this repository to have them added to the store! | `stars:251..1000 fork:false archived:false is:public pushed:>=2025-10-25 language:Shell` |
 | 2026-10-24 | [andyvandaric/opencode-suites-installer](https://github.com/andyvandaric/opencode-suites-installer) | 117 | PowerShell | OCS (OpenCode Config Suites) installer for Multi Agents workflow, AI coding setup, and cross-platform OpenCode onboarding. | `stars:51..250 fork:false archived:false is:public pushed:>=2025-10-24 language:PowerShell` |

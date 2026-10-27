@@ -16,13 +16,13 @@ Latest weekly scan: 2026-10-26.
 ## GitHub of the Day
 
 <!-- github-of-the-day:start -->
-Selected for 2026-10-26 from public, non-fork, non-archived repositories with recent activity. This is random and is not based on popularity.
+Selected for 2026-10-27 from public, non-fork, non-archived repositories with recent activity. This is random and is not based on popularity.
 
 | Repository | Stars | Language | Notes |
 | --- | ---: | --- | --- |
-| [Squidex/squidex](https://github.com/Squidex/squidex) | 2,512 | C# | Headless CMS and Content Managment Hub |
+| [aonyx-ai/clawless](https://github.com/aonyx-ai/clawless) | 13 | Rust | A framework to build command-line applications in Rust |
 
-Selection query: `stars:1001..5000 fork:false archived:false is:public pushed:>=2025-10-26 language:C#`
+Selection query: `stars:3..50 fork:false archived:false is:public pushed:>=2025-10-27 language:Rust`
 <!-- github-of-the-day:end -->
 
 Past picks are saved in the [GitHub of the Day Archive](github-of-the-day-archive.md). Repositories need at least 3 stars to be eligible.
