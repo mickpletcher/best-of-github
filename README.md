@@ -16,13 +16,13 @@ Latest weekly scan: 2026-10-26.
 ## GitHub of the Day
 
 <!-- github-of-the-day:start -->
-Selected for 2026-10-28 from public, non-fork, non-archived repositories with recent activity. This is random and is not based on popularity.
+Selected for 2026-10-29 from public, non-fork, non-archived repositories with recent activity. This is random and is not based on popularity.
 
 | Repository | Stars | Language | Notes |
 | --- | ---: | --- | --- |
-| [AterDev/Perigon.template](https://github.com/AterDev/Perigon.template) | 3 | C# | The speed web template base on asp.net core and aspire |
+| [MouriNaruto/MouriDocs](https://github.com/MouriNaruto/MouriDocs) | 67 | C# | The repository for technical documentations created by Kenji Mouri |
 
-Selection query: `stars:3..50 fork:false archived:false is:public pushed:>=2025-10-28 language:C#`
+Selection query: `stars:51..250 fork:false archived:false is:public pushed:>=2025-10-29 language:C#`
 <!-- github-of-the-day:end -->
 
 Past picks are saved in the [GitHub of the Day Archive](github-of-the-day-archive.md). Repositories need at least 3 stars to be eligible.

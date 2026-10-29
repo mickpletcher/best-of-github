@@ -6,6 +6,7 @@ Each row keeps the repository link, star count, primary language, site descripti
 
 | Date | Repository | Stars | Language | Site Description | Selection Query |
 | --- | --- | ---: | --- | --- | --- |
+| 2026-10-29 | [MouriNaruto/MouriDocs](https://github.com/MouriNaruto/MouriDocs) | 67 | C# | The repository for technical documentations created by Kenji Mouri | `stars:51..250 fork:false archived:false is:public pushed:>=2025-10-29 language:C#` |
 | 2026-10-28 | [AterDev/Perigon.template](https://github.com/AterDev/Perigon.template) | 3 | C# | The speed web template base on asp.net core and aspire | `stars:3..50 fork:false archived:false is:public pushed:>=2025-10-28 language:C#` |
 | 2026-10-27 | [aonyx-ai/clawless](https://github.com/aonyx-ai/clawless) | 13 | Rust | A framework to build command-line applications in Rust | `stars:3..50 fork:false archived:false is:public pushed:>=2025-10-27 language:Rust` |
 | 2026-10-26 | [Squidex/squidex](https://github.com/Squidex/squidex) | 2,512 | C# | Headless CMS and Content Managment Hub | `stars:1001..5000 fork:false archived:false is:public pushed:>=2025-10-26 language:C#` |
