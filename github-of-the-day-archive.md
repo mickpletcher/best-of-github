@@ -6,6 +6,7 @@ Each row keeps the repository link, star count, primary language, site descripti
 
 | Date | Repository | Stars | Language | Site Description | Selection Query |
 | --- | --- | ---: | --- | --- | --- |
+| 2026-10-31 | [zeroecco/holos](https://github.com/zeroecco/holos) | 147 | Go | docker compose for kvm/qemu | `stars:51..250 fork:false archived:false is:public pushed:>=2025-10-31 language:Go` |
 | 2026-10-30 | [integrations/terraform-provider-github](https://github.com/integrations/terraform-provider-github) | 1,195 | Go | Terraform GitHub provider | `stars:1001..5000 fork:false archived:false is:public pushed:>=2025-10-30 language:Go` |
 | 2026-10-29 | [MouriNaruto/MouriDocs](https://github.com/MouriNaruto/MouriDocs) | 67 | C# | The repository for technical documentations created by Kenji Mouri | `stars:51..250 fork:false archived:false is:public pushed:>=2025-10-29 language:C#` |
 | 2026-10-28 | [AterDev/Perigon.template](https://github.com/AterDev/Perigon.template) | 3 | C# | The speed web template base on asp.net core and aspire | `stars:3..50 fork:false archived:false is:public pushed:>=2025-10-28 language:C#` |

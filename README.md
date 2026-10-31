@@ -16,13 +16,13 @@ Latest weekly scan: 2026-10-26.
 ## GitHub of the Day
 
 <!-- github-of-the-day:start -->
-Selected for 2026-10-30 from public, non-fork, non-archived repositories with recent activity. This is random and is not based on popularity.
+Selected for 2026-10-31 from public, non-fork, non-archived repositories with recent activity. This is random and is not based on popularity.
 
 | Repository | Stars | Language | Notes |
 | --- | ---: | --- | --- |
-| [integrations/terraform-provider-github](https://github.com/integrations/terraform-provider-github) | 1,195 | Go | Terraform GitHub provider |
+| [zeroecco/holos](https://github.com/zeroecco/holos) | 147 | Go | docker compose for kvm/qemu |
 
-Selection query: `stars:1001..5000 fork:false archived:false is:public pushed:>=2025-10-30 language:Go`
+Selection query: `stars:51..250 fork:false archived:false is:public pushed:>=2025-10-31 language:Go`
 <!-- github-of-the-day:end -->
 
 Past picks are saved in the [GitHub of the Day Archive](github-of-the-day-archive.md). Repositories need at least 3 stars to be eligible.
