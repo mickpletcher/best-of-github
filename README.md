@@ -11,18 +11,18 @@ Star counts were refreshed on 2026-08-20.
 
 For the current automated rankings, see the weekly top 100 and weekly top 250 reports below.
 
-Latest weekly scan: 2026-10-26.
+Latest weekly scan: 2026-11-02.
 
 ## GitHub of the Day
 
 <!-- github-of-the-day:start -->
-Selected for 2026-11-01 from public, non-fork, non-archived repositories with recent activity. This is random and is not based on popularity.
+Selected for 2026-11-02 from public, non-fork, non-archived repositories with recent activity. This is random and is not based on popularity.
 
 | Repository | Stars | Language | Notes |
 | --- | ---: | --- | --- |
-| [alexdlaird/pyngrok](https://github.com/alexdlaird/pyngrok) | 468 | Python | The complete ngrok agent for Python: programmatic tunnels for ingress, inspection, webhooks, demos, and APIs |
+| [GlowChronomancer/SteelSeries-GG-Sonar](https://github.com/GlowChronomancer/SteelSeries-GG-Sonar) | 4 | C# | SteelSeries GG is the desktop app, and Sonar Premium is the paid plan inside it. The account uses that plan on one computer, and the mixer follows the plan while it is active. Premium is the Sonar plan, not a smaller GG tier. It stays on the PC |
 
-Selection query: `stars:251..1000 fork:false archived:false is:public pushed:>=2025-11-01 language:Python`
+Selection query: `stars:3..50 fork:false archived:false is:public pushed:>=2025-11-02 language:C#`
 <!-- github-of-the-day:end -->
 
 Past picks are saved in the [GitHub of the Day Archive](github-of-the-day-archive.md). Repositories need at least 3 stars to be eligible.
