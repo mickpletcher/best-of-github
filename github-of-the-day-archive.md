@@ -6,7 +6,7 @@ Each row keeps the repository link, star count, primary language, site descripti
 
 | Date | Repository | Stars | Language | Site Description | Selection Query |
 | --- | --- | ---: | --- | --- | --- |
-| 2026-11-02 | [GlowChronomancer/SteelSeries-GG-Sonar](https://github.com/GlowChronomancer/SteelSeries-GG-Sonar) | 4 | C# | SteelSeries GG is the desktop app, and Sonar Premium is the paid plan inside it. The account uses that plan on one computer, and the mixer follows the plan while it is active. Premium is the Sonar plan, not a smaller GG tier. It stays on the PC | `stars:3..50 fork:false archived:false is:public pushed:>=2025-11-02 language:C#` |
+| 2026-11-02 | [philliphoff/EncDotNet.S100](https://github.com/philliphoff/EncDotNet.S100) | 18 | C# | Libraries for manipulating S-100 based nautical charts. | `stars:3..50 fork:false archived:false is:public pushed:>=2025-11-02 language:C#` |
 | 2026-11-01 | [alexdlaird/pyngrok](https://github.com/alexdlaird/pyngrok) | 468 | Python | The complete ngrok agent for Python: programmatic tunnels for ingress, inspection, webhooks, demos, and APIs | `stars:251..1000 fork:false archived:false is:public pushed:>=2025-11-01 language:Python` |
 | 2026-10-31 | [zeroecco/holos](https://github.com/zeroecco/holos) | 147 | Go | docker compose for kvm/qemu | `stars:51..250 fork:false archived:false is:public pushed:>=2025-10-31 language:Go` |
 | 2026-10-30 | [integrations/terraform-provider-github](https://github.com/integrations/terraform-provider-github) | 1,195 | Go | Terraform GitHub provider | `stars:1001..5000 fork:false archived:false is:public pushed:>=2025-10-30 language:Go` |

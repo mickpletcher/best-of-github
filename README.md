@@ -20,7 +20,7 @@ Selected for 2026-11-02 from public, non-fork, non-archived repositories with re
 
 | Repository | Stars | Language | Notes |
 | --- | ---: | --- | --- |
-| [GlowChronomancer/SteelSeries-GG-Sonar](https://github.com/GlowChronomancer/SteelSeries-GG-Sonar) | 4 | C# | SteelSeries GG is the desktop app, and Sonar Premium is the paid plan inside it. The account uses that plan on one computer, and the mixer follows the plan while it is active. Premium is the Sonar plan, not a smaller GG tier. It stays on the PC |
+| [philliphoff/EncDotNet.S100](https://github.com/philliphoff/EncDotNet.S100) | 18 | C# | Libraries for manipulating S-100 based nautical charts. |
 
 Selection query: `stars:3..50 fork:false archived:false is:public pushed:>=2025-11-02 language:C#`
 <!-- github-of-the-day:end -->
