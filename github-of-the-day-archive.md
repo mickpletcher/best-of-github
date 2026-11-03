@@ -6,6 +6,7 @@ Each row keeps the repository link, star count, primary language, site descripti
 
 | Date | Repository | Stars | Language | Site Description | Selection Query |
 | --- | --- | ---: | --- | --- | --- |
+| 2026-11-03 | [hemanth17r/ahr-workflow](https://github.com/hemanth17r/ahr-workflow) | 31 | PowerShell | The AHR Autonomous Engineering Workflow: 30 production skills, progressive disclosure, and global rules for Google Antigravity | `stars:3..50 fork:false archived:false is:public pushed:>=2025-11-03 language:PowerShell` |
 | 2026-11-02 | [philliphoff/EncDotNet.S100](https://github.com/philliphoff/EncDotNet.S100) | 18 | C# | Libraries for manipulating S-100 based nautical charts. | `stars:3..50 fork:false archived:false is:public pushed:>=2025-11-02 language:C#` |
 | 2026-11-01 | [alexdlaird/pyngrok](https://github.com/alexdlaird/pyngrok) | 468 | Python | The complete ngrok agent for Python: programmatic tunnels for ingress, inspection, webhooks, demos, and APIs | `stars:251..1000 fork:false archived:false is:public pushed:>=2025-11-01 language:Python` |
 | 2026-10-31 | [zeroecco/holos](https://github.com/zeroecco/holos) | 147 | Go | docker compose for kvm/qemu | `stars:51..250 fork:false archived:false is:public pushed:>=2025-10-31 language:Go` |

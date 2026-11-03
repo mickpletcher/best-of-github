@@ -16,13 +16,13 @@ Latest weekly scan: 2026-11-02.
 ## GitHub of the Day
 
 <!-- github-of-the-day:start -->
-Selected for 2026-11-02 from public, non-fork, non-archived repositories with recent activity. This is random and is not based on popularity.
+Selected for 2026-11-03 from public, non-fork, non-archived repositories with recent activity. This is random and is not based on popularity.
 
 | Repository | Stars | Language | Notes |
 | --- | ---: | --- | --- |
-| [philliphoff/EncDotNet.S100](https://github.com/philliphoff/EncDotNet.S100) | 18 | C# | Libraries for manipulating S-100 based nautical charts. |
+| [hemanth17r/ahr-workflow](https://github.com/hemanth17r/ahr-workflow) | 31 | PowerShell | The AHR Autonomous Engineering Workflow: 30 production skills, progressive disclosure, and global rules for Google Antigravity |
 
-Selection query: `stars:3..50 fork:false archived:false is:public pushed:>=2025-11-02 language:C#`
+Selection query: `stars:3..50 fork:false archived:false is:public pushed:>=2025-11-03 language:PowerShell`
 <!-- github-of-the-day:end -->
 
 Past picks are saved in the [GitHub of the Day Archive](github-of-the-day-archive.md). Repositories need at least 3 stars to be eligible.
