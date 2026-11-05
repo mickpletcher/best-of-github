@@ -9,6 +9,8 @@ Describe what changed and why it belongs in this repository.
 - [ ] Generated ranking files and automated README blocks were not edited manually.
 - [ ] `CHANGELOG.md` and `assessment.md` were updated when repository behavior changed.
 - [ ] Any affiliation, sponsorship, or commercial interest is disclosed below.
+- [ ] Relevant accessibility checks and known limitations are described; text alternatives and navigation are preserved.
+- [ ] This contribution follows the code of conduct and contains no credentials or private data.
 
 ## Disclosure
 

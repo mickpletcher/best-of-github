@@ -37,6 +37,9 @@ Past picks are saved in the [GitHub of the Day Archive](github-of-the-day-archiv
 - [Changelog](CHANGELOG.md): every repository change should be logged here.
 - [Contributing](CONTRIBUTING.md): suggestion criteria, validation steps, and disclosure expectations.
 - [Security policy](SECURITY.md): private vulnerability-reporting guidance.
+- [Code of conduct](CODE_OF_CONDUCT.md): community expectations and reporting options.
+- [Accessibility](ACCESSIBILITY.md): goals, known barriers, and ways to request an alternative.
+- [Support](SUPPORT.md): where to ask questions and report problems.
 
 ## Weekly Rankings
 

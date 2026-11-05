@@ -1,6 +1,6 @@
 # Contributing
 
-Thanks for helping improve Best of GitHub.
+Thanks for helping improve Best of GitHub. Follow the [code of conduct](CODE_OF_CONDUCT.md) in project spaces. See [SUPPORT.md](SUPPORT.md) for reporting routes and questions.
 
 ## Repository Suggestions
 
@@ -28,6 +28,12 @@ python scripts/validate_weekly_rankings.py
 ```
 
 The automated quality workflow runs the same checks on pull requests.
+
+## Accessibility
+
+Follow [ACCESSIBILITY.md](ACCESSIBILITY.md) when changing documentation or generated reports. Use clear headings, descriptive links, meaningful table headers, and text alternatives for images. Preserve category navigation and fix generated-content barriers in the generator. Record relevant checks and known limitations in the pull request; do not claim conformance based only on automated validation.
+
+The [accessibility issue form](https://github.com/mickpletcher/best-of-github/issues/new?template=accessibility.yml) and blank issues are available for reporting barriers. Do not include medical or other private information.
 
 ## Security
 
