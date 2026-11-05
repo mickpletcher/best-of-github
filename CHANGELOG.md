@@ -7,6 +7,7 @@ The format is based on Keep a Changelog and this project follows Semantic Versio
 ## [Unreleased]
 
 ### Added
+- Added a code of conduct, accessibility statement, support routes, and issue forms for accessibility barriers and script/documentation problems.
 - Added a read-only quality workflow that compiles maintenance scripts and validates generated ranking reports on pull requests and pushes to `main`.
 - Added Dependabot configuration for GitHub Actions dependencies.
 - Added `SECURITY.md`, `CONTRIBUTING.md`, `CODEOWNERS`, a pull request template, and structured issue forms.
@@ -34,6 +35,10 @@ The format is based on Keep a Changelog and this project follows Semantic Versio
 - Added `github-of-the-day-archive.md` to retain daily picks with links, descriptions, and selection queries.
 
 ### Changed
+- Linked community guidance from the README and contribution guide, added accessibility checks to the pull request template, and enabled blank issues as a form alternative.
+- Linked the existing private vulnerability-reporting route and clarified secret redaction and upstream-project reporting.
+- Updated the repository assessment for the community files and known accessibility limitations.
+- Squash-merged the Dependabot update to the official `actions/setup-python` v7.1.0 commit in all three workflows.
 - Pinned `actions/checkout` and `actions/setup-python` to immutable release commit SHAs.
 - Added shared concurrency control and execution timeouts to prevent overlapping scheduled repository updates.
 - Standardized automation and validation workflows on Python 3.13.

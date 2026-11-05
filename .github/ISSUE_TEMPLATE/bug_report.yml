@@ -1,0 +1,27 @@
+name: Script or documentation problem
+description: Report a non-security problem with this repository's scripts or documentation.
+title: "[Bug]: "
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Use the metadata form for catalog corrections and the accessibility form for access barriers.
+        For bugs in a listed project, report to that project's maintainers.
+        Do not post vulnerabilities, tokens, or private logs here. Follow SECURITY.md for private security reports.
+  - type: textarea
+    id: problem
+    attributes:
+      label: Problem and affected file
+      description: Describe what happened and what you expected.
+    validations:
+      required: true
+  - type: textarea
+    id: reproduction
+    attributes:
+      label: Steps to reproduce
+      description: Include sanitized commands and errors when relevant. Do not paste tokens or private data.
+  - type: input
+    id: environment
+    attributes:
+      label: Environment (optional)
+      description: Python version, operating system, or browser, if relevant.

@@ -6,7 +6,9 @@ This repository publishes generated Markdown reports and maintenance automation 
 
 ## Report a Vulnerability
 
-Use the repository's **Security** tab and **Report a vulnerability** option to submit a private report. Do not open a public issue for suspected token exposure, workflow injection, unsafe automation, or another vulnerability that could put users or repositories at risk.
+Use the repository's [Report a vulnerability](https://github.com/mickpletcher/best-of-github/security/advisories/new) option in the **Security** tab to submit a private report. Do not open a public issue for suspected token exposure, workflow injection, unsafe automation, or another vulnerability that could put users or repositories at risk.
+
+Do not include live credentials, tokens, or unnecessary personal data in a report. Redact secrets from logs and examples. For a vulnerability in a project merely listed here, use that project's security policy and reporting route.
 
 Include:
 

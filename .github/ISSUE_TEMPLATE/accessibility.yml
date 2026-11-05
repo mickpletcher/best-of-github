@@ -1,0 +1,32 @@
+name: Accessibility barrier
+description: Report difficulty reading, navigating, or contributing to this repository.
+title: "[Accessibility]: "
+body:
+  - type: markdown
+    attributes:
+      value: |
+        A text-only report is enough. Screenshots and medical details are not required.
+        This issue is public. Do not include credentials, personal health information, or other private data.
+        If this form is a barrier, use a blank issue instead. See ACCESSIBILITY.md for guidance.
+  - type: input
+    id: location
+    attributes:
+      label: Affected page, file, or workflow
+      description: A link or filename helps locate the barrier.
+  - type: textarea
+    id: barrier
+    attributes:
+      label: What prevented you from completing your task?
+      description: Describe what you tried, what happened, and the experience you expected.
+    validations:
+      required: true
+  - type: textarea
+    id: environment
+    attributes:
+      label: Environment (optional)
+      description: Share browser, operating system, Markdown reader, or assistive technology details only if useful and comfortable.
+  - type: textarea
+    id: alternative
+    attributes:
+      label: An alternative that would help (optional)
+      description: For example, a text explanation or a simpler way to read a table.

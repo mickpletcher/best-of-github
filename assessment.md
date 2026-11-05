@@ -1,6 +1,6 @@
 # Repository Assessment
 
-Last updated: 2026-08-20
+Last updated: 2026-11-05
 
 ## Quick Reference
 
@@ -16,13 +16,16 @@ Best of GitHub is a documentation-first repository for highlighting Mick's curat
 - Weekly report validator: [scripts/validate_weekly_rankings.py](scripts/validate_weekly_rankings.py)
 - GitHub of the Day updater: [scripts/update_github_of_the_day.py](scripts/update_github_of_the_day.py)
 - GitHub of the Day archive: [github-of-the-day-archive.md](github-of-the-day-archive.md)
-- README freshness note: `Latest weekly scan: 2026-08-17.`
+- README freshness note: refreshed by the weekly ranking generator and validated against the reports.
 - Scheduled workflow: [.github/workflows/weekly-github-rankings.yml](.github/workflows/weekly-github-rankings.yml)
 - Daily GitHub of the Day workflow: [.github/workflows/github-of-the-day.yml](.github/workflows/github-of-the-day.yml)
 - Pull-request and main-branch validation: [.github/workflows/quality.yml](.github/workflows/quality.yml)
 - GitHub Actions dependency updates: [.github/dependabot.yml](.github/dependabot.yml)
 - Contribution and disclosure guidance: [CONTRIBUTING.md](CONTRIBUTING.md)
 - Private vulnerability-reporting guidance: [SECURITY.md](SECURITY.md)
+- Community expectations and reporting: [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md)
+- Accessibility goals, limitations, and barrier reporting: [ACCESSIBILITY.md](ACCESSIBILITY.md)
+- Support and upstream-project reporting routes: [SUPPORT.md](SUPPORT.md)
 - Upgrade backlog: [future-upgrades.md](future-upgrades.md)
 - Completed upgrades: [completed-upgrades.md](completed-upgrades.md)
 - Change history: [CHANGELOG.md](CHANGELOG.md)
@@ -48,10 +51,13 @@ Best of GitHub is a documentation-first repository for highlighting Mick's curat
 - GitHub Actions are pinned to immutable release commits and monitored by Dependabot.
 - Scheduled write workflows share a concurrency lock, preventing overlapping Monday pushes.
 - Pull requests run read-only script compilation and generated-report validation.
-- Structured issue forms collect license, testing, practical-value, and affiliation details.
+- Structured issue forms collect license, testing, practical-value, and affiliation details, with dedicated accessibility and script/documentation reports.
+- Blank issues remain available when a form is a barrier.
+- Community guidance distinguishes public issues, private security reports, and conduct-reporting options.
 
 ## Risks and Gaps
 
+- Long ranking tables and the growing archive can create accessibility barriers. No repository-wide assistive-technology audit or WCAG conformance assessment has been completed for the accessibility statement.
 - GitHub-hosted branch rules and security switches must remain aligned with the automation-friendly protection model so trusted scheduled workflows can update `main`.
 - There are no fixture-based unit tests for the report generator or validator.
 - The curated README catalog and generated weekly report use separate update paths.
