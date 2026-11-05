@@ -6,6 +6,7 @@ Each row keeps the repository link, star count, primary language, site descripti
 
 | Date | Repository | Stars | Language | Site Description | Selection Query |
 | --- | --- | ---: | --- | --- | --- |
+| 2026-11-05 | [maksimzayats/acodex](https://github.com/maksimzayats/acodex) | 58 | Python | Local MCP automation bridge for the Codex desktop app, with CLI, HTTP server, and live codex_app.* tool access. | `stars:51..250 fork:false archived:false is:public pushed:>=2025-11-05 language:Python` |
 | 2026-11-04 | [bottlesdevs/components](https://github.com/bottlesdevs/components) | 96 | Shell | Repository for Bottles components | `stars:51..250 fork:false archived:false is:public pushed:>=2025-11-04 language:Shell` |
 | 2026-11-03 | [hemanth17r/ahr-workflow](https://github.com/hemanth17r/ahr-workflow) | 31 | PowerShell | The AHR Autonomous Engineering Workflow: 30 production skills, progressive disclosure, and global rules for Google Antigravity | `stars:3..50 fork:false archived:false is:public pushed:>=2025-11-03 language:PowerShell` |
 | 2026-11-02 | [philliphoff/EncDotNet.S100](https://github.com/philliphoff/EncDotNet.S100) | 18 | C# | Libraries for manipulating S-100 based nautical charts. | `stars:3..50 fork:false archived:false is:public pushed:>=2025-11-02 language:C#` |
