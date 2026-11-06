@@ -16,13 +16,13 @@ Latest weekly scan: 2026-11-02.
 ## GitHub of the Day
 
 <!-- github-of-the-day:start -->
-Selected for 2026-11-05 from public, non-fork, non-archived repositories with recent activity. This is random and is not based on popularity.
+Selected for 2026-11-06 from public, non-fork, non-archived repositories with recent activity. This is random and is not based on popularity.
 
 | Repository | Stars | Language | Notes |
 | --- | ---: | --- | --- |
-| [maksimzayats/acodex](https://github.com/maksimzayats/acodex) | 58 | Python | Local MCP automation bridge for the Codex desktop app, with CLI, HTTP server, and live codex_app.* tool access. |
+| [nomadturk/vpn-adblock](https://github.com/nomadturk/vpn-adblock) | 55 | Shell | Adblocking with DNSMasq on a SoftEther VPN. |
 
-Selection query: `stars:51..250 fork:false archived:false is:public pushed:>=2025-11-05 language:Python`
+Selection query: `stars:51..250 fork:false archived:false is:public pushed:>=2025-11-06 language:Shell`
 <!-- github-of-the-day:end -->
 
 Past picks are saved in the [GitHub of the Day Archive](github-of-the-day-archive.md). Repositories need at least 3 stars to be eligible.
