@@ -6,6 +6,7 @@ Each row keeps the repository link, star count, primary language, site descripti
 
 | Date | Repository | Stars | Language | Site Description | Selection Query |
 | --- | --- | ---: | --- | --- | --- |
+| 2026-11-07 | [joshuaswarren/omarchy-apple-dev](https://github.com/joshuaswarren/omarchy-apple-dev) | 1,835 | Python | Build and deploy iOS SwiftUI apps from Omarchy Linux on any PC (x86_64 or Apple Silicon), no Xcode required | `stars:1001..5000 fork:false archived:false is:public pushed:>=2025-11-07 language:Python` |
 | 2026-11-06 | [nomadturk/vpn-adblock](https://github.com/nomadturk/vpn-adblock) | 55 | Shell | Adblocking with DNSMasq on a SoftEther VPN. | `stars:51..250 fork:false archived:false is:public pushed:>=2025-11-06 language:Shell` |
 | 2026-11-05 | [maksimzayats/acodex](https://github.com/maksimzayats/acodex) | 58 | Python | Local MCP automation bridge for the Codex desktop app, with CLI, HTTP server, and live codex_app.* tool access. | `stars:51..250 fork:false archived:false is:public pushed:>=2025-11-05 language:Python` |
 | 2026-11-04 | [bottlesdevs/components](https://github.com/bottlesdevs/components) | 96 | Shell | Repository for Bottles components | `stars:51..250 fork:false archived:false is:public pushed:>=2025-11-04 language:Shell` |

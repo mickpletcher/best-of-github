@@ -16,13 +16,13 @@ Latest weekly scan: 2026-11-02.
 ## GitHub of the Day
 
 <!-- github-of-the-day:start -->
-Selected for 2026-11-06 from public, non-fork, non-archived repositories with recent activity. This is random and is not based on popularity.
+Selected for 2026-11-07 from public, non-fork, non-archived repositories with recent activity. This is random and is not based on popularity.
 
 | Repository | Stars | Language | Notes |
 | --- | ---: | --- | --- |
-| [nomadturk/vpn-adblock](https://github.com/nomadturk/vpn-adblock) | 55 | Shell | Adblocking with DNSMasq on a SoftEther VPN. |
+| [joshuaswarren/omarchy-apple-dev](https://github.com/joshuaswarren/omarchy-apple-dev) | 1,835 | Python | Build and deploy iOS SwiftUI apps from Omarchy Linux on any PC (x86_64 or Apple Silicon), no Xcode required |
 
-Selection query: `stars:51..250 fork:false archived:false is:public pushed:>=2025-11-06 language:Shell`
+Selection query: `stars:1001..5000 fork:false archived:false is:public pushed:>=2025-11-07 language:Python`
 <!-- github-of-the-day:end -->
 
 Past picks are saved in the [GitHub of the Day Archive](github-of-the-day-archive.md). Repositories need at least 3 stars to be eligible.
