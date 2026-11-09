@@ -11,18 +11,18 @@ Star counts were refreshed on 2026-08-20.
 
 For the current automated rankings, see the weekly top 100 and weekly top 250 reports below.
 
-Latest weekly scan: 2026-11-02.
+Latest weekly scan: 2026-11-09.
 
 ## GitHub of the Day
 
 <!-- github-of-the-day:start -->
-Selected for 2026-11-08 from public, non-fork, non-archived repositories with recent activity. This is random and is not based on popularity.
+Selected for 2026-11-09 from public, non-fork, non-archived repositories with recent activity. This is random and is not based on popularity.
 
 | Repository | Stars | Language | Notes |
 | --- | ---: | --- | --- |
-| [OpenLiveWriter/OpenLiveWriter](https://github.com/OpenLiveWriter/OpenLiveWriter) | 2,541 | C# | An open source fork of Windows Live Writer |
+| [reclaim-the-stack/k-action](https://github.com/reclaim-the-stack/k-action) | 3 | Shell | Install and configure k inside GitHub actions |
 
-Selection query: `stars:1001..5000 fork:false archived:false is:public pushed:>=2025-11-08 language:C#`
+Selection query: `stars:3..50 fork:false archived:false is:public pushed:>=2025-11-09 language:Shell`
 <!-- github-of-the-day:end -->
 
 Past picks are saved in the [GitHub of the Day Archive](github-of-the-day-archive.md). Repositories need at least 3 stars to be eligible.
