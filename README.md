@@ -20,7 +20,7 @@ Selected for 2026-11-09 from public, non-fork, non-archived repositories with re
 
 | Repository | Stars | Language | Notes |
 | --- | ---: | --- | --- |
-| [reclaim-the-stack/k-action](https://github.com/reclaim-the-stack/k-action) | 3 | Shell | Install and configure k inside GitHub actions |
+| [raisedadead/dotfiles](https://github.com/raisedadead/dotfiles) | 13 | Shell | > Every-day carry for my systems. |
 
 Selection query: `stars:3..50 fork:false archived:false is:public pushed:>=2025-11-09 language:Shell`
 <!-- github-of-the-day:end -->
