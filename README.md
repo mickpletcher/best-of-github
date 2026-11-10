@@ -16,13 +16,13 @@ Latest weekly scan: 2026-11-09.
 ## GitHub of the Day
 
 <!-- github-of-the-day:start -->
-Selected for 2026-11-09 from public, non-fork, non-archived repositories with recent activity. This is random and is not based on popularity.
+Selected for 2026-11-10 from public, non-fork, non-archived repositories with recent activity. This is random and is not based on popularity.
 
 | Repository | Stars | Language | Notes |
 | --- | ---: | --- | --- |
-| [raisedadead/dotfiles](https://github.com/raisedadead/dotfiles) | 13 | Shell | > Every-day carry for my systems. |
+| [esphome/home-assistant-addon](https://github.com/esphome/home-assistant-addon) | 334 | Python | ESPHome Home Assistant Add-on |
 
-Selection query: `stars:3..50 fork:false archived:false is:public pushed:>=2025-11-09 language:Shell`
+Selection query: `stars:251..1000 fork:false archived:false is:public pushed:>=2025-11-10 language:Python`
 <!-- github-of-the-day:end -->
 
 Past picks are saved in the [GitHub of the Day Archive](github-of-the-day-archive.md). Repositories need at least 3 stars to be eligible.
