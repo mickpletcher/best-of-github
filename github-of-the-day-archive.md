@@ -6,6 +6,7 @@ Each row keeps the repository link, star count, primary language, site descripti
 
 | Date | Repository | Stars | Language | Site Description | Selection Query |
 | --- | --- | ---: | --- | --- | --- |
+| 2026-11-11 | [slaterain/nv-rs](https://github.com/slaterain/nv-rs) | 288 | Rust | Fallout: New Vegas rebuilt in Rust from the original game's code. Windows preview out now; needs your own copy of the game. | `stars:251..1000 fork:false archived:false is:public pushed:>=2025-11-11 language:Rust` |
 | 2026-11-10 | [esphome/home-assistant-addon](https://github.com/esphome/home-assistant-addon) | 334 | Python | ESPHome Home Assistant Add-on | `stars:251..1000 fork:false archived:false is:public pushed:>=2025-11-10 language:Python` |
 | 2026-11-09 | [raisedadead/dotfiles](https://github.com/raisedadead/dotfiles) | 13 | Shell | > Every-day carry for my systems. | `stars:3..50 fork:false archived:false is:public pushed:>=2025-11-09 language:Shell` |
 | 2026-11-08 | [OpenLiveWriter/OpenLiveWriter](https://github.com/OpenLiveWriter/OpenLiveWriter) | 2,541 | C# | An open source fork of Windows Live Writer | `stars:1001..5000 fork:false archived:false is:public pushed:>=2025-11-08 language:C#` |
