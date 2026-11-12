@@ -16,13 +16,13 @@ Latest weekly scan: 2026-11-09.
 ## GitHub of the Day
 
 <!-- github-of-the-day:start -->
-Selected for 2026-11-11 from public, non-fork, non-archived repositories with recent activity. This is random and is not based on popularity.
+Selected for 2026-11-12 from public, non-fork, non-archived repositories with recent activity. This is random and is not based on popularity.
 
 | Repository | Stars | Language | Notes |
 | --- | ---: | --- | --- |
-| [slaterain/nv-rs](https://github.com/slaterain/nv-rs) | 288 | Rust | Fallout: New Vegas rebuilt in Rust from the original game's code. Windows preview out now; needs your own copy of the game. |
+| [simplistix/testfixtures](https://github.com/simplistix/testfixtures) | 244 | Python | A collection of helpers and mock objects that are useful when writing automated tests in Python. |
 
-Selection query: `stars:251..1000 fork:false archived:false is:public pushed:>=2025-11-11 language:Rust`
+Selection query: `stars:51..250 fork:false archived:false is:public pushed:>=2025-11-12 language:Python`
 <!-- github-of-the-day:end -->
 
 Past picks are saved in the [GitHub of the Day Archive](github-of-the-day-archive.md). Repositories need at least 3 stars to be eligible.
