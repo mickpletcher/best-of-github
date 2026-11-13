@@ -6,6 +6,7 @@ Each row keeps the repository link, star count, primary language, site descripti
 
 | Date | Repository | Stars | Language | Site Description | Selection Query |
 | --- | --- | ---: | --- | --- | --- |
+| 2026-11-13 | [huynhsontung/Screenbox](https://github.com/huynhsontung/Screenbox) | 4,687 | C# | LibVLC-based media player for the Universal Windows Platform | `stars:1001..5000 fork:false archived:false is:public pushed:>=2025-11-13 language:C#` |
 | 2026-11-12 | [simplistix/testfixtures](https://github.com/simplistix/testfixtures) | 244 | Python | A collection of helpers and mock objects that are useful when writing automated tests in Python. | `stars:51..250 fork:false archived:false is:public pushed:>=2025-11-12 language:Python` |
 | 2026-11-11 | [slaterain/nv-rs](https://github.com/slaterain/nv-rs) | 288 | Rust | Fallout: New Vegas rebuilt in Rust from the original game's code. Windows preview out now; needs your own copy of the game. | `stars:251..1000 fork:false archived:false is:public pushed:>=2025-11-11 language:Rust` |
 | 2026-11-10 | [esphome/home-assistant-addon](https://github.com/esphome/home-assistant-addon) | 334 | Python | ESPHome Home Assistant Add-on | `stars:251..1000 fork:false archived:false is:public pushed:>=2025-11-10 language:Python` |

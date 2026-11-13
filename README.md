@@ -16,13 +16,13 @@ Latest weekly scan: 2026-11-09.
 ## GitHub of the Day
 
 <!-- github-of-the-day:start -->
-Selected for 2026-11-12 from public, non-fork, non-archived repositories with recent activity. This is random and is not based on popularity.
+Selected for 2026-11-13 from public, non-fork, non-archived repositories with recent activity. This is random and is not based on popularity.
 
 | Repository | Stars | Language | Notes |
 | --- | ---: | --- | --- |
-| [simplistix/testfixtures](https://github.com/simplistix/testfixtures) | 244 | Python | A collection of helpers and mock objects that are useful when writing automated tests in Python. |
+| [huynhsontung/Screenbox](https://github.com/huynhsontung/Screenbox) | 4,687 | C# | LibVLC-based media player for the Universal Windows Platform |
 
-Selection query: `stars:51..250 fork:false archived:false is:public pushed:>=2025-11-12 language:Python`
+Selection query: `stars:1001..5000 fork:false archived:false is:public pushed:>=2025-11-13 language:C#`
 <!-- github-of-the-day:end -->
 
 Past picks are saved in the [GitHub of the Day Archive](github-of-the-day-archive.md). Repositories need at least 3 stars to be eligible.
