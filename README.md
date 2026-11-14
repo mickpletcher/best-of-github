@@ -16,13 +16,13 @@ Latest weekly scan: 2026-11-09.
 ## GitHub of the Day
 
 <!-- github-of-the-day:start -->
-Selected for 2026-11-13 from public, non-fork, non-archived repositories with recent activity. This is random and is not based on popularity.
+Selected for 2026-11-14 from public, non-fork, non-archived repositories with recent activity. This is random and is not based on popularity.
 
 | Repository | Stars | Language | Notes |
 | --- | ---: | --- | --- |
-| [huynhsontung/Screenbox](https://github.com/huynhsontung/Screenbox) | 4,687 | C# | LibVLC-based media player for the Universal Windows Platform |
+| [zh54321/PoCEntraDeviceComplianceBypass](https://github.com/zh54321/PoCEntraDeviceComplianceBypass) | 170 | PowerShell | Simple pure PowerShell POC to bypass Entra / Intune Compliance Conditional Access Policy |
 
-Selection query: `stars:1001..5000 fork:false archived:false is:public pushed:>=2025-11-13 language:C#`
+Selection query: `stars:51..250 fork:false archived:false is:public pushed:>=2025-11-14 language:PowerShell`
 <!-- github-of-the-day:end -->
 
 Past picks are saved in the [GitHub of the Day Archive](github-of-the-day-archive.md). Repositories need at least 3 stars to be eligible.
