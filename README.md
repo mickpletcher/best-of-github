@@ -16,13 +16,13 @@ Latest weekly scan: 2026-11-09.
 ## GitHub of the Day
 
 <!-- github-of-the-day:start -->
-Selected for 2026-11-14 from public, non-fork, non-archived repositories with recent activity. This is random and is not based on popularity.
+Selected for 2026-11-15 from public, non-fork, non-archived repositories with recent activity. This is random and is not based on popularity.
 
 | Repository | Stars | Language | Notes |
 | --- | ---: | --- | --- |
-| [zh54321/PoCEntraDeviceComplianceBypass](https://github.com/zh54321/PoCEntraDeviceComplianceBypass) | 170 | PowerShell | Simple pure PowerShell POC to bypass Entra / Intune Compliance Conditional Access Policy |
+| [C2SP/wycheproof](https://github.com/C2SP/wycheproof) | 3,146 | Go | Project Wycheproof tests crypto libraries against known attacks. |
 
-Selection query: `stars:51..250 fork:false archived:false is:public pushed:>=2025-11-14 language:PowerShell`
+Selection query: `stars:1001..5000 fork:false archived:false is:public pushed:>=2025-11-15 language:Go`
 <!-- github-of-the-day:end -->
 
 Past picks are saved in the [GitHub of the Day Archive](github-of-the-day-archive.md). Repositories need at least 3 stars to be eligible.
