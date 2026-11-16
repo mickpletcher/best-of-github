@@ -11,18 +11,18 @@ Star counts were refreshed on 2026-08-20.
 
 For the current automated rankings, see the weekly top 100 and weekly top 250 reports below.
 
-Latest weekly scan: 2026-11-09.
+Latest weekly scan: 2026-11-16.
 
 ## GitHub of the Day
 
 <!-- github-of-the-day:start -->
-Selected for 2026-11-15 from public, non-fork, non-archived repositories with recent activity. This is random and is not based on popularity.
+Selected for 2026-11-16 from public, non-fork, non-archived repositories with recent activity. This is random and is not based on popularity.
 
 | Repository | Stars | Language | Notes |
 | --- | ---: | --- | --- |
-| [C2SP/wycheproof](https://github.com/C2SP/wycheproof) | 3,146 | Go | Project Wycheproof tests crypto libraries against known attacks. |
+| [aymericzip/intlayer](https://github.com/aymericzip/intlayer) | 867 | TypeScript | Per-component Internationalisation solution for JS application. Type-Safe. Translate with AI. Edit Visually. |
 
-Selection query: `stars:1001..5000 fork:false archived:false is:public pushed:>=2025-11-15 language:Go`
+Selection query: `stars:251..1000 fork:false archived:false is:public pushed:>=2025-11-16 language:TypeScript`
 <!-- github-of-the-day:end -->
 
 Past picks are saved in the [GitHub of the Day Archive](github-of-the-day-archive.md). Repositories need at least 3 stars to be eligible.
