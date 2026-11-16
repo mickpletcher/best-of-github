@@ -20,7 +20,7 @@ Selected for 2026-11-16 from public, non-fork, non-archived repositories with re
 
 | Repository | Stars | Language | Notes |
 | --- | ---: | --- | --- |
-| [aymericzip/intlayer](https://github.com/aymericzip/intlayer) | 867 | TypeScript | Per-component Internationalisation solution for JS application. Type-Safe. Translate with AI. Edit Visually. |
+| [awslabs/threat-composer](https://github.com/awslabs/threat-composer) | 797 | TypeScript | A simple threat modeling tool to help humans to reduce time-to-value when threat modeling |
 
 Selection query: `stars:251..1000 fork:false archived:false is:public pushed:>=2025-11-16 language:TypeScript`
 <!-- github-of-the-day:end -->
