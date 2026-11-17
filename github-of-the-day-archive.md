@@ -6,6 +6,7 @@ Each row keeps the repository link, star count, primary language, site descripti
 
 | Date | Repository | Stars | Language | Site Description | Selection Query |
 | --- | --- | ---: | --- | --- | --- |
+| 2026-11-17 | [windsorcli/terraform-provider-hyperv](https://github.com/windsorcli/terraform-provider-hyperv) | 8 | Go | A terraform provider for managing the lifecycle of hyperv virtual machines | `stars:3..50 fork:false archived:false is:public pushed:>=2025-11-17 language:Go` |
 | 2026-11-16 | [awslabs/threat-composer](https://github.com/awslabs/threat-composer) | 797 | TypeScript | A simple threat modeling tool to help humans to reduce time-to-value when threat modeling | `stars:251..1000 fork:false archived:false is:public pushed:>=2025-11-16 language:TypeScript` |
 | 2026-11-15 | [C2SP/wycheproof](https://github.com/C2SP/wycheproof) | 3,146 | Go | Project Wycheproof tests crypto libraries against known attacks. | `stars:1001..5000 fork:false archived:false is:public pushed:>=2025-11-15 language:Go` |
 | 2026-11-14 | [zh54321/PoCEntraDeviceComplianceBypass](https://github.com/zh54321/PoCEntraDeviceComplianceBypass) | 170 | PowerShell | Simple pure PowerShell POC to bypass Entra / Intune Compliance Conditional Access Policy | `stars:51..250 fork:false archived:false is:public pushed:>=2025-11-14 language:PowerShell` |

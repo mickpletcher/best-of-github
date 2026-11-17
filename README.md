@@ -16,13 +16,13 @@ Latest weekly scan: 2026-11-16.
 ## GitHub of the Day
 
 <!-- github-of-the-day:start -->
-Selected for 2026-11-16 from public, non-fork, non-archived repositories with recent activity. This is random and is not based on popularity.
+Selected for 2026-11-17 from public, non-fork, non-archived repositories with recent activity. This is random and is not based on popularity.
 
 | Repository | Stars | Language | Notes |
 | --- | ---: | --- | --- |
-| [awslabs/threat-composer](https://github.com/awslabs/threat-composer) | 797 | TypeScript | A simple threat modeling tool to help humans to reduce time-to-value when threat modeling |
+| [windsorcli/terraform-provider-hyperv](https://github.com/windsorcli/terraform-provider-hyperv) | 8 | Go | A terraform provider for managing the lifecycle of hyperv virtual machines |
 
-Selection query: `stars:251..1000 fork:false archived:false is:public pushed:>=2025-11-16 language:TypeScript`
+Selection query: `stars:3..50 fork:false archived:false is:public pushed:>=2025-11-17 language:Go`
 <!-- github-of-the-day:end -->
 
 Past picks are saved in the [GitHub of the Day Archive](github-of-the-day-archive.md). Repositories need at least 3 stars to be eligible.
