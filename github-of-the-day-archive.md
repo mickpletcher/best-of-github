@@ -6,6 +6,7 @@ Each row keeps the repository link, star count, primary language, site descripti
 
 | Date | Repository | Stars | Language | Site Description | Selection Query |
 | --- | --- | ---: | --- | --- | --- |
+| 2026-11-18 | [eval-exec/neomacs](https://github.com/eval-exec/neomacs) | 1,808 | Rust | NEO Emacs (WIP): GPU powered Emacs written in Rust with a modern display engine. Aiming for modern design & multi-threaded Elisp, 10x performance, zero-pause concurrent GC and 100% Emacs compatibility. | `stars:1001..5000 fork:false archived:false is:public pushed:>=2025-11-18 language:Rust` |
 | 2026-11-17 | [windsorcli/terraform-provider-hyperv](https://github.com/windsorcli/terraform-provider-hyperv) | 8 | Go | A terraform provider for managing the lifecycle of hyperv virtual machines | `stars:3..50 fork:false archived:false is:public pushed:>=2025-11-17 language:Go` |
 | 2026-11-16 | [awslabs/threat-composer](https://github.com/awslabs/threat-composer) | 797 | TypeScript | A simple threat modeling tool to help humans to reduce time-to-value when threat modeling | `stars:251..1000 fork:false archived:false is:public pushed:>=2025-11-16 language:TypeScript` |
 | 2026-11-15 | [C2SP/wycheproof](https://github.com/C2SP/wycheproof) | 3,146 | Go | Project Wycheproof tests crypto libraries against known attacks. | `stars:1001..5000 fork:false archived:false is:public pushed:>=2025-11-15 language:Go` |

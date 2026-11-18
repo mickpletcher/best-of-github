@@ -16,13 +16,13 @@ Latest weekly scan: 2026-11-16.
 ## GitHub of the Day
 
 <!-- github-of-the-day:start -->
-Selected for 2026-11-17 from public, non-fork, non-archived repositories with recent activity. This is random and is not based on popularity.
+Selected for 2026-11-18 from public, non-fork, non-archived repositories with recent activity. This is random and is not based on popularity.
 
 | Repository | Stars | Language | Notes |
 | --- | ---: | --- | --- |
-| [windsorcli/terraform-provider-hyperv](https://github.com/windsorcli/terraform-provider-hyperv) | 8 | Go | A terraform provider for managing the lifecycle of hyperv virtual machines |
+| [eval-exec/neomacs](https://github.com/eval-exec/neomacs) | 1,808 | Rust | NEO Emacs (WIP): GPU powered Emacs written in Rust with a modern display engine. Aiming for modern design & multi-threaded Elisp, 10x performance, zero-pause concurrent GC and 100% Emacs compatibility. |
 
-Selection query: `stars:3..50 fork:false archived:false is:public pushed:>=2025-11-17 language:Go`
+Selection query: `stars:1001..5000 fork:false archived:false is:public pushed:>=2025-11-18 language:Rust`
 <!-- github-of-the-day:end -->
 
 Past picks are saved in the [GitHub of the Day Archive](github-of-the-day-archive.md). Repositories need at least 3 stars to be eligible.
