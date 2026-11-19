@@ -16,13 +16,13 @@ Latest weekly scan: 2026-11-16.
 ## GitHub of the Day
 
 <!-- github-of-the-day:start -->
-Selected for 2026-11-18 from public, non-fork, non-archived repositories with recent activity. This is random and is not based on popularity.
+Selected for 2026-11-19 from public, non-fork, non-archived repositories with recent activity. This is random and is not based on popularity.
 
 | Repository | Stars | Language | Notes |
 | --- | ---: | --- | --- |
-| [eval-exec/neomacs](https://github.com/eval-exec/neomacs) | 1,808 | Rust | NEO Emacs (WIP): GPU powered Emacs written in Rust with a modern display engine. Aiming for modern design & multi-threaded Elisp, 10x performance, zero-pause concurrent GC and 100% Emacs compatibility. |
+| [caiyuanhao1998/HDR-GS](https://github.com/caiyuanhao1998/HDR-GS) | 383 | Python | "HDR-GS: Efficient High Dynamic Range Novel View Synthesis at 1000x Speed via Gaussian Splatting" (NeurIPS 2024) |
 
-Selection query: `stars:1001..5000 fork:false archived:false is:public pushed:>=2025-11-18 language:Rust`
+Selection query: `stars:251..1000 fork:false archived:false is:public pushed:>=2025-11-19 language:Python`
 <!-- github-of-the-day:end -->
 
 Past picks are saved in the [GitHub of the Day Archive](github-of-the-day-archive.md). Repositories need at least 3 stars to be eligible.
