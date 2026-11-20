@@ -16,13 +16,13 @@ Latest weekly scan: 2026-11-16.
 ## GitHub of the Day
 
 <!-- github-of-the-day:start -->
-Selected for 2026-11-19 from public, non-fork, non-archived repositories with recent activity. This is random and is not based on popularity.
+Selected for 2026-11-20 from public, non-fork, non-archived repositories with recent activity. This is random and is not based on popularity.
 
 | Repository | Stars | Language | Notes |
 | --- | ---: | --- | --- |
-| [caiyuanhao1998/HDR-GS](https://github.com/caiyuanhao1998/HDR-GS) | 383 | Python | "HDR-GS: Efficient High Dynamic Range Novel View Synthesis at 1000x Speed via Gaussian Splatting" (NeurIPS 2024) |
+| [RabbyHub/Rabby](https://github.com/RabbyHub/Rabby) | 1,939 | TypeScript | The game-changing wallet for Ethereum and all EVM chains |
 
-Selection query: `stars:251..1000 fork:false archived:false is:public pushed:>=2025-11-19 language:Python`
+Selection query: `stars:1001..5000 fork:false archived:false is:public pushed:>=2025-11-20 language:TypeScript`
 <!-- github-of-the-day:end -->
 
 Past picks are saved in the [GitHub of the Day Archive](github-of-the-day-archive.md). Repositories need at least 3 stars to be eligible.
