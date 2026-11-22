@@ -6,6 +6,7 @@ Each row keeps the repository link, star count, primary language, site descripti
 
 | Date | Repository | Stars | Language | Site Description | Selection Query |
 | --- | --- | ---: | --- | --- | --- |
+| 2026-11-22 | [marimo-team/marimo-pair](https://github.com/marimo-team/marimo-pair) | 436 | Shell | Drop agents inside running marimo notebook sessions | `stars:251..1000 fork:false archived:false is:public pushed:>=2025-11-22 language:Shell` |
 | 2026-11-21 | [oclif/plugin-help](https://github.com/oclif/plugin-help) | 24 | TypeScript | standard help for oclif | `stars:3..50 fork:false archived:false is:public pushed:>=2025-11-21 language:TypeScript` |
 | 2026-11-20 | [RabbyHub/Rabby](https://github.com/RabbyHub/Rabby) | 1,939 | TypeScript | The game-changing wallet for Ethereum and all EVM chains | `stars:1001..5000 fork:false archived:false is:public pushed:>=2025-11-20 language:TypeScript` |
 | 2026-11-19 | [caiyuanhao1998/HDR-GS](https://github.com/caiyuanhao1998/HDR-GS) | 383 | Python | "HDR-GS: Efficient High Dynamic Range Novel View Synthesis at 1000x Speed via Gaussian Splatting" (NeurIPS 2024) | `stars:251..1000 fork:false archived:false is:public pushed:>=2025-11-19 language:Python` |
