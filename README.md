@@ -11,18 +11,18 @@ Star counts were refreshed on 2026-08-20.
 
 For the current automated rankings, see the weekly top 100 and weekly top 250 reports below.
 
-Latest weekly scan: 2026-11-16.
+Latest weekly scan: 2026-11-23.
 
 ## GitHub of the Day
 
 <!-- github-of-the-day:start -->
-Selected for 2026-11-22 from public, non-fork, non-archived repositories with recent activity. This is random and is not based on popularity.
+Selected for 2026-11-23 from public, non-fork, non-archived repositories with recent activity. This is random and is not based on popularity.
 
 | Repository | Stars | Language | Notes |
 | --- | ---: | --- | --- |
-| [marimo-team/marimo-pair](https://github.com/marimo-team/marimo-pair) | 436 | Shell | Drop agents inside running marimo notebook sessions |
+| [JasonCook599/TecticPS](https://github.com/JasonCook599/TecticPS) | 3 | PowerShell | This is a collection of scripts used for day to day management of IT resources. |
 
-Selection query: `stars:251..1000 fork:false archived:false is:public pushed:>=2025-11-22 language:Shell`
+Selection query: `stars:3..50 fork:false archived:false is:public pushed:>=2025-11-23 language:PowerShell`
 <!-- github-of-the-day:end -->
 
 Past picks are saved in the [GitHub of the Day Archive](github-of-the-day-archive.md). Repositories need at least 3 stars to be eligible.
