@@ -16,13 +16,13 @@ Latest weekly scan: 2026-11-23.
 ## GitHub of the Day
 
 <!-- github-of-the-day:start -->
-Selected for 2026-11-23 from public, non-fork, non-archived repositories with recent activity. This is random and is not based on popularity.
+Selected for 2026-11-24 from public, non-fork, non-archived repositories with recent activity. This is random and is not based on popularity.
 
 | Repository | Stars | Language | Notes |
 | --- | ---: | --- | --- |
-| [JasonCook599/TecticPS](https://github.com/JasonCook599/TecticPS) | 3 | PowerShell | This is a collection of scripts used for day to day management of IT resources. |
+| [Ay1man2/Wintainium](https://github.com/Ay1man2/Wintainium) | 12 | PowerShell | Obtainium-style app manager for Windows: track, install and update emulators, PC ports, mods and tools straight from their release pages. |
 
-Selection query: `stars:3..50 fork:false archived:false is:public pushed:>=2025-11-23 language:PowerShell`
+Selection query: `stars:3..50 fork:false archived:false is:public pushed:>=2025-11-24 language:PowerShell`
 <!-- github-of-the-day:end -->
 
 Past picks are saved in the [GitHub of the Day Archive](github-of-the-day-archive.md). Repositories need at least 3 stars to be eligible.
