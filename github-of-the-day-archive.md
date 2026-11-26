@@ -6,6 +6,7 @@ Each row keeps the repository link, star count, primary language, site descripti
 
 | Date | Repository | Stars | Language | Site Description | Selection Query |
 | --- | --- | ---: | --- | --- | --- |
+| 2026-11-26 | [ShippedLabs/soroban-upgrade-safeguard](https://github.com/ShippedLabs/soroban-upgrade-safeguard) | 5 | Rust | A Rust-based analysis tool for Soroban smart contracts that compares WASM builds and detects risky upgrade changes before deployment. It flags storage layout breaks, permission escalations, missing migration logic, and produces an overall upgrade risk score to help developers ship safer Stellar contract updates. | `stars:3..50 fork:false archived:false is:public pushed:>=2025-11-26 language:Rust` |
 | 2026-11-25 | [tabs-not-spaces/CodeDump](https://github.com/tabs-not-spaces/CodeDump) | 125 | PowerShell | things that help me. might help others. | `stars:51..250 fork:false archived:false is:public pushed:>=2025-11-25 language:PowerShell` |
 | 2026-11-24 | [Ay1man2/Wintainium](https://github.com/Ay1man2/Wintainium) | 12 | PowerShell | Obtainium-style app manager for Windows: track, install and update emulators, PC ports, mods and tools straight from their release pages. | `stars:3..50 fork:false archived:false is:public pushed:>=2025-11-24 language:PowerShell` |
 | 2026-11-23 | [JasonCook599/TecticPS](https://github.com/JasonCook599/TecticPS) | 3 | PowerShell | This is a collection of scripts used for day to day management of IT resources. | `stars:3..50 fork:false archived:false is:public pushed:>=2025-11-23 language:PowerShell` |

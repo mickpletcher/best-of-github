@@ -16,13 +16,13 @@ Latest weekly scan: 2026-11-23.
 ## GitHub of the Day
 
 <!-- github-of-the-day:start -->
-Selected for 2026-11-25 from public, non-fork, non-archived repositories with recent activity. This is random and is not based on popularity.
+Selected for 2026-11-26 from public, non-fork, non-archived repositories with recent activity. This is random and is not based on popularity.
 
 | Repository | Stars | Language | Notes |
 | --- | ---: | --- | --- |
-| [tabs-not-spaces/CodeDump](https://github.com/tabs-not-spaces/CodeDump) | 125 | PowerShell | things that help me. might help others. |
+| [ShippedLabs/soroban-upgrade-safeguard](https://github.com/ShippedLabs/soroban-upgrade-safeguard) | 5 | Rust | A Rust-based analysis tool for Soroban smart contracts that compares WASM builds and detects risky upgrade changes before deployment. It flags storage layout breaks, permission escalations, missing migration logic, and produces an overall upgrade risk score to help developers ship safer Stellar contract updates. |
 
-Selection query: `stars:51..250 fork:false archived:false is:public pushed:>=2025-11-25 language:PowerShell`
+Selection query: `stars:3..50 fork:false archived:false is:public pushed:>=2025-11-26 language:Rust`
 <!-- github-of-the-day:end -->
 
 Past picks are saved in the [GitHub of the Day Archive](github-of-the-day-archive.md). Repositories need at least 3 stars to be eligible.
