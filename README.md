@@ -16,13 +16,13 @@ Latest weekly scan: 2026-11-23.
 ## GitHub of the Day
 
 <!-- github-of-the-day:start -->
-Selected for 2026-11-27 from public, non-fork, non-archived repositories with recent activity. This is random and is not based on popularity.
+Selected for 2026-11-28 from public, non-fork, non-archived repositories with recent activity. This is random and is not based on popularity.
 
 | Repository | Stars | Language | Notes |
 | --- | ---: | --- | --- |
-| [guilhermehenn/winforge](https://github.com/guilhermehenn/winforge) | 116 | PowerShell | Free, open-source Windows 10/11 maintenance tool in PowerShell: cleanup, repair, updates, security checks and app management via winget, with alerts before problems. Portuguese, English and Spanish. |
+| [BerriAI/moyai](https://github.com/BerriAI/moyai) | 353 | Python | A self-hosted coding agent for background work - works with Claude Code, Codex, OpenCode & 100+ providers |
 
-Selection query: `stars:51..250 fork:false archived:false is:public pushed:>=2025-11-27 language:PowerShell`
+Selection query: `stars:251..1000 fork:false archived:false is:public pushed:>=2025-11-28 language:Python`
 <!-- github-of-the-day:end -->
 
 Past picks are saved in the [GitHub of the Day Archive](github-of-the-day-archive.md). Repositories need at least 3 stars to be eligible.
